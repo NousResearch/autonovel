@@ -277,7 +277,7 @@ def run_foundation(state: dict) -> dict:
         step(f"Foundation score: {score}  (lore: {lore}, prev best: {best_score})")
 
         # 3. Keep or discard
-        if score > best_score:
+        if score >= best_score:
             commit_hash = git_add_commit(
                 f"foundation iter {i}: score {score} (lore {lore})")
             log_result(commit_hash, "foundation", score, 0, "keep",
