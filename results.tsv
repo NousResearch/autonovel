@@ -98,3 +98,4 @@ dd5ac88	ch15	8.0	2340	keep	Chapter 15 (attempt 1)
 e637ecf	ch23	7.8	3205	keep	Chapter 23 (attempt 1)
 e4fe8a8	ch24	8.0	3205	keep	Chapter 24 (attempt 1)
 reverted	rev-ch10	6.0	1268	discard	Cycle 1: momentum_loss regressed 6.3->6.0
+b548e4e	rev-ch11	8.0	1573	keep	Cycle 1: momentum_loss improved 7.2->8.0
