@@ -93,3 +93,6 @@ RULES:
 print("Calling writer model...", file=sys.stderr)
 result = call_writer(prompt)
 print(result)
+
+with open('canon.md', 'w') as f:
+    f.write(result)
