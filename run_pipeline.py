@@ -251,16 +251,16 @@ def run_foundation(state: dict) -> dict:
 
         # 1. Generate planning documents
         step("Generating world bible...")
-        uv_run("gen_world.py", timeout=300)
+        uv_run("gen_world.py", timeout=600)
 
         step("Generating characters...")
-        uv_run("gen_characters.py", timeout=300)
+        uv_run("gen_characters.py", timeout=600)
 
         step("Generating outline (part 1)...")
-        uv_run("gen_outline.py", timeout=300)
+        uv_run("gen_outline.py", timeout=900)
 
         step("Generating outline (part 2 — foreshadowing)...")
-        uv_run("gen_outline_part2.py", timeout=300)
+        uv_run("gen_outline_part2.py", timeout=600)
 
         step("Generating canon...")
         uv_run("gen_canon.py", timeout=300)
