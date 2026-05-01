@@ -1,567 +1,521 @@
-# CHARACTERS.MD
-## "Every Dog Has Its Day" — Character Registry
-
-> **A note on scope:** The characters listed below are the actual people of this story. The framework tools (wound/want/need/lie, three sliders, dialogue dimensions) are applied to real individuals whose lives are documented in public record and in the Paynes' own accounts. This document treats them with the rigor those tools demand and the respect those lives deserve. Where the framework reveals something about a person, it is because that person earned the revelation by living it.
+# CHARACTERS.MD — "Every Dog Has Its Day"
+## The Definitive Character Registry
 
 ---
 
-## Registry Index
-
-1. Jim Payne — Protagonist
-2. Andrea Payne — Co-Protagonist
-3. Andy Payne — Supporting / Catalyst
-4. Dottie Watts Leonard — Supporting / Connective Tissue
-5. Cassie and Gracie — The Honest Narrators
-6. Mayor Michael Leake — Institutional Figure
-7. Councilman Shannon — The Civic Philosopher
+> **A note on scope:** This novel is narrative nonfiction. The characters here are real people. The framework below — wound/want/need/lie, the three sliders, the speech pattern analysis — is applied in service of rendering them truthfully on the page, not fictionalizing them. Every inference about internal life is grounded in documented behavior: what they said at public meetings, what they built, what they showed up for, what they didn't quit.
 
 ---
 
-## 1. JIM PAYNE
+## CHARACTER ONE: Jim Payne
 
-**Age:** Mid-50s (at story's center, 2019–2020)
-**Role:** Protagonist, co-owner of A Pup's Valley, husband, father, citizen
+**Age:** Late 40s–early 50s at story's start (2019)
+**Role:** Co-protagonist, POV character, co-owner of A Pup's Valley
+**Arc Type:** Flat arc — Jim does not change his core values; he tests them against a world that tries to break them, and they hold.
 
 ---
 
-### Ghost / Wound / Want / Need / Lie
+### Ghost / Wound / Want / Need / Lie Chain
 
-**Ghost:** Jim built something excellent before — an award-winning pet care facility — and then had to leave it. The circumstances of that departure are not the point. The point is what it taught him: that you can do everything right and still lose the thing you built, if the conditions around it aren't right. If the community isn't yours. If you're building in someone else's town instead of your own.
+**Ghost:** Jim built something before. An award-winning pet care facility, built from the same instincts, the same work ethic, the same belief in doing it right. It succeeded. And then — for reasons the novel will develop — it was behind him. Not failure. A chapter that closed. He carries the knowledge of what it took and the particular heaviness of a man who has proven something to himself and then had to start proving it again.
 
-**Wound:** A low-grade, never-quite-spoken fear that competence is not sufficient protection. That you can know exactly what you're doing and still have it taken from you by forces — economic, viral, bureaucratic — that don't care how good you are.
+**Wound:** He knows exactly what he's capable of, which means he knows exactly what it costs. The first time, he learned the price. The second time, he's paying it with full knowledge of the bill.
 
-**Lie:** *If I do everything right, I can control the outcome.* This is the engineer's lie, the detail-oriented man's lie. Read the agenda. Know the councilmembers' names. Get low with every dog. Prepare for every contingency. The lie is not that preparation is worthless — it isn't. The lie is that it's enough.
+**Lie:** *If I do everything right — every permit, every detail, every connection — I can control the outcome.* Jim is a man who reads the agenda before the meeting. Who makes notes in the margins. Who believes, in the marrow, that preparation is protection.
 
-**Want:** To build something in a community he actually belongs to, that will stand because the community stands with it. To make A Pup's Valley permanent.
+**Want:** To build A Pup's Valley into the finest dog daycare in the mid-Atlantic. Not just good. A step above the rest. The external goal is specific and measurable: excellence, recognition, a business that earns what it claims.
 
-**Need:** To accept that permanence is earned through relationship, not execution. That the thing keeping A Pup's Valley alive through the pandemic is not Jim's operational excellence — it is the fact that Andrea stood in those chambers and told the truth, and the town remembered.
+**Need:** To accept that love — for dogs, for community, for Andrea, for Andy — is not a system. It cannot be optimized. The pandemic will teach him this. The dogs already know it. His need is to stop managing his care and simply give it.
 
-**Arc Type:** Positive. Jim begins the story believing that doing the work is the work. He ends it understanding that the work is also showing up for other people — at Dottie's funeral, at the Council meeting for a hotel he doesn't personally need, at the podium when it's Andrea's turn to speak and he's the one who drove her there.
+**Truth (Lie's opposite):** *Preparation is not protection. Showing up is. And showing up is something you choose, not something you engineer.*
 
 ---
 
 ### Three Sliders
 
-**Proactivity: 8/10**
-Jim initiates. He reads the agenda before the meeting. He speaks at Citizens Time not because someone asked him to but because he formed an opinion and a citizen with an opinion goes to the podium. He calls Dottie in the hospital. He drives to the school pickup that produces the name. He does not wait for things to come to him.
+**Proactivity: 9/10**
+Jim drives plot. He chooses Haymarket deliberately. He reads the agenda. He goes to the microphone. He calls Dottie from the hospital. He does not wait for things to happen to him. The one point he doesn't have: he couldn't control the pandemic, and he knew it, and he showed up anyway.
 
-**Likability: 9/10**
-The dog whisperer quality is the key. A man who gets low and quiet around a frightened animal — who meets every dog fully, on the dog's terms — is a man the reader trusts before he's said a word. His likability is not performed warmth. It is attention, paid to creatures who can tell the difference.
+**Likability: 8/10**
+The dog whisperer quality makes him immediately sympathetic — there is something about a person who gets low and quiet for a nervous animal that reads as fundamentally decent. He's not warm in a performed way. He's warm in a competent way, which is more convincing.
 
 **Competence: 9/10**
-He has done this before. He knows staff ratios and intake protocols and the difference between a facility that keeps dogs safe and one that makes them happy. His competence is the foundation of his wound: he knows exactly how good he is, and he knows that it wasn't enough to protect the first place he built. That knowledge makes him simultaneously more prepared and more afraid.
+He has done this before. He knows the industry, the permits, the zoning process, the daily mechanics of running a facility. His competence is not in question — it is the foundation everything else stands on.
 
 ---
 
 ### Speech Pattern (8 Dimensions)
 
-1. **Vocabulary level:** Professional-practical. He knows the right word for the right thing and uses it without flourish. "Conditional use permit" and "play yard" in the same sentence, neither one elevated above the other.
-
-2. **Sentence length:** Medium-short. He thinks in complete thoughts and delivers them complete. No trailing off. No circling back to finish something he started.
-
-3. **Contractions/formality:** Moderate contractions in conversation, fewer in public settings. At the podium, he is precise. At home, he is warmer but still economical.
-
-4. **Verbal tics:** He goes quiet before he says something that matters. Not a pause — a stillness. The room notices it before he speaks.
-
-5. **Question vs. statement ratio:** Mostly statements. His questions are genuine requests for information, not rhetorical devices. When he asks, he wants the answer.
-
-6. **Interruption patterns:** He does not interrupt. He waits. This is sometimes mistaken for passivity. It is not passivity.
-
-7. **Metaphor domain:** Dogs. Physical space. Construction. He describes emotional situations in terms of how a space is built or how an animal behaves. *She was like a dog who'd been in a bad kennel — took her a while to believe the door was actually open.*
-
-8. **Directness:** Very direct. He says what he means. He does not use indirectness as social lubricant. This occasionally makes him seem blunt to people who don't know him. People who know him understand that it is a form of respect.
+1. **Vocabulary level:** Precise, mid-register. He uses the right word, not the impressive one. "Drainage easement" not because he's showing off — because that's what it's called.
+2. **Sentence length:** Medium to short. He doesn't trail off. He finishes thoughts.
+3. **Contractions/formality:** Contracts naturally in conversation. Slightly more formal in public settings — not stiff, but deliberate. He knows when he's on record.
+4. **Verbal tics:** Tends to repeat the operative word back before responding. Someone says *what do you think about the parking situation* and Jim says *the parking situation* — then answers. It's not stalling. It's how he processes.
+5. **Question vs statement ratio:** Mostly statements. When he asks questions, they're specific. Not "what do you think?" but "what did the Town Planner say about the setback?"
+6. **Interruption patterns:** Almost never interrupts. Waits. This reads as patience but is actually precision — he's waiting for the moment when he has something worth saying.
+7. **Metaphor domain:** Draws from the physical and the procedural. Not poetic. "You have to lay the foundation before you build the walls" is the kind of thing Jim says, and he means it literally as much as figuratively.
+8. **Directness vs indirectness:** Direct. He says what he came to say. At Citizens Time, he said he supported the hotel. Not "I think there are some interesting aspects to the hotel proposal." He supported it. Done.
 
 **Example lines:**
-
-> "I read the agenda. The hotel item is third. We should be there by seven-fifteen."
-
-> "Every dog has a tell. You just have to be quiet long enough to see it."
-
-> "I called her in the hospital. She thought I was a buyer. She was ready to show the property." *(pause)* "That's who she was."
-
-> "Andy said it from the back seat. I didn't say anything. I just drove. The name was right. You know when a name is right."
-
-**No-tags test:** Jim's dialogue is identifiable by its completeness, its stillness before the important line, and its absence of social padding. He does not say "I mean" or "you know" or "kind of." He says the thing.
+- "The setback's the issue. If we can get the Town Planner to look at the survey again, we have room."
+- "I've done this before. I know what it takes. That's not arrogance — that's the reason we're here."
+- "Every dog I've met in this building has had a good day. That's the standard. That's what we're keeping."
+- *(on the phone with Dottie, near the end)* "I just wanted to hear your voice."
 
 ---
 
 ### Physical Appearance
 
-Medium height, solid build — the build of someone who has spent years moving through spaces on his knees, getting low to meet animals at their level. His hands are the most expressive thing about him: large, careful, the hands of someone who knows how to hold something without gripping it. His face is readable but not demonstrative. He looks like a man who is always paying attention, which is because he always is.
+Medium height, built like a man who has spent years doing physical work — not gym-built, labor-built. His hands are the most expressive thing about him: large, careful, the hands of someone who handles animals and tools and paperwork with equal deliberateness. Hair going gray at the temples. He dresses practically — nothing he'd be embarrassed to kneel down in, because he kneels down regularly. His face is the kind that looks younger when he smiles and older when he's thinking hard.
 
 ---
 
 ### Physical Habits and Unconscious Tells
 
-- Gets low — genuinely low, knees on the floor — when he meets a new dog. He does not crouch. He sits.
-- Reads any printed agenda or document before a meeting begins, even if he's read it before.
-- Goes still, not quiet, before he says something that matters. The stillness is in his hands first.
-- When he's worried, he occupies himself with something physical and useful. Checking the facility. Walking the perimeter. Doing the thing that can be done.
-- Makes eye contact when he's listening. Looks away, briefly, when he's thinking.
+- Gets physically lower when meeting a new dog — not just crouching, but his whole body shifts to become less threatening. He does this automatically, without thinking.
+- Reads printed documents rather than screens when he can. The margin notes are in small, even handwriting.
+- When he's working through a problem, he goes quiet in a way that is clearly not checked-out — his eyes are active. Andrea knows the difference. Most people don't.
+- Taps the table once when he's made a decision. Not a drumroll. One tap. That's it.
 
 ---
 
 ### Secrets
 
-1. **He knows, and has never said aloud, that the first facility's loss was partly his fault.** Not through incompetence — through choosing the wrong community. He built something excellent in a place that wasn't his. Haymarket is the correction. The deliberateness of choosing Haymarket is the correction. He has never framed it this way to Andrea because she already knows, and because some corrections don't need to be named.
+**Secret One:** The full story of the previous facility — what it cost, why it ended, what he learned that he has never said out loud. The novel doesn't need to reveal all of it. But Jim carries it, and it shows in how carefully he does everything the second time.
 
-2. **He was more frightened during the pandemic shutdown than he showed.** Andrea was the one who spoke at the Council meeting. Jim was the one who drove her there and sat in the back and watched and did not show what it cost him to watch his wife stand at that podium and tell the truth about how close they were to losing everything. He held that fear alone, in the way that people who do not want to add to someone else's burden hold things alone.
+**Secret Two:** He knew, when he called Dottie in the hospital, that it was probably the last time. He didn't tell Andrea he knew. He made the call alone, in the way that people sometimes take the hardest things on themselves to protect the people they love.
 
 ---
 
 ### Key Relationships
 
-- **Andrea:** The load-bearing relationship. Expressed in action, not declaration. He drives her to the meeting. She speaks. Neither one has to explain this to the other.
-- **Andy:** Jim listens to Andy the way he listens to dogs — fully, without filtering for what he expects. This is why he heard the name from the back seat.
-- **Dottie:** Mentor figure, though neither of them would have used that word. She knew the town. He was learning it. She vouched for him because he showed up before he needed anything.
-- **The dogs:** His most honest relationships. Dogs do not perform for Jim. They respond to him. This is the relationship he trusts most completely.
+- **Andrea:** The load-bearing relationship of his life. He expresses love through logistics — he makes sure the thing she's building is structurally sound so she can give it her whole heart. They are not demonstrative. They are synchronized.
+- **Andy:** His son gave him the name of the business. Jim heard it immediately. That moment — the warmth of it, the rightness of it — is one of the few times in the novel where Jim's control gives way to pure feeling.
+- **Dottie Leonard:** Mentor, neighbor, predecessor. She opened rooms he didn't know were closed. He stood up at her funeral when others didn't. That is the whole relationship, in one act.
+- **The dogs:** Not metaphor. Not props. Each one is a specific individual to Jim, and he treats them accordingly. This is the source of his reputation and the center of his professional identity.
 
 ---
 
 ### Thematic Role
 
-Jim embodies the question: *Is doing everything right enough?* His arc answers it: No. But it is the necessary foundation for everything else that matters.
+Jim embodies the question: *What does it mean to do something right when the world doesn't grade on effort?* He is the argument that preparation matters — not because it guarantees success, but because it is the only honest way to show up.
 
 ---
 
-## 2. ANDREA PAYNE
+## CHARACTER TWO: Andrea Payne
 
-**Age:** Mid-50s (at story's center, 2019–2020)
-**Role:** Co-Protagonist, co-owner of A Pup's Valley, wife, mother, the heart of daily operations
+**Age:** Late 40s–early 50s at story's start
+**Role:** Co-protagonist, POV character, co-owner and operational heart of A Pup's Valley
+**Arc Type:** Positive arc — Andrea moves from someone who does the work in relative private to someone who stands at the microphone and speaks for it publicly. The April 14 moment is her arrival.
 
 ---
 
-### Ghost / Wound / Want / Need / Lie
+### Ghost / Wound / Want / Need / Lie Chain
 
-**Ghost:** Andrea has spent her professional life in an industry that is routinely underestimated — pet care, which people outside it treat as a soft business, a hobby business, something you do because you love animals rather than because you are genuinely skilled at operations, customer relationships, and the particular difficulty of caring for creatures who cannot tell you when something is wrong. She has been excellent at this work, and she has watched that excellence be attributed to luck or love rather than competence.
+**Ghost:** She has spent her professional life in the work itself — with the dogs, with the families, with the daily operations — while the institutional face of the business (the permits, the public meetings, the official record) has been more Jim's domain. She is not invisible. But she has let the building speak for her, because the building is good and she trusted it to be enough.
 
-**Wound:** A persistent awareness that the thing she has built is always one misunderstanding away from being dismissed. That the people who govern and fund and decide are always slightly more likely to listen to a business that looks like what they expect a business to look like.
+**Wound:** When the pandemic hits, the building goes quiet. The thing she trusted to speak for her stops speaking. She is left with nothing but her own voice, in a room full of people deciding whether her work matters.
 
-**Lie:** *If I am warm enough, present enough, and give enough of myself, I will be impossible to overlook.* The lie is not that warmth is ineffective — it is extraordinarily effective. The lie is that it is sufficient protection. That being the heart of the operation protects the operation.
+**Lie:** *The work speaks for itself. If I do it well enough, I don't have to ask for anything.*
 
-**Want:** For A Pup's Valley to be recognized — by the town, by the industry, by the families who walk through the door — as what it actually is: not the best dog daycare in the area, but a step above the rest. The distinction matters to her.
+**Want:** To keep A Pup's Valley alive through the shutdown. The external goal is survival — financial, operational, communal.
 
-**Need:** To understand that being seen is not the same as being safe. That April 14, 2020 — standing at the podium, being seen completely, telling the full truth — is not the end of the vulnerability. It is the moment she stopped being alone in it.
+**Need:** To understand that asking for help is not weakness. That standing at the microphone and saying *we are in trouble* is not a failure of self-sufficiency — it is the civic act of trusting the community you chose.
 
-**Arc Type:** Positive. Andrea begins the story doing everything to make the business feel like the right place. She ends it having stood in the chambers and told the truth about how hard it is, and having discovered that the town — the actual town, not the idea of it — was listening.
+**Truth:** *The work speaks for itself, but sometimes you have to be the one who speaks for the work.*
 
 ---
 
 ### Three Sliders
 
-**Proactivity: 8/10**
-Andrea moves through the business constantly — not managing from a distance but present, giving tours, learning names, adjusting. She is proactive in the relational sense: she initiates connection before connection is required.
+**Proactivity: 7/10**
+Andrea is proactive within her domain — she runs the daily operation with complete authority. But she is reactive to the larger civic and political world until the pandemic forces her to the podium. That moment is her proactivity arriving.
 
 **Likability: 10/10**
-The tour-giving detail is the key. She gives tours the way some people give confessions — completely, without holding anything back. Families feel found, not sold. This is not a technique. It is who she is.
+She learns the name of every dog. She gives tours as if each family is the first family. She is the person who makes people feel they found the right place. This is not performance — it is who she is, and it reads as such.
 
 **Competence: 9/10**
-She knows, bone-deep, what it means to run a facility where the clients cannot speak for themselves. Her competence is relational and operational simultaneously — she can read a dog's body language and a family's anxiety in the same glance, and she knows what to do about both.
+She runs the operational heart of the business. Every family that walks out feeling confident in A Pup's Valley is Andrea's work. The business's reputation for warmth and care is hers.
 
 ---
 
 ### Speech Pattern (8 Dimensions)
 
-1. **Vocabulary level:** Warm-professional. She uses the right technical terms when precision matters and reaches for the human word when it serves better. "Intake protocol" in a planning meeting. "Your dog is going to love it here" on a tour, and meaning it.
-
-2. **Sentence length:** Varies more than Jim's. She can go long when she's explaining something she cares about, short when she's certain.
-
-3. **Contractions/formality:** More contractions than Jim in all settings. She is warmer in register even when the content is serious.
-
-4. **Verbal tics:** She asks about the dog before she asks about the owner. Always. This is not a sales technique. It is the order in which she actually cares.
-
-5. **Question vs. statement ratio:** Higher question ratio than Jim. Her questions are genuine, and they are about the other person. *How long have you had him? What's he like at home?*
-
-6. **Interruption patterns:** She does not interrupt, but she completes. She finishes the sentence a family is struggling to articulate about their dog's anxiety, not to cut them off but because she already knows and wants them to know she knows.
-
-7. **Metaphor domain:** Family. Home. The language of belonging. *This is where your dog is going to feel like himself.*
-
-8. **Directness:** Direct about the business, indirect about her own difficulty. She will tell you exactly what the facility offers. She will not tell you, until April 14, 2020, how close to the edge she is.
+1. **Vocabulary level:** Relational and specific. She knows every dog's name, every family's story. Her vocabulary is the vocabulary of connection — she uses names constantly.
+2. **Sentence length:** Varies more than Jim's. She can run long when she's explaining something she cares about, short when she's making a point she needs to land.
+3. **Contractions/formality:** Contracts freely. Warm without being cloying. She doesn't perform warmth — she just has it.
+4. **Verbal tics:** Tends to anchor abstract things to specific examples. "What I mean is — like with the Hendersons' dog, the first time he came in—" She doesn't stay in the general.
+5. **Question vs statement ratio:** More questions than Jim. Not uncertainty — engagement. She wants to know about you. "How's he doing with the new house?" is Andrea.
+6. **Interruption patterns:** Finishes other people's sentences occasionally, but warmly — not to take over, to help. People don't mind.
+7. **Metaphor domain:** Family and home. "This place is their dog's home away from home" is not a marketing line when Andrea says it. It's what she believes.
+8. **Directness vs indirectness:** Direct about feelings, slightly indirect about problems. She will tell you exactly how much she loves what she does. She will take a beat before she tells you how bad things have gotten.
 
 **Example lines:**
-
-> "What's his name? And what's he like at home — is he the kind of dog who needs to be the center of things, or is he more of a watcher?"
-
-> "People think they're dropping off a dog. They're not. They're trusting you with their family. I think about that every single day."
-
-> "I'm not going to stand here and tell you everything is fine. It isn't fine. What we built is in trouble. And I need you to understand what that means." *(April 14, 2020)*
-
-> "That's the name." *(When Jim told her. Two seconds of quiet, then that.)*
-
-**No-tags test:** Andrea's dialogue is identifiable by its warmth, its question-first orientation, and the moment — always present — when she drops the professional register and says the true thing plainly.
+- "I know his name. I know his family. I know he doesn't like the big yard before 10 AM. That's not above and beyond — that's the job."
+- *(at the podium, April 14, 2020)* "We built this for this town. We chose to be here. And I need you to understand what it means that we might not be able to stay."
+- "Every dog that comes through that door is someone's family. I don't forget that."
+- *(to Jim, after the meeting)* "They heard us. That's enough for tonight."
 
 ---
 
 ### Physical Appearance
 
-She moves through the facility the way people move through spaces they have designed for themselves — efficiently, without wasted motion, knowing where everything is without looking. Her face is expressive in the way that people's faces are expressive when they have stopped performing and are simply responding. She looks at dogs and families with the same quality of attention: complete.
+She moves quickly and purposefully — the walk of someone who always knows where she's going and why. Medium height. Her hands, like Jim's, show the work — she has handled a lot of dogs. Her face is expressive in a way she doesn't always notice; her feelings cross it before she's decided to show them. She dresses for function and ends up looking put-together anyway.
 
 ---
 
 ### Physical Habits and Unconscious Tells
 
-- Crouches to greet dogs at their level — different from Jim's full sit, her version is faster, more mobile, ready to move.
-- Learns names immediately and uses them immediately. She will say your dog's name three times in the first two minutes of a tour.
-- When she's worried, she works harder. Gives more tours. Stays later. The worry is expressed as motion.
-- Touches her left wrist when she's choosing her words carefully — not a nervous habit, a deliberate one, as if she's checking her own pulse before she speaks.
+- When she's giving a tour, her hands move — she gestures toward the spaces she's describing as if she's introducing them. The building is a person to her, and she introduces it like one.
+- She uses people's names more than average. Not as a technique. As a habit of genuine attention.
+- When she's worried, she gets busier. The anxiety goes into motion. Jim knows this. He watches for it.
+- She will crouch to a dog's level, same as Jim, but where Jim goes still, Andrea talks. The nervous dogs respond to Jim's silence. The social dogs respond to Andrea's voice.
 
 ---
 
 ### Secrets
 
-1. **She knew, before Jim did, how serious the pandemic was going to be for the business.** She ran the numbers in the first week of the shutdown and understood what they meant. She did not tell Jim immediately, not because she was protecting him but because she was still deciding what to do with the information. The decision she made was: go to the Council meeting and say it out loud, to the people who had the power to do something, even if what they could do was small.
+**Secret One:** She knew, during the worst weeks of the shutdown, that it was possible they wouldn't make it. She didn't say this to Jim. She said it to Cassie, in the back room, because the dog was the only one she could be completely honest with.
 
-2. **The tour she gives is also the tour she gives herself.** Every time she walks a new family through the facility, she is reminding herself what they built and why. The tours are not only for the families. They are Andrea's way of staying connected to the original reason, on the days when the original reason is harder to feel.
+**Secret Two:** The April 14 speech cost more than she showed. She is not a person who asks for help. Standing at that microphone was the hardest thing she did in the pandemic year, harder than the financial uncertainty, because it required her to be publicly in need. She has never said this out loud.
 
 ---
 
 ### Key Relationships
 
-- **Jim:** The anchor. She trusts his competence completely and relies on his stillness when she needs to move. Their division of labor is unspoken and perfect.
-- **Andy:** She heard the name the same way Jim did — immediately, completely. She understood that her son had given them the words for something they had already built, and she has never taken that lightly.
-- **Dottie:** A model. A woman who showed up and kept showing up and did not need credit for it. Andrea recognized Dottie because Andrea is, in her own way, the same kind of person.
-- **The families:** Her primary relationship outside her own. She knows every dog's name and every family's story. This is not a business practice. It is who she is.
+- **Jim:** She trusts his structural thinking completely. He makes the framework; she fills it with life. The partnership is so practiced that it functions without much discussion. This is love expressed as competence.
+- **Andy:** Her son named the business. She heard it the same way Jim did — immediately, completely. The name is the thesis of the family.
+- **Dottie Leonard:** She understood Dottie in a way that was specifically female — two women who had built things in a town that required you to earn your place, who recognized in each other the particular stubbornness of someone who shows up. Andrea went to the funeral. She spoke. She meant every word.
+- **The client families:** Her primary community. She knows their dogs' names first and their names second, and they find this charming rather than backwards.
 
 ---
 
 ### Thematic Role
 
-Andrea embodies the question: *What does it cost to be the heart of something?* Her arc answers it: everything, and then the town holds some of it with you.
+Andrea embodies the question: *What does it cost to ask for help from the community you've given everything to?* She is the argument that vulnerability, offered honestly, is its own form of leadership.
 
 ---
 
-## 3. ANDY PAYNE
+## CHARACTER THREE: Andy Payne
 
-**Age:** Approximately 10–14 at the story's center
-**Role:** Supporting character, catalyst, the name-giver
+**Age:** Approximately 10–14 at the time of the naming (the drive home)
+**Role:** Catalyst, thematic anchor, son
+**Arc Type:** N/A — Andy is not a POV character, but his presence shapes the novel's emotional center.
 
 ---
 
-### The Essential Truth of Andy
+### Core Function
 
-Andy is not a child who is precocious in the fictional sense — the too-wise kid who delivers thematic speeches. He is a child who absorbed something real. He grew up watching his parents go to meetings, fill out permits, argue about names, drive to the facility on weekends, talk about dogs at dinner. He did not learn this consciously. He learned it the way children learn the things that actually matter: by being in the room.
+Andy is the novel's proof that the best things are built by families, named by children, and given to communities that were waiting for them without knowing it. He does not need a wound/want/need/lie chain because he is not the one carrying the story's weight. He is the one who accidentally lifts it.
 
-The name A Pup's Valley came from the back seat because Andy had been paying attention for years. He did not know he was paying attention. He was a kid on a car ride. But the name was right because he had absorbed what the place was supposed to be — not a brand, not a business, but somewhere you'd want to go. Somewhere that felt like it already existed.
+He grew up watching his parents build something. He absorbed their love for dogs and community without being asked to. And from the back seat of a car, on an ordinary afternoon, he gave them the words for the thing they'd already built.
+
+*A Pup's Valley.* Five words. The warmth of a place rather than the efficiency of a brand.
 
 ---
 
 ### Three Sliders
 
-**Proactivity: 6/10** — He acts at the crucial moment, without knowing it's crucial. The rest of the time he is a child living his life.
-
-**Likability: 10/10** — A boy who names his parents' dream from the back seat of a car, without knowing that's what he's doing, is impossible not to love.
-
-**Competence: N/A** — He is a child. His competence is irrelevant. What he has is perception, unfiltered.
+**Proactivity: 6/10** — He doesn't drive the plot, but his one act of proactivity (the naming) is the novel's quiet thesis.
+**Likability: 9/10** — He is a child who pays attention. That is the most likable thing a person can be.
+**Competence: N/A** — Not applicable in the conventional sense. His competence is perceptiveness.
 
 ---
 
 ### Speech Pattern
 
-Andy speaks the way children speak when they are not performing for adults: directly, without preamble, without the social scaffolding that adults build around their actual thoughts. He does not say *I've been thinking about the name question and I have a suggestion.* He says: *Dad, why don't you call it A Pup's Valley?*
+Andy speaks the way observant children speak — plainly, without hedging, in the direction of the thing he means. He doesn't say "I was thinking maybe you could consider calling it..." He says: *Dad, why don't you call it A Pup's Valley?*
 
-His sentences are short. His questions are real questions. He does not use metaphor. He uses the word for the thing.
+No preamble. No qualification. The name, offered like it was obvious, because to him it was.
 
-**The one line that matters:**
-> "Dad, why don't you call it A Pup's Valley?"
+---
 
-That is Andy's voice. Everything else he says in this novel is in service of establishing that this is a boy who could say that line and mean it exactly.
+### Physical Presence
+
+He is in the back seat. That is almost the entirety of his physical presence in the novel's key scene, and it is exactly right. The back seat is where children observe the adult world — close enough to understand it, removed enough to see it clearly.
 
 ---
 
 ### Thematic Role
 
-Andy embodies the novel's quiet thesis: *The best things are built by families, named by children, and given to communities that were waiting for them without knowing it.* He is also the proof that Jim and Andrea's love for dogs and community was real enough to be absorbed by a child and given back to them as a gift.
+Andy embodies the question: *What do children inherit from parents who build things, and what do they give back?* He is the answer to that question, offered from a back seat, on a school pickup, without knowing he was answering anything.
 
 ---
 
-## 4. DOTTIE WATTS LEONARD
+## CHARACTER FOUR: Dottie Watts Leonard
 
-**Age:** 75 at death (March 20, 2024); in her early 40s during the Disney fight (1993–1994)
-**Role:** Supporting character, connective tissue, the standard-bearer
+**Age:** 50s during the Disney fight (1993–94); 75 at death (March 20, 2024)
+**Role:** Predecessor, mentor, connective tissue between Haymarket's past and the Paynes' present
+**Arc Type:** Complete — her arc is finished before the novel begins. The novel traces its shape in retrospect.
 
 ---
 
-### Ghost / Wound / Want / Need / Lie
+### Ghost / Wound / Want / Need / Lie Chain
 
-**Ghost:** Dottie watched Northern Virginia change around Haymarket for fifty years. She watched what happened to the towns that didn't fight — that got the highway interchange, the big-box corridor, the development that converted a place into a product. She saw it happen to Gainesville. She saw it almost happen to Haymarket.
+**Ghost:** She watched what development could do to a place. She understood it professionally — she was a real estate agent — and personally. She had chosen Haymarket. She had spent decades making it the place it was. And then a $650 million company with a governor's backing came to turn it into something else.
 
-**Wound:** The knowledge that a town is only as good as the people who are paying attention to it right now — and that attention is not inherited. Every generation has to choose to care. Dottie could not be certain, at any given moment, that the next generation was choosing.
+**Wound:** She knew, with the clarity of someone who understood land and development, exactly what Disney's America would have done. Not abstractly. Specifically. She could read a site plan. She could model a traffic pattern. She could see the future clearly enough that the fight was not optional.
 
-**Lie:** *A place is only safe if I am personally watching it.* This is not a paranoid lie. It is the lie of a woman who has been right enough times that she has stopped trusting other people to be right without her.
+**Lie:** *If I don't do this, no one will.* This is less a lie than a burden she accepted as fact. It was not entirely wrong. But it cost her the assumption that the community would always show up the way she showed up for it.
 
-**Want:** For Haymarket to remain Haymarket — not frozen, not a museum, but recognizably itself. A place where a woman can spend fifty years knowing her neighbors.
+**Want:** To keep Haymarket the thing it had always been — specific, human-scaled, worth preserving.
 
-**Need:** To trust that the people she vouches for will carry it forward. That the chain of care does not require her to be in every room.
+**Need:** To trust that the work she did would outlast her — that the town she shaped would be chosen, again and again, by people who understood what she'd protected. The Paynes are the answer to this need. She lived to see it. That matters.
 
-**Arc Type:** Flat, then complete. Dottie does not change. She is who she is, from the Disney fight to the hospital bed. What changes is the novel's understanding of what that constancy costs and what it produces.
+**Truth:** *The work outlasts the worker. The chain of care is real.*
 
 ---
 
 ### Three Sliders
 
-**Proactivity: 10/10** — She was ready to work a real estate deal from a hospital bed. She did not wait for things to need her. She made herself useful before she was asked.
+**Proactivity: 10/10**
+She organized. She showed up. She helped turn back Disney. She got behind the Paynes when others might have been cautious. She answered the phone from a hospital bed because not working was not a concept she entertained. Maximum proactivity, maintained for fifty years.
 
-**Likability: 9/10** — The hospital bed detail is the key. Not a saint. A woman who loved her work and her town so completely that she could not separate them from herself. This is admirable and slightly terrifying and completely human.
+**Likability: 9/10**
+She is not soft. She is warm in the way that people who have fought for things are warm — it is not given freely, but when it is given, it is real. Jim and Andrea earned it. The town earned it over decades.
 
-**Competence: 10/10** — She helped turn back Disney. She designed the historical overlay. She spent fifty years being right about what was good for this town. Her competence is not in question.
+**Competence: 10/10**
+She understood real estate, civic process, community politics, and the long game of keeping a place worth living in. She was right about Disney. She was right about the Paynes. Her competence is the kind that comes from fifty years of being correct.
 
 ---
 
 ### Speech Pattern (8 Dimensions)
 
-1. **Vocabulary level:** Real estate professional meets civic elder. She knows the language of zoning, deed restrictions, historical overlays, and she also knows the language of a woman who has been at every public meeting for fifty years and has heard every argument twice.
-
-2. **Sentence length:** Efficient. She has been making the case for things for fifty years. She knows which sentences matter.
-
-3. **Contractions/formality:** More formal than she appears. She is warm, but she is also precise. She does not waste words.
-
-4. **Verbal tics:** She refers to Haymarket as "this town" — not possessively, but specifically. *This town has been through worse.* *This town knows what it is.*
-
-5. **Question vs. statement ratio:** Mostly statements. Her questions are assessments. *What's the setback on the south side?* *Have you been to the ARB yet?*
-
-6. **Interruption patterns:** She does not interrupt. She has waited out enough public meetings to know that patience is a civic virtue.
-
-7. **Metaphor domain:** Land. Property. What things are worth and what they cost. *You don't sell a town. You steward it.*
-
-8. **Directness:** Completely direct. She has no patience for indirectness. She told Jim what she thought about A Pup's Valley before he finished explaining it.
+1. **Vocabulary level:** High, but never academic. She uses the vocabulary of someone who has read contracts and zoning codes and historical surveys and knows what words mean in their precise legal and civic senses.
+2. **Sentence length:** Long when she's giving context. Short when she's making a judgment. The long sentences are the evidence; the short ones are the verdict.
+3. **Contractions/formality:** More formal than Jim or Andrea. Not stiff — authoritative. She has spent fifty years in rooms where formality matters.
+4. **Verbal tics:** Tends to locate things in time. "Back in '93," "when the overlay was first approved," "before the interchange was expanded." She thinks historically.
+5. **Question vs statement ratio:** Mostly statements. When she asks questions, they are tests. She already knows the answer. She's finding out if you do.
+6. **Interruption patterns:** Does not interrupt. Waits with the patience of someone who has sat through a great many meetings and knows that the person who speaks last often wins.
+7. **Metaphor domain:** Land, investment, long-term value. "You don't build on sand" is a Dottie sentence. So is "What's it worth in twenty years?"
+8. **Directness vs indirectness:** Direct in private. Strategic in public. She knew when to say the thing and when to let the room say it for her.
 
 **Example lines:**
-
-> "This town has been through worse than a pandemic. It's been through Disney."
-
-> "You want to build something here, you need to understand what here is. Do you understand what here is?"
-
-> "I've been selling real estate in Haymarket since before you moved here. I know what land means. I know what development costs. I know what you're trying to do, and I think it's worth doing." *(To Jim and Andrea, early in the approval process)*
-
-*(From Jim's account, the hospital call:)* She answered like she was ready to show the property. She was ready to work it.
-
-**No-tags test:** Dottie's dialogue is identifiable by its efficiency, its civic vocabulary, and the phrase "this town" used as both subject and object of everything she cares about.
+- "I've been in this town fifty-two years. I know what it can absorb and what it can't. This is something it can absorb."
+- *(on Disney's America)* "They had the Governor. They had the money. What they didn't have was us."
+- *(to Jim, about the permit process)* "Let me make a call. Not to push it through — to make sure the right people understand what you're building."
+- *(answering the phone from the hospital)* "Yes, this is Dottie Leonard. Are you calling about the Fayette Street listing?"
 
 ---
 
 ### Physical Appearance
 
-A woman who has been to every meeting and knows it. She carries herself with the posture of someone who has stood at podiums and sat on daises and walked every block of Washington Street on purpose. Her hands are the hands of a woman who has handed over a lot of keys.
+She was a woman who dressed for business even when she wasn't doing business, because the line between the two had blurred over fifty years into something she no longer bothered to maintain. Silver-haired, upright, with the particular posture of someone who has sat at a great many tables and learned that how you hold yourself is information. Her hands were always busy — a pen, a folder, a phone. She was not a woman who sat with empty hands.
 
 ---
 
 ### Physical Habits and Unconscious Tells
 
-- Arrives early to meetings. Always.
-- Takes notes on paper, not a phone. The notes are in a handwriting that is still legible after fifty years of practice.
-- When she is assessing something — a property, a person, a proposal — she goes quiet in a way that is different from uncertainty. It is the quiet of someone doing real math.
-- She answers the phone ready to work. Always.
+- Answered her phone on the second ring. Not the first — that would be eager. Not the third — that would be unavailable. The second ring. Always.
+- Took notes in meetings even when she knew she'd remember everything. The notes were for the record, not for her memory.
+- When she was deciding whether to trust someone, she asked them one specific question about the town — something only a person who paid attention would know. If they knew it, she opened up. If they didn't, she remained professional.
 
 ---
 
 ### Secrets
 
-1. **She was not certain the Disney fight would succeed.** She has said, in the years since, that she knew they were right. She has not said, to many people, that she did not know they would win. The confidence she projected during the fight was real in the sense that she believed in the cause. It was not real in the sense that she was sure of the outcome. She held that uncertainty alone, because a coalition needs someone who looks certain.
+**Secret One:** She knew, during the Disney fight, that it might not work. She showed up anyway. She has never told anyone how close it was to going the other way.
 
-2. **She got behind the Paynes partly because she was looking for proof that the chain of care was continuing.** She vouched for them not only because she believed in what they were building, but because she needed to see that someone was building something. The pandemic had made her wonder. Jim and Andrea, showing up and not quitting, answered the question she had not asked aloud.
+**Secret Two:** She thought, when she first met the Paynes, that they might be another set of enthusiastic newcomers who would be gone in three years. She changed her mind quickly. She never told them she'd had the doubt.
+
+---
+
+### Key Relationships
+
+- **Jim and Andrea:** She recognized in them the same stubbornness she had — the refusal to do something halfway, the belief that a place is worth fighting for. She got behind them. Fully.
+- **Haymarket itself:** The relationship of her life. The town was her work, her community, her identity. She shaped it and it shaped her in a fifty-year conversation.
+- **The Disney opposition (historical):** The coalition she was part of — historians, conservationists, local residents — was the proof that a community organized around what it loves can stop what it doesn't.
 
 ---
 
 ### Thematic Role
 
-Dottie embodies the question: *What does it mean to protect a place?* Her arc answers it: you protect it by making it worth protecting, and then you trust the next people who love it to do the same.
+Dottie embodies the question: *What does it mean to spend a life making a place worth living in, and what do you leave behind?* She is the answer to her own question: you leave behind the place, and the people who choose it next.
 
 ---
 
-## 5. CASSIE AND GRACIE
+## CHARACTER FIVE: Mayor Leake
 
-**Role:** The Paynes' golden doodles; original A Pup's Valley residents; the novel's honest narrators
-
----
-
-### The Essential Truth of Cassie and Gracie
-
-They cannot lie. This is their function in the novel and their function in the world. Every other character in this story is capable of concealment — Jim holds his fear alone, Andrea doesn't show the numbers to Jim immediately, Dottie projects certainty she doesn't fully feel. Cassie and Gracie are incapable of any of this.
-
-When A Pup's Valley is the right place, they show it. When the pandemic has made the house too quiet, they show that too. When Jim is frightened, they know before he does. When the first client comes back after the shutdown, and the dog runs through the door like no time has passed, Cassie and Gracie understand this completely — because for them, no time has. The place they love is the place they love. It is not complicated.
-
-They are not props. They are not mascots. They are proof of concept — the reason the enterprise is true before a single permit is filed.
+**Age:** 50s
+**Role:** Civic authority, the man who stopped the meeting
+**Arc Type:** Flat — he is who he is. What matters is the single decision he makes on April 14, 2020.
 
 ---
 
-### Three Sliders
+### Core Function
 
-**Proactivity: 9/10** — They move toward what they love without hesitation. This is not a choice. It is their nature. It is also the novel's model for how to live.
-
-**Likability: 10/10** — They are golden doodles. This requires no further justification.
-
-**Competence: N/A** — They are dogs. Their competence is in being completely themselves.
-
----
-
-### Thematic Role
-
-Cassie and Gracie embody the novel's answer to its own question: *How do you know if what you've built is real?* The answer is: the dogs know before they're out of the car.
-
----
-
-## 6. MAYOR MICHAEL LEAKE
-
-**Age:** Indeterminate; established civic figure by 2019–2020
-**Role:** Institutional figure; the moment-maker of April 14, 2020
-
----
-
-### The Essential Truth of Mayor Leake
-
-Mayor Leake is not an antagonist. He is not a bureaucratic obstacle. He is a man who, on April 14, 2020, stopped a meeting about restaurant tax percentages and said: *I want you to hear from a real person.* That decision — to interrupt the arithmetic of compassion with the actual face of it — is the hinge of the novel. He made it. The novel should honor it.
+Mayor Leake is the person who understood, in the middle of a budget discussion about restaurant tax relief, that the Council needed to hear from a human being rather than a line item. He stopped the meeting. He invited Andrea to the podium. That decision is his entire character, and it is enough.
 
 ---
 
 ### Three Sliders
 
-**Proactivity: 7/10** — He governs. He manages. He also, at the crucial moment, acts.
-
-**Likability: 8/10** — The April 14 decision is the key. A man who stops a budget meeting to make sure his Council understands what the numbers mean in human terms is a man worth trusting.
-
-**Competence: 8/10** — He has run the town through a year of growth and into a pandemic. He is not overwhelmed. He is doing the job.
+**Proactivity: 7/10** — He manages rather than initiates, but his management is active. The April 14 decision is a proactive choice in the middle of a reactive situation.
+**Likability: 8/10** — He thanks people for showing up. He makes space for Andrea's voice when the agenda didn't call for it. He is the kind of official who remembers that governance is for people.
+**Competence: 7/10** — He runs the meetings. He knows the town. He makes the right call on April 14.
 
 ---
 
 ### Speech Pattern
 
-Formal in the civic register — the language of resolutions and ordinances and "the Chair recognizes." Warmer in the moments that matter. When he invites Andrea to the podium, he does not do it with procedural language. He does it with the language of a man who understands that the meeting is not the point. The people are the point.
+Measured, formal in the way of someone who has learned that a Mayor's words carry weight and must be chosen accordingly. He thanks people. He acknowledges. He does not editorialize. When he stops the meeting to invite Andrea to the podium, he does it simply: *I'd like to hear from Andrea Payne, who owns A Pup's Valley on Fayette Street, about what the last few weeks have looked like.*
 
-**Example line:**
-
-> "I'd like to ask Mrs. Payne — Andrea, would you come up and tell the Council what the last few weeks have looked like for your business?"
+No drama. Just the recognition that the room needed to hear it.
 
 ---
 
 ### Thematic Role
 
-Mayor Leake embodies the question: *What is governance for?* His answer, on April 14, 2020, is: for the people in the room, and the people not yet in the room, and the businesses that don't fit the category currently being discussed.
+Mayor Leake embodies the question: *What is governance for?* His answer, on April 14, is: it is for making sure the people who govern understand what their decisions cost the people they govern.
 
 ---
 
-## 7. COUNCILMAN SHANNON
+## CHARACTER SIX: Councilman Shannon
 
-**Age:** Indeterminate; long-serving council member
-**Role:** The civic philosopher; the voice of the meeting's moral texture
-
----
-
-### The Essential Truth of Councilman Shannon
-
-He thanks the citizens every single time for caring enough to show up. This is not performance. It is a philosophy. It says: the fact that you came here, on a Tuesday night, to talk about a fence color or a dump truck route or a hotel plan — that is not nothing. That is democracy being practiced at the scale where it actually touches people's lives.
+**Age:** 50s–60s
+**Role:** The civic conscience of the Council, the man who thanks people
+**Arc Type:** Flat — he is the consistent, reliable presence of someone who believes in the process.
 
 ---
 
-### Three Sliders
+### Core Function
 
-**Proactivity: 6/10** — He responds more than he initiates. But his responses are always on the side of engagement.
-
-**Likability: 9/10** — The gratitude is the key. He is grateful for the citizens. Not performatively. Actually.
-
-**Competence: 8/10** — He has been doing this long enough to know what the job is. The job is to listen, decide, and thank the people who made you accountable.
+Councilman Shannon thanks citizens for showing up. Every time. This is not a tic — it is a philosophy. In a town this small, civic participation is fragile. The people who drive to a meeting on a Tuesday night to talk about a drainage easement or a hotel proposal or a solar panel ordinance deserve acknowledgment. Shannon gives it. Consistently. Without irony.
 
 ---
 
 ### Speech Pattern
 
-Measured. Deliberate. He has been at enough meetings to know that the words you say in this room become the record. He chooses them accordingly. He says "thank you" and means it every time.
+Warm, deliberate, slightly formal. He uses full sentences. He does not rush. He has the cadence of someone who believes that the meeting is important — not because the agenda items are always important, but because the act of gathering to decide things together is always important.
 
-**Example line:**
-
-> "I want to thank the citizens who came out tonight. It matters that you're here. It always matters."
+**Example line:** "I want to thank everyone who came out tonight. These meetings work because you show up. That matters."
 
 ---
 
 ### Thematic Role
 
-Councilman Shannon embodies the question: *What does civic life require?* His answer: showing up, and being thanked for it, and showing up again.
+Shannon embodies the question: *What does it mean to honor the process of democracy in a room where the stakes are small?* His answer: you honor it the same way you honor it when the stakes are large. You say thank you. You mean it. You do it every time.
 
 ---
 
-## Character Interconnection Map
+## CHARACTER SEVEN: Cassie and Gracie
+
+**Role:** The dogs. The proof of concept. The honest witnesses.
+**Arc Type:** N/A — dogs do not have arcs. They have states of being.
+
+---
+
+### Core Function
+
+Cassie and Gracie are not mascots. They are the original residents of A Pup's Valley — the ones who made the enterprise feel true before a single permit was filed. They are also the novel's primary instrument of emotional truth, because dogs do not lie.
+
+In every scene where a dog appears, the dog's response is the accurate reading of the situation. A dog who runs to Andrea is telling you that Andrea is safe. A dog who won't settle is telling you something is wrong. Cassie and Gracie, as the Paynes' own dogs, are the baseline — the constant against which all the human uncertainty is measured.
+
+---
+
+### Physical Presence
+
+Golden doodles. Medium-large, curly-coated, the particular warm gold of late afternoon light. They move through the Paynes' home and the facility with the confidence of animals who know they are loved and know where they belong. Cassie is slightly calmer. Gracie is slightly more social. The distinction matters in small ways, the way all individual differences matter.
+
+---
+
+### Thematic Role
+
+The dogs embody the question: *What does unconditional love look like in practice?* Their answer is the same every time: it looks like running through the door at full speed, without strategy, without reservation, toward the person you trust. It looks like showing up completely. It looks like exactly what Jim and Andrea built A Pup's Valley to be.
+
+---
+
+## CHARACTER INTERCONNECTION MAP
 
 ```
-DOTTIE LEONARD
-    │
-    │ Vouched for / opened doors
-    │ Kept the town worth coming to
-    ▼
-JIM ←——————————————→ ANDREA
-    │  Load-bearing     │
-    │  partnership      │
-    │                   │
-    │  Listens fully    │  Heart of operations
-    ▼                   ▼
-  ANDY              THE FAMILIES
-    │                   │
-    │ Names the place   │ Entrust their family
-    ▼                   ▼
-A PUP'S VALLEY ←——————————
-    │
-    │ Proven true by
-    ▼
-CASSIE AND GRACIE
-    │
-    │ Cannot lie about
-    ▼
-WHETHER IT'S REAL
-    │
-    │ Witnessed by
-    ▼
-MAYOR LEAKE / COUNCILMAN SHANNON
-    │
-    │ Who hold the record of
-    ▼
-APRIL 14, 2020
+ANDY
+  └── Names the business (the novel's thesis)
+  └── Inherits his parents' love for dogs and community without being asked
+
+JIM ←────────────────────────────→ ANDREA
+  Partnership: structural + operational    
+  His competence makes space for her warmth
+  Her warmth gives his competence a purpose
+
+JIM ←──────────────────────────── DOTTIE
+  She opened rooms. He walked through them.
+  He stood at her funeral. The chain closes.
+
+ANDREA ←───────────────────────── MAYOR LEAKE
+  He stopped the meeting. She spoke.
+  Neither could have done the other's part.
+
+DOTTIE ←────────────────────────→ HAYMARKET ITSELF
+  Fifty-year relationship. Mutual shaping.
+  She made the town. The town made her.
+
+CASSIE + GRACIE ←───────────────→ EVERYONE
+  The honest witnesses. The emotional baseline.
+  They tell the truth about every scene they're in.
+
+COUNCILMAN SHANNON ←────────────→ THE CITIZENS
+  He thanks them. They come back.
+  Civic participation as a renewable resource.
 ```
 
 ---
 
-## Conflict Map
+## SECRETS THAT WOULD CHANGE THE STORY
 
-| Character | Core Want | What Threatens It |
-|-----------|-----------|-------------------|
-| Jim | Permanence for what he's built | The pandemic, which does not care how well-prepared he is |
-| Andrea | Recognition for what the business actually is | A stimulus package designed for restaurants, not for her |
-| Dottie | The chain of care to continue | The possibility that no one is paying attention |
-| Andy | Nothing — he is a child | Nothing — he is the answer, not the problem |
-| Mayor Leake | To govern well | The gap between policy and people |
-
----
-
-## Secrets That Change the Story If Revealed
-
-| Character | Secret | Story Impact |
-|-----------|--------|--------------|
-| Jim | He knows the first facility's loss was partly his fault — wrong community | Reframes his obsessive deliberateness about Haymarket as correction, not caution |
-| Jim | He was more frightened during the shutdown than he showed | Reframes the April 14 scene: Andrea spoke; Jim held the fear alone |
-| Andrea | She knew the numbers before Jim did | Reframes her decision to go to the Council as an act of courage, not desperation |
-| Andrea | The tours are also for herself | Reframes her warmth as something she maintains actively, not effortlessly |
-| Dottie | She wasn't certain the Disney fight would succeed | Reframes her as human rather than legendary — and therefore more admirable |
-| Dottie | She vouched for the Paynes partly because she needed proof the chain continued | Reframes her support as mutual: she needed them as much as they needed her |
+| Character | Secret | What changes when revealed |
+|-----------|--------|---------------------------|
+| Jim | The full cost of the first facility — what ended it | Reframes his "second act" as harder-won than it appears |
+| Jim | He knew Dottie was dying when he called | His presence at the funeral becomes the closing of a deliberate circle |
+| Andrea | She told Cassie what she couldn't tell Jim during the worst weeks | The dog scenes gain retrospective weight |
+| Andrea | The April 14 speech cost her more than she showed | Her composure at the podium is reread as courage, not ease |
+| Dottie | She doubted the Paynes at first | Her endorsement becomes a more active choice |
+| Dottie | She knew how close the Disney fight came to failing | The victory is reread as narrower, and therefore harder-won |
 
 ---
 
-## No-Tags Test: Can You Tell Who's Speaking?
+## DIALOGUE DISTINCTIVENESS TEST
 
-> "I read the agenda. The hotel item is third."
-**Jim.** Factual, prepared, no social scaffolding.
+*Remove the tags. Can you tell who's speaking?*
 
-> "What's he like at home — is he the kind of dog who needs to be the center of things?"
-**Andrea.** Question-first, warm, specific to the dog.
+**Version A:**
+"The setback's the issue. If we can get the Town Planner to look at the survey again, we have room."
 
-> "This town has been through worse than a pandemic."
-**Dottie.** "This town." Civic register. Statement, not comfort.
+**Version B:**
+"I know his name. I know his family. I know he doesn't like the big yard before 10 AM. That's not above and beyond — that's the job."
 
-> "Dad, why don't you call it A Pup's Valley?"
-**Andy.** Direct, unpremeditated, the most important line in the novel.
+**Version C:**
+"I've been in this town fifty-two years. I know what it can absorb and what it can't."
 
-> "I want to thank the citizens who came out tonight."
-**Councilman Shannon.** Formal, genuine, the gratitude that is a philosophy.
+**Version D:**
+"I want to thank everyone who came out tonight. These meetings work because you show up."
 
-> "I'd like to ask Mrs. Payne to come up and tell the Council what the last few weeks have looked like."
-**Mayor Leake.** Procedural frame, human content.
+**Version E:**
+*From the back seat:* "Dad, why don't you call it A Pup's Valley?"
+
+Jim. Andrea. Dottie. Shannon. Andy. In that order. The tags are not needed. The voices are the people.
 
 ---
 
-*The dogs know before they're out of the car. Everything else in this registry is an attempt to explain why that is, and why it matters.*
+## ANTI-PATTERNS: WHAT THESE CHARACTERS ARE NOT
+
+**Jim is not:**
+- A gruff man who learns to open up. He is already open — to dogs, to the town, to Andrea. His journey is not emotional unlocking. It is the testing of what he already believes.
+
+**Andrea is not:**
+- The warm one who needs Jim to be the practical one. She is both. She gives tours and she does the math. The warmth is not a substitute for competence.
+
+**Dottie is not:**
+- A wise elder dispensing wisdom to younger people. She is a specific woman with a specific history who made specific decisions. She is not a symbol. She is a person.
+
+**The dogs are not:**
+- Comic relief. They are not there to be charming. They are there to be honest, which is a different and more serious function.
+
+**The Council is not:**
+- Bureaucratic obstruction. They are people doing the difficult work of governing a small town that wants to stay itself. Their caution is not the enemy. It is the process.
+
+---
+
+*End of CHARACTERS.MD*
+
+*Version 1.0 — Foundation Document*
+*All subsequent drafting calibrates against this reference.*
+*Characters are rendered as real people: specific, contradictory, and fully themselves.*
