@@ -1,277 +1,261 @@
 # WORLD.MD — "Every Dog Has Its Day"
-### The Definitive Reference for the Story of Jim and Andrea Payne
+### The Definitive Reference for the True Story of Jim and Andrea Payne
 
 ---
 
-> **CRITICAL NOTE TO WRITER:** This is narrative nonfiction. There is no magic system. There is no cosmology. There are no factions in a fantasy sense. The CRAFT.MD template was designed for fantasy worldbuilding; this document adapts its structure to serve a true story. Where the template asks for "magic," this document gives you the real forces that operate in this world: community trust, bureaucratic process, pandemic economics, and the specific gravity of a small town that knows its own worth. These are the hard rules. They have costs. They have limitations. They shape everything.
+> **A note on this document's structure:** The CRAFT.md template was designed for fantasy worldbuilding. This story has no magic system, no bestiary, no invented cosmology. What it has instead is something harder to render and more worth rendering: a real place, real people, and the specific weight of real events. The sections below are adapted accordingly. Where the template asks for magic rules, this document gives the rules of small-town bureaucracy. Where it asks for factions, it gives the actual competing interests of a Virginia town in the years before and after a global pandemic. The iceberg principle still applies. So does the requirement that every fact interconnect.
 
 ---
 
-## SECTION 1: The World — Haymarket, Virginia
+## The World: Haymarket, Virginia
 
-### What This Place Is
+### What It Is
 
-Haymarket is a real town in Prince William County, Virginia, approximately 35 miles west of Washington, D.C. on Route 15. It sits at the edge of two Virginias — the colonial-era Piedmont to the west, where the land still rolls and the farms still have names, and the Northern Virginia sprawl pushing east from Manassas, carrying with it the strip malls and the commuters and the particular restlessness of people who live somewhere they didn't choose.
+Haymarket is a real town in Prince William County, Virginia, incorporated in 1799. It sits at the intersection of Route 15 and Route 55, where the Piedmont begins its slow descent toward the Blue Ridge. The town proper covers roughly one square mile. The population within the town limits is small enough that a contested Town Council race turns on dozens of votes, not hundreds.
 
-The town's incorporated area is small enough to walk across in fifteen minutes. Washington Street is the main corridor. Route 55 crosses it. The historic district has brick sidewalks and lamp posts — not because they were always there, but because people fought to put them there and fought to keep them. That distinction matters. The character of Haymarket is not accidental. It was argued over, voted on, and defended by people who cared enough to show up on weeknights to talk about it.
+The surrounding area — unincorporated Prince William County — has grown explosively since the 1990s. Gainesville, Bristow, and Manassas surround Haymarket like water around an island. Subdivisions named after the things they replaced (Meadows at Piedmont, The Preserve at Linton Hall) have added tens of thousands of residents to the broader area. Many of them use Haymarket's Washington Street as a cut-through. Many of them call themselves Haymarket residents. The town government is careful about this distinction.
 
-Population, depending on how you draw the lines, runs somewhere between 2,000 and 2,500. Large enough to have a McDonald's. Small enough that the McDonald's drive-thru traffic on Route 55 is a genuine agenda item at Town Council.
-
-The Town Council meets in real chambers. Citizens Time is real — a slot in the agenda where residents walk up to a microphone and say what's on their mind. Councilman Shannon thanks them every time for caring enough to show up. This is not sarcasm. He means it. That is the register of Haymarket civic life: formal enough to have Roberts Rules, small enough that everyone in the room knows your dog's name.
+The town itself is deliberate. This is not an accident of geography or economics — it is a choice, renewed repeatedly by people who showed up to meetings and voted and argued about brick sidewalks. The historical overlay that gives Haymarket its character (the lamp posts, the building setbacks, the signage rules, the brick) was not handed down from above. It was designed by people like Dottie Leonard and defended by people like Dottie Leonard over decades of meetings exactly like the ones Jim and Andrea Payne attended.
 
 ### Sensory Signature
 
-**Washington Street on a weekday morning:** Coffee smell from somewhere, the particular quiet of a small-town main street before 9 a.m., pickup trucks idling, the sound of the Route 15 traffic audible but not overwhelming. The brick sidewalks have a specific sound under hard-soled shoes — a dull, solid click that poured concrete doesn't make. The lamp posts cast warm light at dusk. These details are not decorative. They are the result of decisions made in rooms by people who thought carefully about what kind of place this should be.
+Haymarket smells like cut grass in summer and wood smoke in October. Washington Street on a Saturday morning smells like the coffee coming out of the shops and, faintly, like the horses from the farms on the county roads that feed into town. The brick sidewalks are uneven in the way that brick sidewalks always get — heaved by tree roots, settled by frost — and they make a particular sound under a dog's nails, a rapid light clicking that carries in the quiet.
 
-**6680 Fayette Street:** The address of A Pup's Valley. Fayette Street runs parallel to the commercial energy of Washington Street but quieter. The building is functional, purpose-built for what it does. Inside: the smell of clean dog, the specific acoustic texture of a space designed to manage the sound of many dogs — not to eliminate it, but to keep it from becoming chaos. The sound of nails on flooring. The particular greeting energy of a room full of dogs who know where they are and are glad about it.
+The Town Council chambers are in the Haymarket Regional Library building on Washington Street. The room is not large. The chairs are the stackable kind. The microphone at the podium has a slight hiss. When someone speaks during Citizens Time, the room is quiet enough that you can hear the HVAC cycling.
 
-**The Town Council Chambers:** Fluorescent light, folding chairs for the public, a dais for the Council. A microphone on a stand for Citizens Time. The room smells like municipal carpet and the coffee someone always brings. On April 14, 2020, some of those chairs are empty because of COVID-19, and some of the meeting is happening on Zoom, which means there's a laptop somewhere on the dais and the audio quality is slightly worse than it should be.
+Route 55 through town is two lanes and has a 25-mph speed limit that almost no one observes. The McDonald's on the east end generates a traffic backup that extends onto the highway during the lunch hour. This is a genuine local grievance. It comes up at Town Council meetings.
 
-**The Piedmont beyond town:** The Blue Ridge is visible on clear days to the west — not dramatic peaks, but the long, soft ridgeline that Virginia does instead of drama. The land rolls. There are farms with history and subdivisions with none. The gap between them is where Haymarket sits, trying to be the kind of place worth the argument.
+Fayette Street runs south from Washington Street. It is a working street — not a tourist street, not a residential street, not quite commercial. At 6680 Fayette Street, there is a building that became A Pup's Valley.
 
----
+### The Piedmont
 
-## SECTION 2: The Real Forces — What Actually Governs This World
+The landscape around Haymarket is Piedmont Virginia: rolling hills, hardwood forest, red clay soil that stains everything it touches. The Bull Run Mountains are visible to the northwest on clear days — low, blue, not dramatic, but constant. The farms are still there, though fewer than twenty years ago. Horse country begins just west of town and runs toward Middleburg. The light in late afternoon, particularly in October and November, is the particular gold of the mid-Atlantic — warm and horizontal and brief.
 
-In place of a magic system, this document describes the actual systems of power and consequence that operate in Haymarket and in the story of A Pup's Valley. These are the hard rules. They have costs. They have limitations. Violating them has consequences.
-
-### Force 1: Community Trust
-
-**How it works:** In a town of 2,000 people, trust is the primary currency. It accumulates slowly — through showing up, through keeping your word, through being known. It can be spent in moments of need: when you need a zoning variance, when you need a neighbor to vouch for you, when you need the Town Council to give you the benefit of the doubt on a use permit.
-
-**The hard rule:** You cannot borrow trust you haven't earned. You can only spend what you've built. Jim and Andrea Payne moved to Haymarket and then became Haymarket people — they went to meetings, they knew the councilmembers' names, they understood what the town was trying to be. That accumulation is what made the approvals possible. It is also what made Dottie Leonard's support meaningful: she had fifty years of trust in that account, and she spent some of it on the Paynes.
-
-**The cost:** Building community trust requires time and presence that could be spent on the business itself. Every Town Council meeting Jim attended was an evening away from planning, from building, from everything else. The cost is real. So is the return.
-
-**The limitation:** Trust is local and non-transferable. The fact that Jim and Andrea ran an award-winning facility before they came to Haymarket meant something to them and very little to the Town Council until they showed up and became part of the community. Prior excellence does not transfer. You earn it here, or you don't have it.
-
-### Force 2: Bureaucratic Process
-
-**How it works:** Permits, zoning hearings, use applications, public comment periods. The Town of Haymarket has a planning process. It has a town planner. It has a Town Council that votes. The process is not hostile — it is genuinely designed to ensure that what gets built in Haymarket is what Haymarket wants — but it is slow, and it is public, and it requires you to make your case in rooms full of people who have opinions.
-
-**The hard rule:** The process is the process. You cannot shortcut it. You can work it — with preparation, with relationships, with showing up — but you cannot skip it. Every step exists for a reason, usually traceable to a time when someone didn't follow it and something went wrong.
-
-**The cost:** Time and money. Every week of permitting is a week of rent on a space that isn't generating revenue. Every public hearing is an opportunity for someone to raise an objection that sends you back to the beginning. The Paynes knew this going in. They had done it before. They prepared accordingly.
-
-**The limitation:** The process cannot be fully controlled. You can do everything right and still face an unexpected objection, a neighbor who shows up at a hearing with concerns, a Council vote that doesn't go your way. The outcome is never guaranteed. This is not a flaw in the system. It is the system working as designed.
-
-**The dump truck problem:** One specific and real tension in this period: the Town Council was already arguing about dump trucks on Fayette Street. Heavy commercial traffic on a street that is also residential, also historic, also the address of A Pup's Valley. This is the texture of small-town bureaucracy — the large and the small are always on the same agenda, and you never know which one will consume the room.
-
-### Force 3: Pandemic Economics
-
-**How it works:** On March 23, 2020, Governor Ralph Northam issued a stay-at-home order for Virginia. Non-essential businesses closed. The premise of a dog daycare — that people need somewhere for their dog while they are somewhere else — disappeared overnight. If everyone is home, no one needs daycare.
-
-**The hard rule:** Revenue does not pause. Rent does not pause. Payroll does not pause. The business's fixed costs continued while its income went to zero. This is not metaphor. This is arithmetic.
-
-**The cost:** The specific cost is unknowable from the public record, but the structure of it is clear: a cage-free boarding and daycare facility has significant overhead — staffing, facility maintenance, food, insurance. The margin in pet care is real but not enormous. A sustained shutdown is an existential threat.
-
-**The limitation:** The stimulus measures that were available — BPOL extensions, federal PPP loans, SBA programs — were designed for a crisis no one had designed for. They were imperfect instruments applied to a novel problem. The Town of Haymarket's Special Meeting on April 14, 2020, was partly about a stimulus ordinance that did not pass. A 30-day BPOL extension was approved. It was something. It was not enough. The Paynes went home and did not quit.
-
-**The iceberg:** The pandemic revealed something about the pet care industry that wasn't obvious before: people who use dog daycare are often people who work outside the home in demanding jobs. When those people shifted to remote work, the demand for daycare dropped — but the demand for boarding and grooming did not drop at the same rate. The shape of the business had to shift. This is implied in the comeback; the writer should feel it without necessarily stating it.
-
-### Force 4: The Dog
-
-**How it works:** Dogs are honest. They cannot perform comfort they don't feel. A dog who is nervous shows it. A dog who trusts shows that too. In a business built on the premise that you will care for someone's family member, the dogs are the quality control. You cannot fake it with them.
-
-**The hard rule:** Every dog Jim Payne meets, he meets fully. He gets low. He gets quiet. He pays attention. This is not a technique he learned from a book. It is a disposition — a genuine interest in the specific animal in front of him, not dogs in general. The dogs respond to this before he says a word, because dogs read intent before they read behavior.
-
-**The cost:** Meeting every dog fully takes time. It is not scalable in the way that a processing system is scalable. It is the opposite of efficient. It is also the thing that makes A Pup's Valley what it is, and the reason people drive past closer facilities to bring their dogs here.
-
-**The limitation:** Jim cannot be everywhere at once. The business grows. The staff grows. The culture he and Andrea built has to carry the thing when they're not in the room. This is the central operational tension of any service business that is built on a founder's specific gift.
-
-**Dogs as mirrors (thematic rule):** Throughout the novel, the dogs reflect the emotional state of the humans around them. This is not magical. It is behavioral science. Dogs are attuned to human anxiety, calm, grief, and joy. In the worst weeks of the pandemic, the dogs who were still coming in — essential workers' dogs, the ones whose owners couldn't stay home — were reading the room. The writer should use this without over-explaining it.
+This matters because it is the landscape Jim and Andrea chose. They could have gone anywhere in Northern Virginia. They chose a place with a view of mountains.
 
 ---
 
-## SECTION 3: The Characters as They Actually Are
+## History: The Events That Made the Present
 
-### Jim Payne — The Accumulator
+### 1799 — Incorporation
+Haymarket is incorporated as a town. It sits on a colonial road network and serves as a market town for the surrounding agricultural region. The name is literal: there was a market here.
 
-Jim is the person who shows up before he needs anything. He spoke in support of the hotel at the September 9, 2019 Town Council meeting not because the hotel benefited him directly, but because he understood that Haymarket's growth needed advocates and he was one. This is the behavior of someone who understands community trust as a real thing, not an abstraction.
+### The Civil War
+The town was occupied by both Union and Confederate forces at various points. Several significant engagements took place in the surrounding county. The battlefield at Manassas — First and Second Bull Run — is twelve miles east. This history is present in the landscape in the form of historical markers, preserved earthworks, and the occasional artifact turned up by construction. It is also present in the way some longtime residents talk about the county — as a place with weight, with cost, with memory.
 
-He is detail-oriented in the way that people who have built things from scratch tend to be — not because they love details, but because they have learned that the details are where things go wrong. He knows the names of the councilmembers. He knows the town planner. He knows the police chief. This is not networking. It is citizenship.
+### 1993–1994 — Disney's America
+This is the event that defines modern Haymarket's self-understanding.
 
-His gift with dogs is real and specific. The writer should resist the temptation to romanticize it. It is not mystical. It is attention — the rare, full kind that most people give to their phones instead of the living thing in front of them. The dogs know the difference.
+Disney proposed a 3,000-acre American history theme park to be built in Haymarket, on land near the Manassas battlefield. The proposal was announced in November 1993. It was national news immediately. Historians, preservationists, and local residents organized in opposition. The argument was not simply about traffic or development — it was about what kind of place this was and what kind of place it would become.
 
-**What Jim does not do:** He does not grandstand. He does not make speeches about his vision. He makes his case, he does his work, and he lets the results speak. The September 9 Council appearance is characteristic: he supported something, said so clearly, and sat down.
+Dottie Leonard was in those rooms. She was part of the coalition that made opposition visible, credible, and sustained. The fight was not won by a single person or a single argument, but it required people willing to show up repeatedly, to be quoted in newspapers, to be uncomfortable at public meetings, to say *no* to something that came with money and jobs and the full weight of a corporation that had, at that point, never lost a fight like this.
 
-### Andrea Payne — The Presence
+Disney withdrew in September 1994. The land was eventually acquired for preservation. The Manassas battlefield remained a battlefield.
 
-Andrea is the operational heart of A Pup's Valley. Not behind a desk — wherever she's needed. She learns the name of every dog and the story of every family, because she understands that pet care is a trust relationship, not a transaction. You are not storing a dog. You are being trusted with a family member.
+What this did to Haymarket's civic culture is hard to overstate. It established that the town could win. It established that showing up mattered. It established that the character of a place was worth fighting for against very large opposition. Everyone who came after — every person who stood at that microphone during Citizens Time — was standing in the tradition of that fight, whether they knew it or not.
 
-Her April 14, 2020 appearance before the Town Council is the emotional center of the novel. The official minutes say she "discussed some of the challenges the business has had since the start of the pandemic shut down order from the Governor." This is the bureaucratic record of what was almost certainly a specific, honest account of what it means to watch something you built go quiet. The writer's job is to fill that gap — not with invention, but with the specificity that the official record cannot hold.
+Dottie told Jim this story herself. He understood it the way you understand something when a person who was there tells you directly.
 
-Andrea is the fire. Jim is the accumulator. Together they cover the ground.
+### The Growth Years (1990s–2010s)
+Prince William County's population roughly doubled between 1990 and 2010. The growth was driven by the expansion of the federal government and its contractors, the extension of commuter infrastructure, and the general pressure of the Washington metropolitan area pushing outward. Gainesville, immediately east of Haymarket, became one of the fastest-growing areas in the country.
 
-### Andy Payne — The Namer
+This growth created a constituency for Haymarket's services without a corresponding attachment to Haymarket's identity. The people in the subdivisions needed dry cleaners and restaurants and, increasingly, dog daycares. They did not necessarily know who Dottie Leonard was or why the brick sidewalks were there.
 
-Andy is a kid in a back seat on a school pickup. He says: *Dad, why don't you call it A Pup's Valley?*
+This tension — between the town's self-understanding and the needs of the surrounding growth — runs through every Town Council meeting Jim and Andrea attended.
 
-The business was called A Dog's Day Out before that. It was fine. It didn't have the soul of the thing.
+### 2018–2019 — The Paynes Choose Haymarket
+Jim and Andrea Payne are not newcomers to the pet care industry. They have built and run an award-winning daycare, boarding, and grooming facility before. They know what excellence looks like and what it costs. When they decide to build A Pup's Valley, they are not stumbling into something — they are choosing it with full knowledge of what they're choosing.
 
-*A Pup's Valley* has something the other name didn't: it's specific to the place. It implies a geography, a home, a valley where the dogs belong. A kid said it without thinking about any of that. That's why it worked.
+They choose Haymarket because they live there. Because they believe in it. Because the town genuinely needs what they're offering. And because they want to build something worthy of the place, not just viable in it.
 
-Andy's role in the novel is not to be a character in the conventional sense. He is the moment when the thing became itself. The writer should treat that moment with the weight it deserves — not sentimentality, but genuine attention to what it means when the right words come from an unexpected place.
+The approval process is real. Permits, zoning, public hearings, public comment. The dump truck traffic on Fayette Street is a real issue raised at real meetings. The Town Council debates are real. Dottie Leonard's support is real and it matters in the way that the support of someone deeply trusted by a community always matters — not loudly, not with pressure, but with the quiet weight of credibility.
 
-### Dottie Watts Leonard — The Connective Tissue
+### September 9, 2019 — Jim Speaks
+Jim Payne stands at the microphone during Citizens Time at a Haymarket Town Council meeting and speaks in support of the planned hotel. He is not required to do this. It does not benefit him directly. He does it because he believes in what Haymarket is trying to become and because he is the kind of person who shows up.
 
-Dottie is the character who makes Haymarket legible as a place with a history worth caring about. She lived there for over fifty years. She served on the Town Council. She helped design the historical overlay — the brick sidewalks, the lamp posts, the deliberate effort to make Haymarket look like somewhere worth preserving. She worked as a real estate agent for decades.
+Councilman Shannon thanks the citizens for caring enough to attend. He does this every time.
 
-**The Disney fight:** In 1993–1994, Disney proposed a massive theme park — Disney's America — to be built outside Haymarket. The park would have been Civil War-themed. The opposition was national: historians, environmentalists, preservationists. Dottie was part of the local resistance. Disney withdrew in September 1994. This is not a side note. This is the event that explains why Haymarket looks the way it does — why there are brick sidewalks instead of a parking structure, why there is a historical overlay instead of a highway interchange. The town that the Paynes chose to build something in exists partly because Dottie Leonard and people like her held the line.
+### Late 2019 — A Pup's Valley Opens
+The business opens at 6680 Fayette Street. Cage-free daycare, boarding, grooming, training. Jim makes a connection with every dog that walks through the door. Andrea learns the name of every dog and the story of every family. The Paynes' golden doodles, Cassie and Gracie, are present. The place is exactly what they said it would be.
 
-**The hospital call:** Jim called Dottie in the hospital near the end. When she picked up, she thought he might be a buyer calling about one of her listings. She was ready to work it. The writer should sit with this for a moment: a woman in a hospital bed, dying, and her first instinct when the phone rings is to be useful, to be professional, to do the work she had done for fifty years. This is not sad. It is a portrait of a specific kind of person — someone whose identity and vocation were not separate things.
+### March 2020 — The Shutdown
+Governor Ralph Northam issues executive orders restricting activity in response to COVID-19. Dog daycare is not an essential service. The premise of the business — that people need somewhere for their dogs while they are somewhere else — evaporates overnight. Revenue stops.
 
-**Death:** March 20, 2024. Age 75. Jim and Andrea went to the funeral. They were among the few who stood up and spoke for her. The novel ends with this, or near it. The chain of care: Dottie made Haymarket worth coming to. The Paynes came and built something worthy of it. They showed up at her funeral and said so.
+### April 14, 2020 — Andrea Speaks
+A Special Meeting of the Haymarket Town Council is held, partially via Zoom. The agenda includes budget discussions and consideration of relief measures for local businesses. Mayor David Leake stops the budget discussion and invites Andrea Payne to the podium.
+
+She speaks about what the shutdown has done to A Pup's Valley. The official minutes record this in the flat language of official minutes: she "discussed some of the challenges the business has had since the start of the pandemic shut down order from the Governor."
+
+The stimulus ordinance does not pass. A 30-day BPOL (Business, Professional, and Occupational License) tax extension is approved. This is what the town can do. Andrea and Jim go home. Andy and the dogs are there.
+
+They do not quit.
+
+### 2020–2023 — The Comeback
+The dogs come back. The families come back. A Pup's Valley earns Best of Prince William, Best of Virginia. The business becomes exactly what Jim and Andrea said it would be — not just the best in the area, but a step above the rest.
+
+### March 20, 2024 — Dottie Leonard Dies
+Dottie Watts Leonard passes away at the age of 75. She had lived in Haymarket for over fifty years. She had served on the Town Council. She had helped design the historical overlay. She had helped stop Disney. She had helped the Paynes get their approvals. She had worked as a real estate agent until she could not.
+
+Jim called her in the hospital near the end. When she answered, she thought he might be a buyer calling about one of her listings. She was ready to work it.
+
+Jim and Andrea went to her funeral. They were among the few who stood up and spoke for her.
 
 ---
 
-## SECTION 4: The Timeline — Events That Create Present-Day Tensions
+## The Rules of This World
 
-| Date | Event | Present-Day Tension Created |
-|---|---|---|
-| 1993–1994 | Disney's America proposed and defeated | Haymarket's identity as a town that fights for itself; the historical overlay that governs what can be built and how |
-| Decades prior | Dottie Leonard serves on Town Council, designs historical overlay | The specific character of the town — brick sidewalks, lamp posts — is the result of deliberate political action, not organic growth |
-| 2018 | Jim and Andrea choose Haymarket | The question of whether a cage-free dog daycare fits the town's vision for itself |
-| 2018–2019 | Permitting, zoning, public hearings | The bureaucratic gauntlet; the dump truck problem on Fayette Street |
-| September 9, 2019 | Jim speaks at Town Council in support of hotel | Jim establishes himself as a community member, not just a business owner |
-| Late 2019 | A Pup's Valley opens | The dream becomes real; the costs become real |
-| March 2020 | COVID-19 shutdown | Revenue goes to zero; the business's survival is suddenly uncertain |
-| April 14, 2020 | Andrea speaks at Special Meeting | The emotional hinge of the novel; the stimulus ordinance fails; the BPOL extension passes |
-| 2020–2023 | The comeback | A Pup's Valley earns Best of Prince William, Best of Virginia |
-| March 20, 2024 | Dottie Leonard dies | The end of an era; Jim and Andrea at the funeral, speaking for her |
+### The Rules of Small-Town Bureaucracy
+
+In Haymarket, the rules are specific and consequential. They are not arbitrary — they are the accumulated decisions of people who showed up and argued about things that mattered to them. Understanding them is not optional for anyone who wants to do business in the town.
+
+**Citizens Time** is the public comment period at Town Council meetings. Any resident may speak. The microphone has a slight hiss. You state your name and address. You have a limited time. What you say goes into the record. What you say also goes into the informal record — the one that exists in the memories of the people in the room, which is the record that actually governs small towns.
+
+**The BPOL tax** is Virginia's Business, Professional, and Occupational License tax, levied on gross receipts. For a new business with no gross receipts yet, it is a formality. For a business that has been open for four months and then had its revenue cut to zero by a gubernatorial executive order, it is not a formality. The 30-day extension approved at the April 14 meeting is a small mercy. It is what the town can do.
+
+**The historical overlay** governs the appearance of buildings and signage in the town's historic district. It is why the lamp posts look the way they do. It is why you cannot put certain kinds of signs on certain kinds of buildings. It is why Haymarket looks like somewhere worth preserving. It is also why permits take as long as they take and why public hearings are required for things that would not require public hearings in Gainesville.
+
+**The cost of these rules** is time and money and the particular frustration of caring deeply about something while a process unfolds at its own pace. The benefit is that the process is real — that decisions are made in public, by people who have to face the public, in a room where any citizen can stand at a microphone and say what they think.
+
+Jim and Andrea understood this. They went to the meetings. They knew the names.
+
+### The Rules of Dog Daycare
+
+Cage-free boarding and daycare is not simply the absence of cages. It is a management philosophy, a staffing model, and a daily operational challenge. Dogs have social hierarchies, stress responses, play styles, and triggers. Putting thirty dogs in a room together without cages requires knowing each dog well enough to predict its behavior, manage its relationships, and intervene before a situation becomes an incident.
+
+This is why Jim's gift matters operationally, not just emotionally. A dog that trusts Jim on day one is a dog that can be managed. A dog that doesn't trust anyone is a liability in a cage-free environment. The intake process — the meet-and-greet, the temperament assessment, the first day — is not a formality. It is the foundation of everything.
+
+**The cost of cage-free** is labor, attention, and the willingness to turn away dogs that are not a good fit. A Pup's Valley does not take every dog. This is not a failing — it is the discipline that makes the model work.
+
+**The rules of trust** between a dog daycare and a client family are specific: you are not providing a service to a customer. You are providing care to a family member on behalf of a family that has no other way to know what happens when they're not there. The only currency is trust, and trust is built one dog at a time, one family at a time, one day at a time.
+
+Andrea understood this from the beginning. She gave tours. She learned names. She called dogs by name before their owners introduced them. This is not a marketing strategy. It is the thing itself.
+
+### The Rules of Community
+
+In a town the size of Haymarket, reputation is not something you manage — it is something you are. It accumulates or erodes in real time, in real rooms, in the memories of real people. Dottie Leonard's support for the Paynes was worth something not because she had formal authority but because she had fifty years of credibility in a place where credibility is the only real currency.
+
+The chain works like this: Dottie spent decades making Haymarket worth coming to. The Paynes came and built something worthy of it. The families of Haymarket and the surrounding county entrusted their dogs to the Paynes. The dogs trusted Jim. This is the complete circuit. Pull any link and the chain fails.
+
+**The cost of community** is showing up when it's inconvenient, speaking when you'd rather not, staying when leaving would be easier. Jim spoke at the September 9 meeting when he didn't have to. Andrea spoke at the April 14 meeting when the outcome was uncertain. Jim stood up at Dottie's funeral when most people stayed seated. These are not grand gestures. They are the actual practice of belonging to a place.
 
 ---
 
-## SECTION 5: Voice Identity
+## The Characters as Operational Reference
+
+### Jim Payne — What the Writer Needs to Know
+
+Jim is methodical in the way that people are methodical when they've been burned by cutting corners. He knows the names of the councilmembers, the town planner, and the police chief because knowing names is how you signal that you are serious and how you build the relationships that make things possible. He is not a networker — he is a person who pays attention.
+
+His gift with dogs is not mystical. It is the product of genuine attention and the absence of agenda. He gets low. He gets quiet. He waits. Dogs respond to stillness and patience because most of the humans they meet are neither still nor patient. Jim is both. The nervous ones settle because there is nothing to be nervous about. The wild ones focus because there is something worth focusing on. The ones who have never trusted a stranger reconsider because Jim is not asking them to trust a stranger — he is simply being present until the dog decides on its own terms.
+
+This is also how he operates in the world. He does not push. He is present until the situation resolves itself in the right direction.
+
+### Andrea Payne — What the Writer Needs to Know
+
+Andrea runs the operation in the sense that the operation runs because of her. She is the one who knows what day it is, what dog is coming in, what family needs a call back, what staff member is struggling. She is also the one who gave tours and learned names and built the relationship with every family before the relationship with their dog could be built.
+
+Her appearance at the April 14 meeting is the emotional center of the novel because it is the moment when everything she has built — the relationships, the reputation, the daily work — comes into contact with a force (the pandemic, the shutdown, the bureaucratic machinery of relief) that does not know her name and does not care about her dogs. She speaks anyway. She speaks clearly. She goes home.
+
+This is the heroism of the novel: not dramatic, not rewarded in the moment, not even fully acknowledged in the official record. Just a person speaking clearly about a real situation to people who have the power to help and mostly cannot.
+
+### Andy Payne — What the Writer Needs to Know
+
+Andy is a kid in the back seat of a car who said the right thing at the right moment. The novel does not need to make more of this than it is. What it is, is already enough: a child, without agenda or strategy, named the thing his parents were building. The name came from outside the business logic, outside the branding considerations, outside the adult world of permits and zoning and BPOL taxes. It came from a kid who heard what his parents were doing and knew what to call it.
+
+A Pup's Valley. Valley, not daycare. Valley, not facility. A valley is a place things come to. A place with shelter on the sides and open sky above. A place animals know how to find.
+
+### Dottie Watts Leonard — What the Writer Needs to Know
+
+Dottie is the connective tissue between the Haymarket that existed and the Haymarket the Paynes came to build something in. She is not a symbol — she is a specific person who did specific things over fifty years in one place. The historical overlay is real because she fought for it. The Disney fight was won because people like her showed up and did not stop showing up.
+
+Her support for the Paynes was not charity. She recognized people who were doing the thing right — who understood that a business in a community is not separate from the community, that the quality of what you build reflects on the place you build it in. She had spent fifty years believing this. The Paynes confirmed it.
+
+The detail of the hospital phone call is the detail that defines her: she thought Jim might be a buyer calling about one of her listings. She was ready to work it. This is not sad — it is magnificent. She was a woman who worked until the end because the work was not separate from the life. The work was how she loved the place.
+
+Jim and Andrea stood up at her funeral when most people didn't. This is the same instinct that made Jim speak at the September 9 meeting and Andrea speak on April 14. You show up. You say the thing. You do it because it's right, not because it's easy.
+
+---
+
+## Voice Identity
 
 ### Tone
 
-Warm but not sentimental. Specific but not clinical. The narrator loves these people and this place without losing the ability to see them clearly. The heroism is ordinary — showing up, speaking up, not quitting — and the prose should honor that ordinariness rather than inflating it. When something is funny, it's funny the way real life is funny: dry, situational, slightly absurd. When something is hard, it's hard the way real life is hard: not dramatic, just heavy.
-
-Think: the narrator of *Friday Night Lights* — Bissell's Buzz, not the TV show's score — crossed with the precision of *The Orchid Thief* and the emotional directness of *Educated*. Community-deep. Detail-rich. Quietly devastating in the moments that matter.
+Warm but not sentimental. Specific but not clinical. The narration trusts the facts to carry the emotion — it does not tell the reader how to feel about Andrea at the podium or Jim on the phone with Dottie. It renders the scene with enough precision that the feeling arrives on its own. Dry humor surfaces in the details: the microphone's hiss, the McDonald's traffic backup, the HVAC cycling during Citizens Time. The humor is never at the expense of the people. It is the humor of people who have learned to laugh at the absurdity of the systems they must navigate.
 
 ### Sentence Rhythm
 
-Long sentences for context and accumulation. Short sentences for impact and arrival. The rhythm should feel like a person thinking out loud — not stream of consciousness, but the natural cadence of a careful mind working through something it cares about.
-
-Dialogue is clipped and specific. People in Haymarket don't make speeches; they make points. When Andrea speaks at the Town Council, she is not eloquent in the way of politicians. She is honest in the way of people who have run out of patience for performance.
+Sentences build. The short ones land. Long sentences carry the texture of a place or a process — the accumulation of details that makes Haymarket feel real, that makes the approval process feel like what it actually is. Short sentences mark the moments that matter: *Jim called her in the hospital. When she picked up, she thought he might be a buyer.* The rhythm shifts with the emotional register. Bureaucratic passages have longer, more tangled sentences — because bureaucracy is long and tangled. The moments of clarity — Andy in the back seat, Andrea at the podium, Dottie answering the phone — are short.
 
 ### Vocabulary Register
 
-American plain speech with room for precision. Not elevated, not colloquial. The word-hoard is Anglo-Saxon in its bones — short words, direct verbs, nouns that name specific things — with room for the occasional technical term when the technical term is the right one. "BPOL" is in this novel. So is "cage-free." So is "use permit." These are not obstacles to the prose. They are the texture of the world.
-
-No abstractions where a specific will do. Not "the business struggled" but "the revenue went to zero in a week and the rent was due in thirty days."
+American. Precise. The vocabulary of people who know their trade and their town. No Latinate inflation. No reaching for the literary when the plain word is better. *Cage-free* means something specific. *Citizens Time* means something specific. *BPOL* means something specific. The narration uses these terms without apology and explains them in context, the way a good journalist does — not with a glossary, but with the sentence that follows.
 
 ### POV and Tense
 
-Third-person limited, moving between Jim and Andrea as the story requires. Past tense throughout, except where the present tense is used for brief, deliberate effect — the way Bissell occasionally pulls the camera back and speaks directly to the reader about what this place is.
-
-The narrator is not invisible. The narrator has a perspective and occasionally says so — not intrusively, but with the confidence of someone who has spent time with these people and earned the right to characterize them.
+Third person, close. Past tense. The narration moves between Jim and Andrea's perspectives chapter by chapter, sometimes within a chapter, always in service of the scene. The narrator is not a character — there is no "I" — but the narrator is present, the way the narrator of *Friday Night Lights* is present: attentive, knowledgeable, willing to editorialize briefly and then step back.
 
 ### Dialogue Conventions
 
-Action beats over dialogue tags where possible. "Said" when a tag is needed — never "stated" or "offered" or "remarked." Characters sound different from each other through word choice and rhythm, not through dialect markers. Jim speaks in shorter sentences than Andrea. Dottie Leonard speaks with the authority of someone who has been in these rooms for fifty years and knows how they work.
-
-Subtext rules: characters rarely say exactly what they mean when they're in public. In the Council chambers, Andrea speaks about "challenges." What she means is: *we built this thing and we are watching it die and we need help.* The writer's job is to hold both — the official language and the real meaning — simultaneously.
+Dialogue is sparse and specific. When characters speak, they speak in their own register — Jim's is quieter, more measured; Andrea's is direct and warm; Dottie's is the voice of someone who has been in enough rooms to know exactly what she thinks and how to say it. Tags are minimal: *said* when necessary, action beats when the action tells you something the tag wouldn't. Subtext is present but not labored — these are people who mostly say what they mean, which is its own kind of subtext in a world where most people don't.
 
 ### Exemplar Passages
 
-**1. The drive home (Andy names the business)**
+---
 
-Jim was driving. The question of what to call the place had been sitting in the back of his mind for weeks — not urgent, just present, the way unresolved things tend to be. Andy was in the back seat. The radio was probably on. Jim doesn't remember.
+The chairs in the Town Council chambers were the stackable kind, and there were never quite enough of them. Jim had learned to arrive early enough to get one near the aisle. Not because he planned to leave — he never left early — but because the aisle felt like the right place to sit when you were paying attention.
 
-What he remembers is the voice from behind him, easy and certain: *Dad, why don't you call it A Pup's Valley?*
+---
 
-Jim didn't say anything right away. He turned it over. *A Pup's Valley.* It had a geography to it, a sense of place. It implied somewhere the dogs belonged. He drove the rest of the way home thinking about it, and by the time he pulled into the driveway he already knew it was the name. He told Andrea. She heard it the same way he had. That was that. Five words from a kid who wasn't trying to solve anything.
+Andrea had given the tour so many times she could do it without thinking, which meant she could do it while actually paying attention to the person she was giving it to. The family with the rescue shepherd who'd never been in a facility before. The couple with the elderly Lab who needed to know there was somewhere soft to sleep. She learned the dogs' names first, then the families'. The dogs were the ones who couldn't speak for themselves.
 
-**2. Jim at the microphone (September 9, 2019)**
+---
 
-The room was what it always was: municipal carpet, folding chairs, the fluorescent hum of civic life on a weeknight. Jim walked up to the microphone during Citizens Time and said he fully supported the planned hotel. He wasn't there because the hotel would benefit him — it probably wouldn't, not directly. He was there because he'd been paying attention to what Haymarket was trying to become, and he thought the hotel was part of that, and he believed in saying so when you believed in something.
+Andy said it from the back seat, the way kids say things — not building to it, not aware that it was the thing, just saying it because it was true. *Dad, why don't you call it A Pup's Valley?* Jim heard it land. He drove the rest of the way home with it sitting in the car between them like something that had always been there, waiting to be named.
 
-He said his piece. He sat down. Councilman Shannon thanked him for coming.
+---
 
-**3. Dottie in the hospital**
+The minutes of the April 14, 2020 Special Meeting record that Andrea Payne "discussed some of the challenges the business has had since the start of the pandemic shut down order from the Governor." This is what official minutes do: they reduce. They take the specific weight of a specific person saying a specific true thing in a specific room and they compress it into a clause. The clause is accurate. It is not the thing.
 
-Jim called her near the end. He knew she was sick. He called anyway, because that's what you do with people you respect — you call.
+---
 
-She picked up on the second ring. Her voice was clear.
+She picked up on the third ring. Jim had called not knowing what he was going to say, which was not like him. *Dottie.* A pause. Then her voice — still clear, still professional, the voice of someone who had been answering phones for fifty years. She asked if he was calling about the listing on Waterfall Road. She was ready to work it. Jim told her no, he was just calling. There was a silence that was not uncomfortable. They talked for a while. He did not tell her it was the last time. He didn't know. Maybe she did.
 
-She thought he might be a buyer calling about one of her listings.
-
-She was ready to work it.
-
-Jim talked to her for a while. He didn't try to tell her what she'd meant to the town, or to them. She would have waved that off. Instead he just talked — about Haymarket, about the business, about what was happening on Fayette Street. She listened the way she always had: carefully, with the particular attention of someone who understood that information about a place is never just information.
-
-He didn't know it would be the last time. You never do.
-
-**4. April 14, 2020**
-
-The Mayor stopped the budget discussion and invited Andrea to the podium. This is the kind of thing that happens in small towns — the agenda bends when a real person needs to speak. Andrea walked up. The room was partly empty, partly on Zoom, partly holding its breath.
-
-She talked about the challenges. That's what the minutes say: she *discussed some of the challenges the business has had since the start of the pandemic shut down order from the Governor.* The minutes are a transcript of the official record, which is not the same thing as a transcript of what was actually said, or what it cost to say it.
-
-The stimulus ordinance did not pass. A 30-day BPOL extension was approved. Andrea and Jim went home. Andy was there. The dogs were there. They did not quit.
-
-**5. The funeral**
-
-The church was full of people who had known Dottie Leonard for decades — people she had sold houses to, people she had served alongside on the Council, people who had watched her fight for this town when fighting for it wasn't fashionable.
-
-Jim and Andrea were there. When it came time for people to speak, most of the room stayed seated. Jim and Andrea stood up.
-
-They talked about what she had meant to them — not in the abstract, not in the language of tribute, but specifically. The approvals. The rooms she had walked them through. The way she had understood what they were trying to build and had decided it was worth backing. The brick sidewalks she had helped put in, which their clients walked on every day without knowing who had fought for them.
-
-Dottie Leonard spent fifty years making Haymarket worth coming to. The Paynes came and built something worthy of it. They stood up at her funeral and said so.
-
-That is the story. That is all of it.
+---
 
 ### Anti-Exemplars
 
 **Too sentimental:**
-> *The little dog trotted into Jim's arms, and in that moment, all the hardship and struggle fell away. This was why they had built this place — for moments like these, pure and golden.*
+*The golden doodles bounded through the sunlit facility, their joy infectious, their presence a reminder of why Jim and Andrea had sacrificed so much to build this dream. In every wagging tail was the answer to every hardship they had endured.*
 
-This is the language of a greeting card. The real moments in this story are specific and slightly awkward and more honest than this.
+**Too journalistic, not enough texture:**
+*A Pup's Valley, located at 6680 Fayette Street in Haymarket, Virginia, offers cage-free daycare, boarding, grooming, and training services. It was founded by Jim and Andrea Payne in 2019.*
 
-**Too clinical:**
-> *The BPOL tax extension represented a 30-day deferral of business license fees, which, while insufficient to address the full scope of revenue loss, provided marginal short-term relief.*
+**Too literary, wrong register:**
+*The pandemic fell on Haymarket like a sentence handed down from an indifferent court, and Andrea stood in its shadow, small and precise, a woman made of careful words and careful love, waiting for the world to remember that small things matter.*
 
-This is accurate and completely inert. The facts are in service of nothing.
-
-**Too inflated:**
-> *Jim Payne was a man of rare gifts — a dog whisperer in the truest sense, a community builder of uncommon vision, a husband and father whose quiet strength anchored everyone around him.*
-
-This is hagiography. The real Jim Payne doesn't need this. He needs a narrator who watches him get low and quiet with a nervous dog and trusts the reader to understand what that means.
-
-**Too detached:**
-> *The Town Council of Haymarket, like all such bodies, operated according to the rhythms of small-town governance — the familiar theater of civic participation, the predictable performance of democratic process.*
-
-This is condescending to the people in that room. Councilman Shannon means it when he thanks people for showing up. The writer must mean it too.
+**Too much interiority, not enough scene:**
+*Jim thought about what it meant to belong somewhere. He had always wondered if he was the kind of person who could really put down roots. Now, standing in the council chambers, he felt something shift inside him — a settling, like soil after rain.*
 
 ---
 
-## SECTION 6: Internal Consistency Rules
+## Internal Consistency Rules
 
-These are the hard constraints. A writer must not violate them.
+**What the writer must not violate:**
 
-1. **Every character is a real person.** No invented characters. No composite characters. No fictional neighbors, fictional councilmembers, fictional employees. If a person appears in the story, they are real.
+1. Every person in this book is a real person. No composite characters. No invented dialogue that contradicts what is known about how these people speak and think. When dialogue is reconstructed, it must be grounded in what is documented or what the people themselves have confirmed.
 
-2. **Every location is a real place.** 6680 Fayette Street. The Town Council chambers. Washington Street. The Piedmont. No invented geography.
+2. Every location is a real location. The sensory details must be accurate to the actual place. Haymarket's geography, the layout of Fayette Street, the appearance of the Town Council chambers — these are checkable facts.
 
-3. **Every event happened.** The dates, the meetings, the votes, the death. Do not invent drama. The real drama is sufficient.
+3. The timeline is fixed. Disney's America, 1993–1994. A Pup's Valley opens, late 2019. The shutdown, March 2020. The April 14 meeting, April 14, 2020. Dottie's death, March 20, 2024. These dates are not adjustable for narrative convenience.
 
-4. **The dogs are not metaphors.** They are real animals. They behave like real animals. Their emotional responsiveness is behavioral, not symbolic. The writer may use them thematically, but must not make them do things dogs don't do.
+4. The dogs are not metaphors. They are Cassie and Gracie. They are family members. The novel uses dogs to reflect the emotional state of the humans around them, but it does not turn them into symbols. They remain specific animals with specific personalities.
 
-5. **Dottie Leonard is not a saint.** She is a specific person — practical, professional, committed to a place she loved. The writer should resist the pull toward canonization. She would have hated it.
+5. The heroism is ordinary. No scene in this novel should suggest that Jim and Andrea are exceptional in a way that removes them from the human. They are people who showed up, worked hard, spoke clearly, and did not quit. This is the story. It is enough.
 
-6. **The pandemic is not a villain.** It is a force — impersonal, indifferent, structural. The drama is not the virus. The drama is what people did in response to it.
+6. Dottie Leonard is treated with full dignity. She is not a mentor-figure who exists to validate the protagonists. She is a person with fifty years of her own story, her own fights, her own reasons. The Paynes are one chapter in a long life. The novel honors the whole life.
 
-7. **The Town Council is not a bureaucratic obstacle.** It is a functioning institution made of real people trying to govern a real town. It may be slow. It may be frustrating. It is not the enemy.
-
-8. **A Pup's Valley is cage-free.** This is a specific operational and philosophical commitment, not a detail. It shapes the physical space, the staffing model, and the relationship between the facility and the dogs in it. It should be present in any description of the business.
-
-9. **The name came from Andy.** This is non-negotiable. No other origin story. No "the Paynes had always loved the name." Andy said it in the car. That's the story.
-
-10. **Jim and Andrea did not quit.** The novel does not end in failure. It ends in the specific, earned satisfaction of people who built something real in a real place and watched it become what they said it would be. The tone of the ending should honor that without inflating it.
+7. The pandemic is not the villain. The pandemic is the crucible. The Town Council is not the villain. The bureaucracy is not the villain. There are no villains in this story. There are forces, and there are people who navigate them.
 
 ---
 
-*This document is the world. When in doubt, return here. When the story wants to invent, return here. The real thing is better than anything you could make up. Stay in it.*
+*This document is the ground truth for the novel. A writer should be able to resolve any question about character, setting, event, or tone from what is written here. Where this document is silent, the answer is: go find the real fact. This story has enough of them.*
