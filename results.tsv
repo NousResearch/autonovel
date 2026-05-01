@@ -17,3 +17,4 @@ a624f90	foundation	0.0	0	keep	Iteration 12: score improved 0.0 -> 0.0
 7d96ca0	foundation	0.0	0	keep	Iteration 13: score improved 0.0 -> 0.0
 5b8e64c	foundation	6.0	0	keep	Iteration 1: score improved 0.0 -> 6.0
 788f03b	foundation	6.0	0	keep	Iteration 2: score improved 6.0 -> 6.0
+discarded	foundation	-1.0	0	discard	Iteration 20: no improvement (-1.0 <= 6.0)
