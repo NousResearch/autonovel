@@ -135,3 +135,6 @@ print(result)
 
 with open('/tmp/outline_output.md', 'w') as f:
     f.write(result)
+
+with open('outline.md', 'w') as f:
+    f.write(result)
