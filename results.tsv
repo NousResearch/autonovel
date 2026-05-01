@@ -67,3 +67,4 @@ f83449a	revision-cycle-3	5.0	67863	cycle	Cycle 3: novel_score 6.0->5.0
 ec4f427	export	6.0	65926	export	Final export
 182224a	foundation	5.0	0	keep	Iteration 1: score improved 0.0 -> 5.0
 discarded	foundation	4.0	0	discard	Iteration 4: no improvement (4.0 <= 5.0)
+discarded	foundation	5.0	0	discard	Iteration 2: no improvement (5.0 <= 6.0)
