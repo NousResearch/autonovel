@@ -132,3 +132,6 @@ CONSTRAINTS:
 print("Calling writer model...", file=sys.stderr)
 result = call_writer(prompt)
 print(result)
+
+with open('/tmp/outline_output.md', 'w') as f:
+    f.write(result)
