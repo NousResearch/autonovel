@@ -1,6 +1,6 @@
 {
-  "phase": "revision",
-  "current_focus": "full_novel",
+  "phase": "export",
+  "current_focus": "export",
   "iteration": 20,
   "foundation_score": 6.0,
   "lore_score": 7.0,
