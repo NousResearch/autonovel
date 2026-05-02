@@ -107,3 +107,4 @@ ba30d27	rev-ch12	7.7	1540	keep	Cycle 1: momentum_loss improved 6.4->7.7
 reverted	rev-ch03	6.2	2204	discard	Cycle 2: thinnest_character regressed 6.7->6.2
 de030a1	rev-ch13	7.0	1261	keep	Cycle 2: momentum_loss improved 7.0->7.0
 reverted	rev-ch08	7.48	717	discard	Cycle 3: cut_candidate regressed 8.0->7.48
+9d5ebc1	rev-ch02	7.8	1639	keep	Cycle 3: thinnest_character improved 7.0->7.8
