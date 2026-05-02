@@ -110,3 +110,4 @@ reverted	rev-ch08	7.48	717	discard	Cycle 3: cut_candidate regressed 8.0->7.48
 9d5ebc1	rev-ch02	7.8	1639	keep	Cycle 3: thinnest_character improved 7.0->7.8
 bc81e03	rev-ch11	8.0	730	keep	Cycle 3: momentum_loss improved 7.0->8.0
 0d6e38b	rev-ch10	6.3	1852	keep	Cycle 3: momentum_loss improved 6.3->6.3
+9ec1f42	revision-cycle-3	9.0	46324	cycle	Cycle 3: novel_score 9.0->9.0
