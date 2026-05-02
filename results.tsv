@@ -104,3 +104,4 @@ ba30d27	rev-ch12	7.7	1540	keep	Cycle 1: momentum_loss improved 6.4->7.7
 1bfe9ca	revision-cycle-1	9.0	55629	cycle	Cycle 1: novel_score 0.0->9.0
 479e95a	rev-ch11	8.0	995	keep	Cycle 2: momentum_loss improved 8.0->8.0
 81a1715	rev-ch09	7.0	1242	keep	Cycle 2: cut_candidate improved 6.72->7.0
+reverted	rev-ch03	6.2	2204	discard	Cycle 2: thinnest_character regressed 6.7->6.2
