@@ -1,685 +1,715 @@
-# EVERY DOG HAS ITS DAY
-## Complete Chapter Outline — Jim and Andrea Payne
+# THE SECOND SON OF THE HOUSE OF BELLS
+## Chapter Outline (reflects actual novel as-written)
+
+**23 chapters, 30,091 words**
 
 ---
 
-## PRELIMINARY NOTE ON STRUCTURE
+### Ch 1: Chapter One: Citizens Time
+**1604 words** | **Location:** Haymarket, Virginia — Town Council chambers, Fayette Street storefront, and Jim's home
+- **Characters:** Jim, Andrea, Councilman Shannon, Andy (referenced), Dottie Leonard (referenced), Gracie (dog), antique shop woman, post office woman (minor)
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** From purposeful civic duty through quiet private hope, Jim moves from public action to solitary threshold-standing to domestic stillness — arriving at a fragile, earned calm on the eve of a new beginning.
 
-This outline adapts the Save the Cat beat sheet, Dan Harmon's Story Circle, and MICE Quotient to narrative nonfiction. The frameworks are tools, not cages. Where the real events dictate a beat lands at 31% instead of 27%, the real events win.
+**Summary:** Jim attends a Town Council meeting to publicly support a hotel development that will benefit the town, then walks past the nearly-finished storefront for his soon-to-open dog daycare business. He returns home to Andrea and their dog Gracie, sitting quietly with the anticipation of something about to begin.
 
-The central MICE threads:
-- **EVENT thread:** The disruption of COVID-19 and the fight to survive it (opens Ch 1, closes Ch 22)
-- **CHARACTER thread:** Andrea's arc from absorber of cost to speaker of truth (opens Ch 3, closes Ch 21)
-- **MILIEU thread:** Haymarket as a place worth building in (opens Ch 1, closes Ch 24)
-- **INQUIRY thread:** What does it mean to build something worthy of a community? (opens Ch 2, closes Ch 23)
+**Beats:**
+1. Jim speaks briefly at Citizens Time to support the hotel, modeling civic participation without personal agenda
+1. Councilman Shannon delivers his ritual thank-you, which Jim has been quietly weighing for a year
+1. Jim detours to stand outside the Fayette Street building — his own business, nearly ready to open
+1. Jim reflects on the business's origins: the site-selection math, Andy naming it from the back seat, Dottie Leonard's quiet help
+1. Jim returns home to Andrea and Gracie, settling into domestic calm while holding the threshold feeling of something about to start
 
-MICE threads close in reverse order of opening: MILIEU opens first (Ch 1), closes last (Ch 24). INQUIRY opens second (Ch 2), closes second-to-last (Ch 23). CHARACTER opens third (Ch 3), closes third-to-last (Ch 21). EVENT opens fourth (Ch 4), closes fourth-to-last (Ch 22).
+**Plants:**
+- The math didn't know about pandemics — explicit foreshadowing of future business disruption
+- The business name 'A Pup's Valley' was given by Andy from the back seat, suggesting Andy is a child whose relationship to the business will matter
+- Dottie Leonard helped them through the approval process 'not loudly but effectively' — she is an established ally whose role may expand
+- Andrea's expression of 'knowing something she wasn't going to say yet' hints at withheld information or a developing subplot
+- Shannon's ritual sincerity — Jim has been 'sitting with it for a year,' suggesting a theme about authenticity vs. performance that will recur
 
----
-
-## ACT STRUCTURE
-
-| Act | Chapters | % Range | Word Count Target |
-|---|---|---|---|
-| Act I | Ch 1–6 | 0–23% | ~18,000 words |
-| Act II Part 1 | Ch 7–13 | 23–50% | ~22,000 words |
-| Act II Part 2 | Ch 14–19 | 50–77% | ~20,000 words |
-| Act III | Ch 20–24 | 77–100% | ~18,000 words |
-
-**Key beat percentages:**
-- Opening Image: Ch 1 (0%)
-- Theme Stated: Ch 2 (~5%)
-- Catalyst: Ch 5 (~11%)
-- Break Into Two: Ch 7 (~23%)
-- Midpoint: Ch 13 (~50%)
-- All Is Lost: Ch 17 (~68%)
-- Dark Night of the Soul: Ch 18 (~72%)
-- Break Into Three: Ch 19 (~77%)
-- Final Image: Ch 24 (~99%)
+**Chapter question:** Will the business Jim and his family have sacrificed and planned for actually succeed — and what will the unnamed future disruption cost them?
 
 ---
 
-## CHAPTER-BY-CHAPTER OUTLINE
+### Ch 2: Chapter Two: What Haymarket Is Trying to Be
+**1472 words** | **Location:** Haymarket, Virginia (Washington Street, Route 15/55 intersection, Dottie Leonard's kitchen, Town Council chambers)
+- **Characters:** Jim Payne, Andrea Payne, Dottie Leonard (Dorothy Watts Leonard)
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** From civic abstraction and historical distance, the chapter moves into intimate grief and gratitude, arriving at quiet vindication — the town Dottie protected is still standing, and the people she trusted proved her right.
+
+**Summary:** The chapter establishes Haymarket's identity as a small town that has actively resisted absorption by suburban sprawl, embodied by the life and legacy of Dottie Leonard, a realtor and Town Council member who fought to preserve the town's character for decades. Jim Payne recounts intimate conversations with Dottie, including her role in defeating Disney's America development proposal in 1994, and her endorsement of the Paynes and their dog daycare business. Dottie dies on March 20, 2024, and the chapter frames the Paynes' business on Fayette Street as the answer to whether the people she championed were worthy of the town she built.
+
+**Beats:**
+1. The Route 15/55 intersection is introduced as a symbol of Haymarket's tension between transit and place, establishing the town's precarious identity against suburban encroachment.
+1. Dottie Leonard is introduced as the human embodiment of Haymarket's institutional memory — realtor, Council member, and keeper of the town's standards for who belongs.
+1. The Disney's America conflict (1993–1994) is recounted as the defining test of Dottie's philosophy: anger over fear, certainty over doubt, and the town's survival over corporate momentum.
+1. Jim and Dottie's kitchen conversation reveals her framework — 'scared means you think you might lose' — which Jim maps onto his own experience building the dog daycare.
+1. Dottie's death and the Paynes' eulogy close the chapter, with the dog daycare on Fayette Street declared the answer to whether the people she believed in were worthy of her belief.
+
+**Plants:**
+- Dottie's ability to identify at first meeting which families will stay versus pass through — implies she made a specific judgment about the Paynes that will be elaborated.
+- Jim's parallel experience of 'permits, zoning hearings, months of public comment periods' hints at a detailed bureaucratic struggle to open the business not yet fully told.
+- The child naming the business from the back seat of a car is referenced but not explained, planting the origin story of the daycare's name.
+- The framing of the Paynes as 'worthy' of Haymarket sets up the question of whether the business will succeed or fail as a verdict on that worthiness.
+
+**Harvests:**
+- The book's central business (the dog daycare on Fayette Street) is confirmed as real, open, and named — paying off the premise established in Chapter 1.
+- Dottie Leonard, presumably introduced or referenced earlier, is now fully characterized and her relationship to the Paynes is explained and concluded with her death.
+- The Disney's America historical episode, likely alluded to in context of Haymarket's preservation battles, is here fully narrated and resolved.
+
+**Chapter question:** Were Jim and Andrea Payne truly worthy of what Dottie Leonard saw in them, and can the business she believed in become part of the town she spent her life protecting?
 
 ---
 
-### Ch 1: Citizens Time
+### Ch 3: Chapter Three: The People Who Did This Before
+**1778 words** | **Location:** Andrea and Jim's home, Haymarket, Virginia (kitchen and backyard)
+- **Characters:** Andrea, Jim, Gracie, Cassie, Andy (mentioned only)
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** From the low-stakes comedy of a dog's morning mischief, the chapter moves into quiet, earned confidence — two people who have done hard things before steadying themselves for the next one, ending in tentative, open-eyed optimism.
 
-- **POV:** Third-person limited, close on Jim; narrator present but not intrusive
-- **Location:** Haymarket Town Council chambers; 6680 Fayette Street (exterior)
-- **Save the Cat beat:** Opening Image
-- **% mark:** 0–4%
-- **Emotional arc:** Quiet confidence → something larger glimpsed
-- **Try-fail cycle:** Yes-and (rare; opening image earns it — the world is established, not tested)
-- **Beats:**
-  1. September 9, 2019. Jim parks on Washington Street, walks to the Council chambers. The narrator establishes Haymarket through his eyes: brick sidewalks, lamp posts, the specific quality of a town that has decided it is worth preserving. The fluorescent lights. The sixty seats. The dais.
-  2. Citizens Time. Jim steps to the microphone. He gives his name, his address on Fayette Street, and says he fully supports the planned hotel. Not because it benefits him. Because the town needs the tax base and the foot traffic. He sits down.
-  3. Councilman Shannon thanks the citizens for showing up. He says it the way he always says it — whether he means it as a tic or a genuine belief is left open.
-  4. After the meeting, Jim walks back past 6680 Fayette Street. The building is there. The sign is not up yet. He looks at it the way you look at something that is about to become the most important place in your life.
-  5. Brief establishing passage: the Piedmont in September, the Blue Ridge on the western horizon, the particular quality of a town that knows it is being watched by the county that surrounds it.
-- **Plants:**
-  - The building at 6680 Fayette Street, seen from outside, not yet open
-  - Councilman Shannon's phrase ("thank you for caring enough to show up")
-  - The hotel debate as proxy for the larger argument about what Haymarket is becoming
-  - Jim's habit of showing up to things that don't directly benefit him
-- **Payoffs:** None yet — this is pure planting
-- **Character movement:** Jim is established as a civic participant, a man who shows up. The reader understands he has skin in this town before they understand the nature of the bet.
-- **Thematic function:** The novel's central argument is introduced in action before it is stated in words: the best things are built by people who show up for a place before they need anything from it.
-- **~Word count target:** 3,200
+**Summary:** Andrea and Jim share an early morning at home with their two dogs, reviewing a tabbed folder of plans for their new dog boarding and grooming business. Through domestic ritual and practiced conversation, they reaffirm their reasons for launching A Dog's Day Out in Haymarket — their community roots, an identified market need, and a commitment to excellence. The chapter establishes their partnership dynamic and the emotional stakes of the venture.
 
----
+**Beats:**
+1. Gracie retrieves a sock and presents it with theatrical ceremony, establishing the dogs' personalities and the household's tone.
+1. Jim opens the seven-tabbed folder and walks Andrea through their accumulated knowledge: facility standards, client relationships, and market data for the Gainesville corridor.
+1. The couple settles on the business name — 'A Dog's Day Out' — with quiet, unsentimental acceptance.
+1. Jim articulates the three-part rationale for Haymarket: they live there, the town needs it, and they intend to do it better than anyone else.
+1. Andrea reflects on the trust-based nature of the client tours she will give, framing the business as a structure built entirely of trust, before the couple closes the morning and the day begins.
 
-### Ch 2: What Haymarket Is Trying to Be
+**Plants:**
+- The building on Fayette Street is referenced as the physical site of the future business, not yet built out.
+- Andy is mentioned as someone who will want to see the business — his identity and relationship to Andrea and Jim is left unexplained.
+- Andrea's detailed mental rehearsal of client tours hints at future scenes involving intake, family relationships, and trust-building with pet owners.
+- Cassie's aging hip and her history of being present through 'the previous business and the move' implies a prior venture with its own story.
+- Jim's instinct to stay still and let difficult dogs arrange themselves is noted as a skill — suggesting future scenes with challenging animals or clients.
 
-- **POV:** Narrator-wide (closest to omniscient the novel gets); anchored in Dottie Leonard's history
-- **Location:** Haymarket, Virginia — historical and contemporary; the Town Council chambers across decades
-- **Save the Cat beat:** Theme Stated / Setup
-- **% mark:** 4–8%
-- **Emotional arc:** Curiosity → investment (reader falls for the town)
-- **Try-fail cycle:** No try-fail — this is a setup/context chapter; structural rather than scenic
-- **Beats:**
-  1. The narrator introduces Haymarket properly: incorporated 1799, the intersection of Route 15 and Route 55, the argument that intersection represents about what the town is and what it's trying to be.
-  2. Dottie Watts Leonard enters the narrative. Not her death — her life. She moved here more than fifty years ago and chose to stay. The narrator establishes her as a person who made a decision about a place and then spent decades making that decision mean something.
-  3. The historical overlay: brick sidewalks, lamp posts, the deliberate effort to make Haymarket look like somewhere with a past. The narrator makes clear these did not happen by accident. Someone fought for them. Several someones.
-  4. The Disney fight is introduced — not in full yet, but as a fact: in 1993 and 1994, a very large force moved in a very confident direction toward Haymarket, and the town said no. The narrator notes that Dottie was in that fight. Details to come.
-  5. The theme is stated — not by the narrator, but embedded in a description of what Dottie's fifty years of work amounted to: she made Haymarket worth coming to. The question the novel will ask is whether the people who come are worthy of it.
-- **Plants:**
-  - The Disney fight (introduced, not yet detailed)
-  - Dottie's real estate career as institutional memory of the town
-  - The tension between Haymarket's incorporated limits and the county that surrounds it
-  - The brick sidewalks as physical evidence of someone's care
-- **Payoffs:** None yet
-- **Character movement:** Dottie is established as a character before she appears in the present-tense story. The reader understands her significance before they meet her in action.
-- **Thematic function:** The INQUIRY thread opens here: what does it mean to build something worthy of a community? Dottie's life is the first answer offered.
-- **~Word count target:** 3,000
+**Harvests:**
+- The couple's prior experience running a similar facility (referenced obliquely as 'the previous business') is confirmed, paying off any earlier implication that they are not first-time operators.
+- The market rationale — dual-income households, long commutes, Route 29 corridor growth — grounds earlier suggestions that Haymarket is an underserved location.
 
----
-
-### Ch 3: The People Who Did This Before
-
-- **POV:** Close third on Andrea, with Jim present
-- **Location:** The Paynes' home on Fayette Street; the previous facility (referenced, not dramatized)
-- **Save the Cat beat:** Setup — establishing the protagonists fully
-- **% mark:** 8–12%
-- **Emotional arc:** Settled competence → the specific excitement of doing the hard thing again
-- **Try-fail cycle:** No-but (the previous facility succeeded; the choice to do it again in a smaller town is the "no" — it's harder — but the "but" is that they know exactly what they're doing)
-- **Beats:**
-  1. Andrea's morning at home. Cassie and Gracie establish themselves as household members — not props, not mascots, but the original residents of whatever space the Paynes inhabit. The dogs' behavior in the morning establishes the emotional weather of the scene.
-  2. Jim and Andrea at the kitchen table, going over what they know: they have done this before. They built and ran an award-winning facility. They know what excellent looks like. The narrator makes clear this is not a first attempt by people who don't understand the risk.
-  3. The CHARACTER thread opens: Andrea's wound is introduced obliquely. She is the person who gives the tours, learns the names, builds the trust architecture of the business. The narrator notes, without editorializing, that this is the most important and least visible work in a trust business.
-  4. Why Haymarket: they live here. They want to work where they live. They want to offer something the town genuinely needs. They want to do it better than anyone else has. Not just the best in the area — a step above the rest. Jim says this plainly. Andrea nods. They have had this conversation before.
-  5. The name problem: the business is currently called A Dog's Day Out. It is fine. It doesn't have the soul of the thing yet. Neither of them says this directly, but the reader feels it.
-- **Plants:**
-  - The name problem (A Dog's Day Out — fine but wrong)
-  - Cassie and Gracie as emotional ground truth
-  - Andrea's relational competence and its cost
-  - Jim's quiet stubbornness — his threshold for "actually impossible" is set very high
-  - Andy's existence (mentioned but not yet in scene)
-- **Payoffs:** None yet
-- **Character movement:** Andrea's arc is established: she is the person who absorbs the cost of building trust. The reader understands her want (to be worthy of every family's trust) before they understand what it will cost her.
-- **Thematic function:** Practical love introduced. Jim and Andrea's relationship is visible in how they work, not in how they talk about working.
-- **~Word count target:** 3,400
+**Chapter question:** Will Andrea and Jim successfully build the trust-based business they envision, and who is Andy?
 
 ---
 
 ### Ch 4: The Machinery of Permission
+**2281 words** | **Location:** Prince William County zoning office, Haymarket Town Council chambers, 6680 Fayette Street (construction site), Fayette Street parking lot
+- **Characters:** Jim Payne, Andrea Payne, David Gill, Patricia, Dottie Leonard, Mark Donahue (mentioned, not present), Councilman Shannon
+- **Try-fail cycle:** yes-but
+- **Emotional arc:** From methodical, slightly anxious preparation through the quiet confidence of competence publicly demonstrated, arriving at solitary, grounded conviction — Jim moves from proving himself to simply knowing what he is building and why.
 
-- **POV:** Close third on Jim, with Andrea present
-- **Location:** Town Council chambers; 6680 Fayette Street (interior, under construction); Prince William County offices
-- **Save the Cat beat:** Setup / Catalyst approaching
-- **% mark:** 12–16%
-- **Emotional arc:** Methodical determination → first friction
-- **Try-fail cycle:** Yes-but (they make progress on permits and approvals, but each step reveals the next obstacle)
-- **Beats:**
-  1. The permit process begins in earnest. Jim has done his homework: he knows the zoning requirements, the use classifications, the specific people he needs to talk to. He approaches the bureaucracy the way he approaches a nervous dog — with patience and without agenda.
-  2. A public comment period. Jim and Andrea sit in the Council chambers and listen to neighbors ask questions about noise, about traffic, about what a dog daycare actually is. The questions are not hostile — they are the questions of people who care about their street. Jim answers them specifically and without defensiveness.
-  3. Dottie Leonard appears in person for the first time. She is in the room. She does not speak at this meeting, but she is there, and Jim notices her, and later — in a conversation the narrator describes but does not fully dramatize — she tells Jim what he needs to know about who to talk to and what to say.
-  4. The EVENT thread opens: the narrator notes, briefly and without alarm, that it is 2019. A year from now, the world will be different. The reader knows this. The characters do not.
-  5. Jim walks through the building at 6680 Fayette Street — not yet finished, not yet open. He is seeing it as it will be: the daycare floor, the grooming area, the boarding spaces. Cage-free. He is thinking about what cage-free means in practice: it means the environment is managed by people, not hardware. This is harder. It is also the only way he would do it.
-- **Plants:**
-  - Dottie's support as quiet, effective, relationship-based
-  - The cage-free philosophy as a statement about what the business believes
-  - The building itself as a character — its smell, its sound, its potential
-  - The year: 2019
-- **Payoffs:** None yet
-- **Character movement:** Jim's lie is established: if he does the work correctly — the permits, the relationships, the civic engagement, the quality of the facility — the outcome will be proportional to the effort. The pandemic will test this.
-- **Thematic function:** The bureaucracy of dreams. Every permit is a small battle in the war of making something real.
-- **~Word count target:** 3,200
+**Summary:** Jim navigates the bureaucratic approval process for his cage-free dog daycare on Fayette Street, meeting with county zoning official David Gill and successfully fielding public questions at a town council hearing. In the parking lot afterward, local real estate veteran Dottie Leonard offers Jim strategic advice about cultivating relationships with the town planner and demonstrating civic investment. The chapter closes with Jim walking the nearly-finished facility and making follow-up calls, fully absorbed in the work of building something he believes in.
 
----
+**Beats:**
+1. Jim meets with David Gill at the zoning office, demonstrates mastery of the ordinance, and receives a seven-step action plan with a critical three-week filing deadline.
+1. Jim and Andrea attend the public comment hearing; Jim answers all questions about noise, traffic, and cage-free operations with calm precision, earning Andrea's quiet approval.
+1. Dottie Leonard, a longtime local real estate figure, approaches Jim in the parking lot and offers unsolicited strategic counsel: visit town planner Mark Donahue in person, and show up for the September hotel vote.
+1. The narrator breaks frame to note it is 2019 and that 'a year from now, the world would be different,' while the characters remain unaware.
+1. Jim walks the nearly-finished facility alone, internalizing its purpose and design from the dogs' perspective, then immediately returns to logistics calls — the work is not done.
 
-### Ch 5: A Pup's Valley
+**Plants:**
+- The narrator's explicit statement that 'a year from now, the world would be different' — foreshadowing a major disruption (likely COVID-19 in 2020) that will affect the business.
+- Dottie Leonard's advice to attend the September hotel vote, establishing a future civic event and Jim's need to build political capital beyond his own permit.
+- Mark Donahue introduced as a key gatekeeper whose personal impression of Jim will matter at final permit review — a relationship not yet formed.
+- The three-week filing deadline and six-week council meeting window establish a ticking clock for the permit process.
+- Jim's ability to distinguish dog vocalizations by type (territorial vs. distress) signals expertise that will likely matter operationally once the business opens.
+- Andrea's connection with the traffic-question woman who shares a school — a social thread that may develop.
 
-- **POV:** Close third on Jim; Andy present
-- **Location:** Jim's car; school pickup; the Paynes' home
-- **Save the Cat beat:** Catalyst
-- **% mark:** 16–20%
-- **Emotional arc:** Low-grade frustration (the name is still wrong) → sudden rightness
-- **Try-fail cycle:** Yes-and (the name arrives and it is immediately, completely correct — this is the novel's first pure yes-and, earned by the setup)
-- **Beats:**
-  1. Jim in the car, driving to pick Andy up from school. The name of the business is still unsettled. He has been circling it for months. A Dog's Day Out is fine. It doesn't have the soul of the thing. He is not thinking about this consciously — it is the background noise of a problem he hasn't solved.
-  2. Andy gets in the back seat. The narrator establishes Andy as a kid — not a symbol, not a device, but a specific child who has been listening to his parents' problem without being asked to. He says it the way kids say things: *Dad, why don't you call it A Pup's Valley?*
-  3. Jim hears it the way you hear something that was always going to be true. He doesn't say much. He drives home.
-  4. Jim tells Andrea. The narrator describes this moment with precision: he brings it home the way you bring home something you found that you know belongs to her. She hears it. That's the name.
-  5. The sign goes up — or rather, the decision is made and the sign will go up. The narrator notes that five words from a kid in a back seat are now on a building on Fayette Street, and will be for as long as the building stands.
-- **Plants:**
-  - Andy's unselfconscious clarity as a recurring quality — he says the true thing because he doesn't know he's supposed to be strategic
-  - The name itself as the novel's quiet thesis made physical
-- **Payoffs:**
-  - The name problem planted in Ch 3 pays off here
-- **Character movement:** The business has its identity. Jim and Andrea have the thing they were circling. Andy has given something to his parents without knowing it, which is the most complete kind of giving.
-- **Thematic function:** The novel's thesis — the best things are built by families, named by children, and given to communities that were waiting for them without knowing it — is enacted here, not stated.
-- **~Word count target:** 3,000
+**Harvests:**
+- Andrea's kitchen observation that Jim would 'know more about it than they do' is paid off when Jim correctly identifies the use classification before Gill confirms it.
+- Dottie's prior appearance as a listing agent on Fayette Street (referenced as backstory) is harvested as the basis for her credibility and her unsolicited strategic mentorship in the parking lot.
+
+**Chapter question:** Will Jim successfully secure all permits and open on schedule — and what will the unnamed disruption of 2020 do to what he is building?
 
 ---
 
-### Ch 6: Open
+### Ch 5: Chapter Five: A Pup's Valley
+**1377 words** | **Location:** Haymarket, Virginia — car on Route 15, family home (kitchen, back room), Fayette Street business site (referenced)
+- **Characters:** Jim, Andy, Andrea, Mark Donahue, Cassie, Gracie
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** From low-grade, chronic frustration over an unsolvable problem, through a quiet moment of unexpected resolution, to a restrained but genuine sense of rightness and forward momentum.
 
-- **POV:** Close third on Andrea
-- **Location:** A Pup's Valley, 6680 Fayette Street — first days of operation
-- **Save the Cat beat:** Break Into Two approaching / Fun and Games beginning
-- **% mark:** 20–23%
-- **Emotional arc:** Anticipation → the specific satisfaction of a thing working as designed
-- **Try-fail cycle:** Yes-but (the opening goes well; the first clients come; the dogs arrive; but the work is harder and more constant than even Andrea expected)
-- **Beats:**
-  1. Opening day. The narrator describes the sound of the first dogs arriving — the specific acoustic signature of animals entering a new space, reading it, deciding whether it is safe. Andrea is at the door. She knows every dog's name before they arrive. She has done her homework.
-  2. Jim on the floor with a nervous dog — the first full dramatization of what the narrator has described as his gift. He gets low. He waits. The dog decides. The scene is specific and unhurried.
-  3. Andrea giving the first tour to a client family. She explains cage-free not as a selling point but as a philosophy. She asks about the dog's history, the family's schedule, the thing that happened last Tuesday. The client family leaves their dog and drives away. Andrea watches them go and understands, again, what the transaction actually is.
-  4. End of the first week. The building smells clean. This is not incidental — it is the result of work that began before the clients arrived and will continue after they leave. Andrea notes this without ceremony.
-  5. Cassie and Gracie at home that evening. The Paynes at the kitchen table. The business is open. The work has begun.
-- **Plants:**
-  - The specific smell of a clean cage-free facility as a recurring sensory marker
-  - Jim's gift with dogs — the shepherd mix who pressed against the far wall and then sat next to him
-  - Andrea's habit of photographing the dogs for their owners
-  - The client families as extended family of the business
-- **Payoffs:**
-  - The building at 6680 Fayette Street, seen from outside in Ch 1, is now seen from inside
-- **Character movement:** Andrea's want is fully operational: she is building the trust architecture of the business, relationship by relationship. The reader understands what she is building before they understand what it will cost her to have it taken away.
-- **Thematic function:** Love made practical. The heroism is ordinary: showing up, learning names, scrubbing floors.
-- **~Word count target:** 3,400
+**Summary:** Jim picks up his son Andy from school, still stuck on finding the right name for his dog daycare business. Andy offhandedly suggests 'A Pup's Valley' during the drive home, and the name immediately feels right to both Jim and Andrea. The chapter then compresses forward through the administrative follow-through — permits, signage, fabrication — ending with the sign going up in January.
 
----
+**Beats:**
+1. Jim drives to school preoccupied with the inadequate placeholder name 'A Dog's Day Out,' unable to make it feel right.
+1. Andy, with casual indifference, suggests 'A Pup's Valley' while watching a hawk from the car window.
+1. Jim and Andrea independently confirm the name is right, with Andy himself barely registering its significance.
+1. Jim calls Mark Donahue to update permit applications and signage plans, then sits quietly with the name and his dog Cassie before making his remaining calls.
+1. A compressed time-jump covers the administrative execution — filings, website, fabricator, customer conversations — ending with the sign going up in January and Jim driving past it without stopping.
 
-### Ch 7: What Dottie Built
+**Plants:**
+- The Fayette Street location and Washington Street address are established as the physical site of the future business.
+- Mark Donahue is introduced as a contractor/advisor handling HVAC and permit logistics, suggesting ongoing construction complexity ahead.
+- Andrea's legal pad of notes and her months-long customer conversations hint at a pre-existing waitlist of interested families, raising stakes for the opening.
+- The sign fabricator's six-week timeline and the January installation date set a concrete near-future milestone.
+- Cassie sleeping with her head on Jim's foot and Gracie's preference for Andrea subtly characterize the household dogs who may become relevant to the business's origin story.
 
-- **POV:** Narrator-wide, anchored in Dottie; Jim present in conversation
-- **Location:** Haymarket — Washington Street, the historical district; Dottie's office; a conversation between Jim and Dottie
-- **Save the Cat beat:** B Story / Fun and Games
-- **% mark:** 23–27%
-- **Emotional arc:** Admiration → the specific weight of legacy
-- **Try-fail cycle:** No-but (Dottie's work succeeded — the town is still there — but the cost of fifty years of fighting is visible)
-- **Beats:**
-  1. Jim and Dottie in conversation — the narrator dramatizes one of their real exchanges. Dottie is specific and efficient. She tells Jim what he needs to know without wasting his time. Jim listens the way he listens to dogs: completely.
-  2. The Disney fight in full. 1993–1994. Disney's America: 3,000 acres, a history-themed park, proposed just outside Haymarket near the Manassas battlefield. The narrator describes the proposal and the opposition — national in scope, local in its most important work. Dottie was in it. She confirmed this to Jim personally. Disney withdrew in September 1994.
-  3. The narrator describes what the battlefield looks like now — still there, still a battlefield, still the thing it was before Disney decided it would make a good backdrop for a theme park. Dottie did not need credit for this. She needed the outcome.
-  4. Dottie's real estate career as a form of civic service: thirty years of knowing every property in the town, helping families buy and sell, accumulating the institutional memory that makes a community legible to itself.
-  5. Jim walks home from this conversation. He passes 6680 Fayette Street. The sign is up. He thinks about what it means to build something in a place that someone else spent fifty years making worth building in.
-- **Plants:**
-  - Dottie's habit of picking up the phone ready to work (planted for the hospital call)
-  - The battlefield as something worth protecting — the idea that some things should not be converted into entertainment
-  - Dottie's judgment: she does not get behind things lightly
-- **Payoffs:**
-  - The Disney fight, introduced in Ch 2, is now fully dramatized
-- **Character movement:** Dottie's thematic role is established: she is the connective tissue between the Haymarket that existed before the Paynes arrived and the Haymarket they chose to build something in.
-- **Thematic function:** The chain of care. Dottie spent fifty years making Haymarket worth coming to. The question is whether the people who come are worthy of it.
-- **~Word count target:** 3,600
+**Harvests:**
+- The long-running naming problem — implied to have been unresolved for an extended period — is finally solved.
+- Andy's casual, matter-of-fact register (established earlier in the scene with 'we did fractions again') pays off as the exact tone that delivers the breakthrough name.
+
+**Chapter question:** Will the business Jim and Andrea have been building actually open successfully, and what will it cost them when it does?
 
 ---
 
-### Ch 8: The Dog Whisperer
+### Ch 6: Chapter Six: Open
+**1650 words** | **Location:** A Pup's Valley, Fayette Street location, and Andrea and Jim's home kitchen
+- **Characters:** Andrea, Jim, Kelly Harmon, Biscuit, Paul Garrett, Mira, Walter, The Kowalski family (mother, father, daughter), Noodle, Cassie, Gracie
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** From the tightly-wound anticipation of opening day, through the quiet satisfactions of the philosophy proving itself, to a grounded Friday-night reckoning where pride and exhaustion meet the sober recognition that they have made promises to an entire community they must now keep.
 
-- **POV:** Close third on Jim
-- **Location:** A Pup's Valley — the daycare floor, a typical operating day
-- **Save the Cat beat:** Fun and Games
-- **% mark:** 27–31%
-- **Emotional arc:** Professional satisfaction → something deeper, harder to name
-- **Try-fail cycle:** Yes-but (Jim connects with every dog; the work is good; but the scale of what he's taken on — every relationship, every dog, every family — is beginning to be felt)
-- **Beats:**
-  1. A Tuesday in fall 2019. The narrator catalogs the dogs on the floor — not as a list but as a community. Each dog is specific: a name, a personality, a history Jim has learned. The reader understands that Jim keeps track of all of them.
-  2. A new dog arrives — anxious, first day, pressing against the wall. Jim's approach is described in full: he gets low, he waits, he lets the dog decide. Ten minutes. The dog sits next to him. The narrator does not editorialize about what this means. It means what it means.
-  3. A client calls to check on their dog. Jim answers. He tells them something true about their dog — something specific that the owner recognizes immediately. The owner is reassured not by the reassurance but by the specificity.
-  4. End of day. Jim does the unglamorous work: the cleaning, the logistics, the preparation for tomorrow. The building smells clean because someone has been scrubbing since before the clients arrived.
-  5. Jim at home with Cassie and Gracie. The dogs are doing what dogs do: existing in the present tense, requiring care, reflecting the emotional weather of the room. Jim is tired. The dogs don't care that he's tired. He feeds them. This is the work.
-- **Plants:**
-  - Jim's gift as a form of attention — the absence of anxiety that dogs detect
-  - The specific dogs on the floor (to be referenced when they return after the shutdown)
-  - The unglamorous work as the foundation of the visible excellence
-- **Payoffs:** None yet
-- **Character movement:** Jim's competence is fully established. The reader understands that his gift with dogs is not magic but attention, and that attention is a choice he makes every day.
-- **Thematic function:** Dogs as mirrors. They respond to what is actually in the room. Jim knows this. It is why he is good with them.
-- **~Word count target:** 3,200
+**Summary:** A Pup's Valley opens its doors for the first time, and Andrea and Jim navigate the first week of business, welcoming anxious dogs and cautious owners with deliberate, personalized care. Key moments include Jim earning the trust of a wall-hugging shepherd mix named Mira and Andrea impressing the Kowalski family with her attentive, notebook-based approach over checkbox forms. By Friday evening, Andrea reflects on the exhausting reality of the work and the weight of the implicit promises she has made to every family who walked through the door.
 
----
+**Beats:**
+1. Opening day: first client Kelly Harmon drops off Biscuit, and his calm acceptance of Andrea signals the business is starting on the right emotional footing.
+1. Jim sits on the floor near the anxious shepherd mix Mira and waits her out, earning her trust without force — a demonstration of the facility's core philosophy in action.
+1. Andrea gives the Kowalski family a tour, distinguishing A Pup's Valley from competitors through her cage-free philosophy, individualized attention, and handwritten notes over checkbox forms.
+1. End-of-week accounting: 22 dogs through the door, every owner sent a photo, Mira transformed by Wednesday, Noodle doing her 'hop' by Thursday — the method is working.
+1. Friday night at home: Andrea admits she underestimated the physical toll, then articulates that every interaction with every family has been a promise — and Jim confirms that is exactly what they are doing.
 
-### Ch 9: The Trust Business
+**Plants:**
+- Andrea's promise-making to every family is named as a weight she is carrying — the business's success is now entangled with her personal sense of obligation and integrity.
+- The Kowalski father's question — 'Are you going to be here in a year?' — introduces the thread of business sustainability and community trust as an ongoing concern.
+- Andrea's physical exhaustion (back complaint deferred to the weekend, forgotten sandwich) hints at the unsustainable pace of a two-person operation as demand grows.
+- The notebook system versus checkbox forms is established as a differentiator that creates deeper owner relationships, raising the stakes if that personal touch ever has to scale or be compromised.
 
-- **POV:** Close third on Andrea
-- **Location:** A Pup's Valley — tours, client interactions, a typical operating week
-- **Save the Cat beat:** Fun and Games
-- **% mark:** 31–35%
-- **Emotional arc:** Full operational engagement → the first hint of vulnerability
-- **Try-fail cycle:** Yes-but (the trust architecture is working; families are coming back; but Andrea is beginning to feel the weight of being the person everyone trusts)
-- **Beats:**
-  1. Andrea gives three tours in a single morning. The narrator follows her through each one — the different families, the different dogs, the different questions. Andrea's approach is consistent: she explains cage-free as a philosophy, asks about the dog's history, makes the family feel that their dog is known.
-  2. A difficult client interaction: a family whose dog is struggling to adjust. Andrea handles it with honesty — she tells them what she sees, what she thinks it means, what she recommends. She does not perform optimism. She reports.
-  3. Andrea's habit of photographing the dogs for their owners — not for marketing, but because she knows the owners are thinking about their dogs, and a photo is the most direct answer to that. The narrator notes that this is a skill and a choice, and it is the kind of choice that builds a business.
-  4. A quiet moment: Andrea alone in the facility after closing. She is doing the administrative work — the scheduling, the billing, the follow-up. The work that is invisible to the clients and essential to the operation.
-  5. Andrea's lie is introduced obliquely: she believes that if she takes care of everyone else — the dogs, the families, the staff, the town — the business will take care of itself. The narrator does not name this as a lie. It is presented as a working belief. The reader may recognize it.
-- **Plants:**
-  - Andrea's belief that love made practical is sufficient protection against the world
-  - The specific families she is learning — their dogs' names, their schedules, their stories
-  - The administrative work as invisible foundation
-- **Payoffs:** None yet
-- **Character movement:** Andrea's wound is becoming visible: the cost of being the person everyone trusts is that you carry their trust as weight. She does not complain about this. She does not name it. It is simply present.
-- **Thematic function:** What does it cost to make a place where others feel safe? It costs you the comfort of your own safety, sometimes.
-- **~Word count target:** 3,400
+**Harvests:**
+- The months of preparation and the smell of the building Andrea has been working toward (referenced at chapter open) pay off in the tangible, functional reality of opening day.
+- Jim's skill with anxious dogs — previously established as part of his character — is demonstrated concretely through the Mira scene and confirmed by Paul Garrett's phone call.
+- The cage-free, presence-based philosophy articulated in earlier planning stages is now shown working in practice with real dogs and real owners.
+
+**Chapter question:** Can Andrea and Jim sustain the depth of personal commitment — the promises embedded in every tour, every notebook entry, every photo sent — as the business grows and the physical and emotional demands compound?
 
 ---
 
-### Ch 10: Haymarket in Winter
+### Ch 7: Chapter Seven: What Dottie Built
+**1154 words** | **Location:** Warm Springs, Virginia — Washington Street (Dottie's office) and Fayette Street (A Pup's Valley building), late October 2019
+- **Characters:** Jim, Dottie Leonard, Andrea (referenced), Gracie (referenced)
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** Jim moves from quiet curiosity and deference toward Dottie's authority into a grounded, private pride as he stands before the sign and recognizes that what he and Andrea are building belongs to this place.
 
-- **POV:** Narrator-wide, moving between Jim and Andrea; Dottie present in a brief scene
-- **Location:** Haymarket — Washington Street in winter; A Pup's Valley; a Town Council meeting
-- **Save the Cat beat:** Fun and Games / B Story deepening
-- **% mark:** 35–39%
-- **Emotional arc:** Settled satisfaction → the first awareness that the world outside the building has its own plans
-- **Try-fail cycle:** No-but (a Town Council meeting about dump trucks on Fayette Street — the specific absurdity of civic life; the Paynes navigate it; no crisis, but the machinery of the town is visible in its full, slightly comic specificity)
-- **Beats:**
-  1. A Town Council meeting in late 2019. The agenda includes a debate about dump trucks on Fayette Street — the noise, the traffic, the impact on the street's character. The narrator honors the absurdity without mocking the sincerity. These people care about their street. The gap between the scale of the issue and the intensity of the caring has comedy in it.
-  2. Jim is in the room. He is not the subject of this meeting, but he is present — a citizen who shows up. Councilman Shannon thanks the citizens for caring enough to show up. He says it the way he always says it.
-  3. Dottie is in the room. She and Jim exchange a few words after the meeting. She asks how the business is going. He tells her. She nods. She has seen businesses open in this town before. She knows the difference between the ones that will last and the ones that won't.
-  4. The narrator introduces the regional context: the I-66 corridor, the commuter subdivisions, the families with golden retrievers and labradoodles who need somewhere for their dogs to go. This is the market. The Paynes understood it before they opened.
-  5. Winter in Haymarket: the Blue Ridge on clear days, the specific quiet of Washington Street on a Saturday morning. The business is three months old. It is working.
-- **Plants:**
-  - Dottie's ability to read whether a business will last
-  - The regional market — the commuter families who will become A Pup's Valley's client base
-  - The Town Council as neighbors, not bureaucracy
-- **Payoffs:** None yet
-- **Character movement:** Jim and Andrea are established as part of the civic fabric of Haymarket — not just business owners but participants.
-- **Thematic function:** Community as character. Haymarket is a participant, not a backdrop.
-- **~Word count target:** 3,000
+**Summary:** Jim visits Dottie Leonard's office to learn about her role in defeating Disney's America, a 1993 proposal to build a history-themed park near the Manassas battlefield, which Dottie helped stop by 1994. Dottie explains her philosophy of place-based opposition and reveals why she backed Jim and Andrea's business. Jim walks home via the new sign, texts Andrea, and returns to find Gracie waiting at the window.
 
----
+**Beats:**
+1. Jim notices the A Pup's Valley sign has been up three days as he walks to Dottie's office on Washington Street.
+1. Dottie briefs Jim on the Disney's America fight — the 1993 proposal, the opposition coalition, and the September 1994 withdrawal — framing the preserved battlefield as the only outcome that matters.
+1. Dottie explains why she backed Jim and Andrea: she distinguishes people who want to build something *here* from those who happen to be here, placing Jim in the former category.
+1. Jim walks the long way home, stops in front of the sign on Fayette Street, and reflects on the name's origin (a child in the back seat) and the business's near-future.
+1. Jim texts Andrea about Dottie's Thursday visit; Andrea replies she'll have coffee; Jim arrives home to Gracie wagging at the window.
 
-### Ch 11: The First Year
+**Plants:**
+- Dottie's principle that first-time daycare families are clients 'for the life of the dog' sets a standard the business will be measured against.
+- The Kowalski family and the Gainesville couple with the shepherd mix are named as confirmed clients, establishing early clientele whose stories may develop.
+- Dottie's Thursday visit to inspect the floor is scheduled, creating an upcoming scene with evaluative stakes.
+- The unnamed ten-year-old who coined 'A Pup's Valley' from the back seat is referenced but not identified, suggesting a character or relationship yet to be introduced.
+- The image of 'the specific sound a room full of dogs makes when they know each other and feel safe' is planted as a future milestone moment.
 
-- **POV:** Close third on Andrea, with Jim present
-- **Location:** A Pup's Valley; the Paynes' home
-- **Save the Cat beat:** Fun and Games — the promise of the premise fully delivered
-- **% mark:** 39–43%
-- **Emotional arc:** Pride → the specific unease of things going almost too well
-- **Try-fail cycle:** Yes-but (the first year is a success by every measure; but the narrator's voice carries a quiet awareness — the reader knows what is coming — that gives the success a slight shadow)
-- **Beats:**
-  1. The first year in summary: the dogs that became regulars, the families that became part of the ecosystem of the place, the specific dogs Jim has learned and the specific families Andrea has learned. The narrator is specific — names, personalities, the shepherd mix who pressed against the wall and now runs to Jim when she arrives.
-  2. Andrea reflects on what she has built: a network of trust, relationship by relationship. She texts a photo to a client at 7 a.m. because she knows the client is thinking about their dog. The client responds with relief and gratitude. This is the work.
-  3. Jim and Andrea at the kitchen table, end of year one. The numbers are good. The relationships are good. The facility is what they said it would be. They are tired in the way that people are tired when they have been doing something real.
-  4. Cassie and Gracie at home. The dogs are the ground truth: the business is good because the people running it are good, and the dogs know it before the awards do.
-  5. The narrator notes, without alarm: it is early 2020. The world is about to change. The characters do not know this yet.
-- **Plants:**
-  - The specific dogs and families who will be absent during the shutdown
-  - The kitchen table as the site of the Paynes' partnership — where they process the business together
-  - The year: early 2020
-- **Payoffs:**
-  - The opening of A Pup's Valley, promised in Ch 1, is now fully realized
-- **Character movement:** Jim and Andrea have built what they said they would build. The reader understands what is about to be threatened.
-- **Thematic function:** The Fun and Games section closes here. The promise of the premise has been delivered. Now the premise will be tested.
-- **~Word count target:** 3,200
+**Harvests:**
+- The origin of the business name 'A Pup's Valley' is paid off — it came from a child in the back seat who solved the problem in five seconds.
+- Dottie's support for the business, previously established as a fact, is now explained and given philosophical grounding.
+- The Disney's America historical backstory, implied by Dottie's civic identity in earlier chapters, is fully delivered here.
+
+**Chapter question:** Will A Pup's Valley earn the community permanence that Dottie's battlefield represents — will it become something that is simply, irreversibly *here*?
 
 ---
 
-### Ch 12: March
+### Ch 8: Chapter Eight: The Dog Whisperer
+**2007 words** | **Location:** Dog daycare facility (primary); Jim and Andrea's home (secondary)
+- **Characters:** Jim, Nell, Paul, Biscuit, Sergeant, Moose, Rosie, Clover, Karen Whitfield, Andrea, Gracie, Cassie
+- **Try-fail cycle:** yes-but
+- **Emotional arc:** From anxious fragility and withheld trust, the chapter moves toward quiet, hard-won settledness — in Nell, in Karen, and in Jim himself — arriving at a still, dark peace that is earned rather than assumed.
 
-- **POV:** Close third on Andrea
-- **Location:** A Pup's Valley; the Paynes' home; Haymarket
-- **Save the Cat beat:** Bad Guys Close In begins
-- **% mark:** 43–47%
-- **Emotional arc:** Disbelief → the specific cold of understanding what is actually happening
-- **Try-fail cycle:** No-and (the shutdown comes; the revenue stops; the relationships go dormant; things get worse with each passing day)
-- **Beats:**
-  1. The news in early March 2020. The narrator does not dramatize the pandemic itself — it is not the subject of the novel. What the narrator dramatizes is what it means for a dog daycare: the entire premise of the business — that you need somewhere for your dog while you're somewhere else — evaporates overnight.
-  2. The last day before the shutdown. The last dogs leave. Andrea knows their names. She watches them go. The building goes quiet in a way it has never been quiet before.
-  3. The Governor's order. The facility closes. The revenue stops. The narrator is specific: zero. Not reduced. Zero.
-  4. Andrea at home with Cassie and Gracie. The dogs are doing what dogs do: existing in the present tense, requiring care, indifferent to the Governor's order. She feeds them. The bowl is full. This is still the work, even when the building is closed.
-  5. Jim and Andrea at the kitchen table. The numbers are not good. They go through what they have, what they owe, what thirty days looks like, what sixty days looks like. They do not quit. They do not say they are not quitting. They just keep going through the numbers.
-- **Plants:**
-  - The kitchen table as the site of the hardest conversations
-  - The specific cost of the building — it does not stop costing money because the Governor said stay home
-  - The dogs at home as a reminder that the work is real even when the building is closed
-- **Payoffs:**
-  - The EVENT thread, opened in Ch 4 with the narrator's quiet note about the year being 2019, arrives here
-- **Character movement:** Andrea's wound is exposed: the trust architecture she built — every family, every dog, every name — goes dormant overnight. She cannot fix this. The problem is not her.
-- **Thematic function:** The pandemic as rupture. The hinge is approaching.
-- **~Word count target:** 3,400
+**Summary:** Jim receives a new anxious dog named Nell and uses patient, non-coercive methods to help her settle into the daycare space, culminating in her choosing companionship with Clover. He also fields a call from Karen Whitfield, Rosie's worried owner, reassuring her about Rosie's health while honestly acknowledging the dog's aging. At home, Jim reflects on the day's themes of trust, readability, and the limits of what can be rushed.
 
----
+**Beats:**
+1. Nell arrives terrified and presses to the far wall; Jim sits on the floor at a distance and waits without pressure until she approaches him on her own terms.
+1. A truck's air brakes startle Nell back two steps, but after ten seconds of deliberation she returns to Jim, demonstrating the first fragile act of chosen trust.
+1. Karen Whitfield calls ostensibly about Rosie's appetite but reveals her deeper fear about Rosie's aging and asks Jim to warn her early when the end is approaching; Jim agrees.
+1. Jim returns home, feeds his dogs with an established system, and recounts the day's events to Andrea in spare, intimate exchanges.
+1. Jim sits in the dark with Gracie, mentally replaying Nell's tail-flag after the truck and anticipating whether Nell will remember the room as safe when she returns tomorrow.
 
-### Ch 13: The Midpoint — What the Shutdown Does
+**Plants:**
+- Nell's second-day arrival is explicitly anticipated — Jim wonders whether she will remember the room as safe or arrive as if for the first time, seeding a future scene.
+- Karen asks Jim to tell her before Rosie's decline becomes irreversible, establishing a promise Jim will eventually have to keep.
+- Rosie's aging and slowing down is introduced as an ongoing, unresolved concern distinct from immediate crisis.
+- Jim's internal philosophy — 'you could not rush it, you could not perform your way to it' — is articulated as a governing principle that will likely be tested.
 
-- **POV:** Close third on Jim, with Andrea present
-- **Location:** The Paynes' home; A Pup's Valley (empty); Haymarket
-- **Save the Cat beat:** Midpoint — false defeat; stakes raised
-- **% mark:** 47–51%
-- **Emotional arc:** Controlled response → the first admission that control is insufficient
-- **Try-fail cycle:** No-and (Jim tries to manage the situation through competence and planning; the situation does not respond to competence and planning; it gets worse)
-- **Beats:**
-  1. Jim walks through A Pup's Valley alone. The building is empty. The narrator describes what the empty building sounds like — the absence of the specific acoustic signature of twenty dogs in a large open room. The silence is its own statement.
-  2. Jim's lie confronted: he has done the work correctly — the permits, the relationships, the civic engagement, the quality of the facility. The outcome is not proportional to the effort. The pandemic is not a problem that competence can solve.
-  3. Jim and Andrea assess their position. The narrator is specific about what they have and what they owe. The BPOL tax is mentioned — the Business, Professional, and Occupational License tax, a real thing that does not pause because the business has paused.
-  4. Jim calls Dottie. Not for advice — to talk. Dottie listens. She tells him what she has seen in fifty years of watching businesses in this town: the ones that survive are the ones that don't quit. This is not a revelation. It is a confirmation.
-  5. The narrator marks the midpoint explicitly in the structure of the prose: everything before this was building. Everything after will be rebuilding. The question is not whether they will survive — the reader knows they will. The question is what it will cost.
-- **Plants:**
-  - The BPOL tax as a specific, real financial pressure
-  - Dottie's observation about the ones that survive
-  - The April 14 meeting — mentioned by Dottie as something Jim and Andrea should attend
-- **Payoffs:**
-  - Jim's lie, planted in Ch 4 and reinforced throughout, is directly confronted here
-- **Character movement:** Jim's arc reaches its midpoint: he has built the best facility he knows how to build, and the world has closed it anyway. He does not quit. But he understands, for the first time in his body rather than his intellect, that love and competence are not sufficient protection against the world.
-- **Thematic function:** The novel's central question sharpens: what do you do when you have done everything right and the world doesn't care?
-- **~Word count target:** 3,600
+**Harvests:**
+- The daycare's established social order (Biscuit's confidence, Rosie's claimed corner, Moose's patrol) is shown as functional context that enables Nell's integration, paying off prior world-building.
+- Jim's competence with anxious dogs, previously implied, is demonstrated concretely through the Nell sequence.
+- The detail that owners 'always make it to the parking lot' is introduced and immediately confirmed by Paul, functioning as a small closed loop that characterizes the owner-dog relationship dynamic.
+
+**Chapter question:** Will Nell remember the daycare as safe when she returns tomorrow, and will Jim be able to keep his promise to Karen when Rosie's decline becomes undeniable?
 
 ---
 
-### Ch 14: The Town in the Pandemic
+### Ch 9: Chapter Nine: The Trust Business
+**1150 words** | **Location:** Andrea's dog daycare facility
+- **Characters:** Andrea, Hank (new boarder), Jim, Marcus Delacroix, Priya Delacroix, Biscuit, Carol, Pepper, Tom Hartmann, Rachel Hartmann, Obie, Mango, Rosie, Wellington (mentioned)
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** Andrea moves through a day of quiet, competent problem-solving — each interaction a small act of earned trust — arriving at a moment of solitary satisfaction before stepping back into the cold and ordinary world.
 
-- **POV:** Narrator-wide, moving through Haymarket
-- **Location:** Haymarket — Washington Street, the Town Council chambers (empty or Zoom), the businesses on the street
-- **Save the Cat beat:** Bad Guys Close In
-- **% mark:** 51–55%
-- **Emotional arc:** Collective disorientation → the specific solidarity of a small town under pressure
-- **Try-fail cycle:** No-but (the town is struggling; the Council is trying to respond; the tools available are inadequate to the scale of the problem, but they are trying)
-- **Beats:**
-  1. Haymarket in April 2020. The narrator describes the town under the shutdown: Washington Street quiet, the businesses closed or reduced, the particular quality of a place that has survived things before trying to survive this.
-  2. The Town Council preparing for the April 14 Special Meeting. The narrator describes the logistics of a meeting held partly via Zoom — the new awkwardness of civic life in the pandemic, the way the technology both connects and distances.
-  3. The businesses on Washington Street and Fayette Street — the narrator catalogs what the shutdown means for each of them. A Pup's Valley is one of many. The narrator makes clear that the Paynes' situation is specific and also representative.
-  4. Dottie Leonard in this period. She is not closed — real estate does not stop, even in a pandemic. But she is watching the town she has spent fifty years building navigate something she has not seen before.
-  5. The narrator sets up April 14: Mayor Leake has called a Special Meeting. The agenda includes a budget discussion and a proposed stimulus ordinance. Andrea Payne will be there.
-- **Plants:**
-  - The stimulus ordinance (to be voted down)
-  - The BPOL extension (to be approved)
-  - Mayor Leake's character — someone who stops a budget discussion to invite a small business owner to the podium
-- **Payoffs:** None yet
-- **Character movement:** The community is established as a participant in the crisis, not just a backdrop to it.
-- **Thematic function:** Community as character. The town is not passive. It is trying.
-- **~Word count target:** 3,000
+**Summary:** Andrea conducts a series of client tours and consultations at her daycare facility, demonstrating her diagnostic approach to dog behavior and her direct, trust-building communication style with owners. She resolves a recurring problem for the Hartmanns by identifying that their beagle Obie's daycare refusal stems from a home crate change rather than a daycare issue. The chapter closes with Andrea alone, methodically filing notes and leaving for the night.
 
----
+**Beats:**
+1. Andrea handles a nervous new boarder named Hank before the day begins, delegating to Jim and establishing her read-the-room competence.
+1. The Delacroix family tours with Biscuit; Andrea wins their trust by anticipating their real concern and promising a photo update, securing a recurring booking.
+1. Carol arrives with rescue shepherd Pepper and tests Andrea on training philosophy; Andrea reframes Pepper's caution as sense rather than difficulty, scheduling a trial.
+1. The Hartmanns consult about Obie's daycare refusal; Andrea diagnoses the root cause as a home crate change causing stacked anxiety, redirecting the fix away from daycare.
+1. Andrea photographs eleven dogs and sends personalized updates, reflecting on the unbillable but retention-critical act of seeing each dog as a specific individual.
 
-### Ch 15: April 14, 2020
+**Plants:**
+- Wellington the corgi has a December boarding stay six weeks out, with the note that his owner is already thinking about it — a future client interaction seeded.
+- Jim is established as a trusted staff member capable of handling difficult intake situations independently, suggesting future reliance on him.
+- Pepper's slow-introduction protocol and the note 'Jim for intake' plants a future scene of Pepper's trial day.
+- Obie's crate-anxiety diagnosis and the two-week follow-up window plants a future check-in or resolution beat.
 
-- **POV:** Close third on Andrea — the closest the novel gets to her interior
-- **Location:** Haymarket Town Council chambers (and Zoom); the drive there; the drive home
-- **Save the Cat beat:** Bad Guys Close In — the emotional peak of Act II Part 2
-- **% mark:** 55–60%
-- **Emotional arc:** Controlled determination → the specific exposure of having said the true thing in public
-- **Try-fail cycle:** Yes-but (Andrea speaks; she tells the truth; the Council hears her; but the stimulus ordinance does not pass, and the BPOL extension is thirty days, and they go home with that)
-- **Beats:**
-  1. The drive to the meeting. Andrea and Jim in the car. The narrator does not dramatize their conversation — it is described in summary, the way you describe the conversation before the thing that matters. They know what she is going to say. She knows what she is going to say.
-  2. The meeting. Mayor Leake stops the budget discussion and invites Andrea Payne to the podium. The narrator describes the room: the fluorescent lights, the dais, the people she knows by name. She has been in this room before. This is different.
-  3. Andrea speaks. She does not cry. She does not ask for sympathy. She gives them the facts, specific and clean: since the shutdown order, zero revenue. The building does not stop costing money because the Governor said stay home. The families are at home with their dogs. She understands. She does not know how long she can sustain this.
-  4. The vote. The stimulus ordinance does not pass. A 30-day BPOL extension is approved. The narrator is precise about what this means: a small, practical acknowledgment that the town could offer. Not a rescue. Not a triumph. A thirty-day extension on a tax.
-  5. The drive home. Andrea and Jim. Andy and the dogs are at home. The narrator describes the house as they arrive: the lights on, the dogs at the door, Andy somewhere inside. They go in. They do not quit.
-- **Plants:**
-  - The thirty-day extension as a specific, limited resource that must be used
-  - Andrea's exposure — she has been publicly vulnerable in a town where she wants to be seen as competent
-  - The official minutes' language: she "discussed some of the challenges the business has had since the start of the pandemic shut down order from the Governor"
-- **Payoffs:**
-  - Andrea's arc, building since Ch 3, reaches its crisis point: she has let herself be seen as someone who needs something. This is the need she has been resisting.
-  - The Town Council as neighbors, established in Ch 10, pays off: Mayor Leake's act of stopping the budget discussion is the act of a neighbor, not a bureaucrat.
-- **Character movement:** Andrea's arc turns here. She has done the thing she needed to do — spoken the truth in public, without apology. The outcome is inadequate. She goes home anyway.
-- **Thematic function:** The hinge. Everything before is preparation. Everything after is consequence.
-- **~Word count target:** 4,000
+**Harvests:**
+- Andrea's pattern of texting photos — previously implied as part of her practice — is shown in action and explicitly named as her most effective client-retention tool.
+- Andrea's directness, referenced in passing in earlier context, is named on the page by a client ('You're pretty direct') and owned by Andrea as deliberate strategy.
+
+**Chapter question:** Will the fixes Andrea prescribes — Obie's crate, Pepper's slow introduction, the Delacroix trial days — actually hold, and what will it cost her when one of them doesn't?
 
 ---
 
-### Ch 16: What Thirty Days Buys
+### Ch 10: Chapter Ten: Haymarket in Winter
+**1852 words** | **Location:** Haymarket, Virginia — Town Council chambers and A Pup's Valley (6680 Fayette Street / Washington Street)
+- **Characters:** Jim Payne, Dottie, Andrea, Elaine Marsh, Councilman Peters, Councilman Shannon, Andy (mentioned)
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** Jim moves from quiet civic observation and low-grade uncertainty about whether the venture was right, through accumulating external validation and witnessed evidence of impact, to a fragile but grounded private confirmation that the choice to come here was correct.
 
-- **POV:** Close third on Jim
-- **Location:** A Pup's Valley (empty); the Paynes' home; phone calls
-- **Save the Cat beat:** Bad Guys Close In — aftermath
-- **% mark:** 60–64%
-- **Emotional arc:** Grim pragmatism → the first signs of something that might be a path forward
-- **Try-fail cycle:** No-but (the thirty days are not enough to solve the problem; but Jim finds something — a partial path, a way to stay in contact with the client families, a reason to believe the relationships are not gone, just dormant)
-- **Beats:**
-  1. Jim at the empty facility. He is doing what he does when he's worried: getting organized. Lists, logistics, the practical machinery of the next step. The worry doesn't show in his face. It shows in his calendar.
-  2. Jim calls the client families — not all of them, but the ones he knows best. He checks in. He tells them the facility is closed but they are still here. He asks about their dogs. The conversations are brief and specific. He learns that the dogs are struggling with the change — the ones who came to daycare five days a week are now home all day, and the families are feeling it.
-  3. Andrea's idea: they can offer something during the shutdown. Not daycare — that's not possible. But training consultations, virtual check-ins, something that keeps the relationship alive. Jim listens. He thinks. He says: let's try it.
-  4. The thirty days pass. The extension expires. The shutdown continues. They are still here.
-  5. Cassie and Gracie at home. The dogs are the ground truth: the Paynes are still here, the work is still real, the love is still real. The bowl is full.
-- **Plants:**
-  - The client families as a network that will return when the facility reopens
-  - Jim's organizational response to stress as a character trait
-  - The dogs' struggle with the change — they are mirrors of the disruption
-- **Payoffs:**
-  - The thirty-day extension, voted on in Ch 15, is now being used
-- **Character movement:** Jim moves from reactive (absorbing the shutdown) to proactive (finding a path through it). His lie — that outcomes are proportional to effort — is being revised in real time: the effort may not produce the outcome he planned, but it is still the right thing to do.
-- **Thematic function:** The practical love that defines Jim and Andrea's relationship is most visible here, in the unglamorous work of surviving.
-- **~Word count target:** 3,200
+**Summary:** Jim attends a Town Council meeting where he receives an unsolicited but meaningful endorsement from Dottie, who tells him his business will last. Over the following weeks, A Pup's Valley finds its rhythm — regular clients, a difficult shepherd mix named Pepper making progress, and a growing sense of earned belonging — culminating in a quiet end-of-day conversation where Jim and Andrea confirm to each other that relocating here was the right decision.
+
+**Beats:**
+1. At the Town Council meeting, Jim observes Elaine Marsh's authentic civic advocacy and reflects on his own stake in Fayette Street after six weeks of operation.
+1. Dottie seeks Jim out after the meeting and delivers a frank, unembellished verdict: the business will last, backed by positive word from the Hartmann and Okafor families.
+1. Daily operations at A Pup's Valley are established — Andrea's competence, the slow intake protocol for anxious dogs, Wellington's first overnight boarding, and the shepherd mix Pepper's gradual progress.
+1. The Okafor dog, once pressed against the wall running threat calculations, crosses the entire floor to go straight to Jim — Andrea names this as proof of what they came to do.
+1. Jim and Andrea close the building on the Saturday before Christmas, and Jim voices the doubt he has carried since before opening; Andrea answers with evidence rather than reassurance.
+
+**Plants:**
+- Pepper's nighttime pacing since her family's August move to new construction in Gainesville — a behavioral case not yet resolved, Thursday intake pending.
+- Wellington's first full overnight boarding stay in December — Caleb's emotional state (excited and/or anxious) left unresolved.
+- The unnamed thing Jim has been carrying since August, now spoken aloud for the first time, suggesting unresolved internal conflict about the move that one conversation has not fully closed.
+- The Gainesville shepherd mix's progress is noted as 'three weeks of work' — implying ongoing cases require sustained attention and can still regress.
+
+**Harvests:**
+- The Hartmann and Okafor families, introduced as clients, are now named as sources of positive community word-of-mouth that reaches Dottie.
+- The Okafor dog's first-day behavior (pressed against the wall, threat calculations) is recalled and paid off: she now crosses the floor directly to Jim, confirming the business's core purpose is being fulfilled.
+- Jim's slow-intake protocol for anxious dogs, established earlier, is shown working in practice with the Gainesville shepherd mix.
+
+**Chapter question:** Will Pepper's intake on Thursday go well, and can Jim and the business sustain the trust that anxious owners — and anxious dogs — have placed in them?
 
 ---
 
-### Ch 17: All Is Lost
+### Ch 11: Chapter Eleven: The First Year
+**697 words** | **Location:** Doggy daycare facility, suburban Virginia
+- **Characters:** Jim, Andrea, Bella, Patricia Cho, Captain, Pretzel, Marcus Webb, Scout, Mrs. Delgado, Cassie, Dottie (mentioned)
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** From the tentative, effortful early months of earning trust — from dogs and owners alike — to a quiet, hard-won sufficiency that is not yet comfort but is unmistakably the right direction, shadowed at the last moment by the reader's knowledge of what 2020 will bring.
 
-- **POV:** Close third on Andrea
-- **Location:** The Paynes' home; A Pup's Valley (empty); a conversation with Dottie
-- **Save the Cat beat:** All Is Lost
-- **% mark:** 64–68%
-- **Emotional arc:** Sustained endurance → the specific breaking point of someone who has been strong for too long
-- **Try-fail cycle:** No-and (the shutdown extends; a client family calls to say they've found another arrangement; the facility is still empty; the financial picture worsens; Andrea reaches the limit of what sustained competence can absorb)
-- **Beats:**
-  1. A client family calls. They have found another arrangement — a neighbor who will watch the dog, a different facility that opened earlier. They are apologetic. They like A Pup's Valley. They are not coming back, at least not yet. Andrea thanks them. She hangs up. She sits with it.
-  2. Andrea walks through the empty facility. The narrator describes what she sees: the daycare floor, the grooming area, the boarding spaces. Cage-free. The environment managed by people, not hardware. The people are not here. The dogs are not here. The smell is still clean — she has been maintaining it, because she cannot stop doing the work even when there is no one to do it for.
-  3. Andrea calls Dottie. Not for advice — to talk. Dottie listens. She does not offer false comfort. She says: I know what it is to fight for something in this town and not know if it's going to hold. You keep going. That's all there is.
-  4. Andrea at home. Jim is there. Andy is there. Cassie and Gracie are there. The family is intact. The business is in danger. The narrator notes that these are not the same thing, and Andrea knows it, and knowing it is what lets her keep going.
-  5. The whiff of death: the narrator allows the possibility, briefly and without melodrama, that the business might not survive. Not as a prediction — as a real possibility that Andrea is holding. She does not share it with Jim. She does not need to. He is holding it too.
-- **Plants:**
-  - The possibility of failure as a real thing, not a dramatic device
-  - Dottie's phrase: "you keep going, that's all there is" — to be echoed at her funeral
-- **Payoffs:**
-  - Andrea's lie — that love made practical is sufficient protection — is fully exposed here. She has done everything right. The business is still in danger.
-  - The client families, established as the trust architecture of the business, begin to erode
-- **Character movement:** Andrea's arc reaches its lowest point. She has been the person who takes care of everyone else. She is now the person who needs to be taken care of, and she does not know how to ask for that.
-- **Thematic function:** The Stability Trap is actively resisted here. Bad things stay bad. Not everything gets fixed.
-- **~Word count target:** 3,600
+**Summary:** The chapter compresses the first year of operations through a series of vignettes showing Jim and Andrea building trust with dogs and their owners, culminating in fifty-eight regular clients by March. A throughline follows Patricia Cho and her anxious shepherd mix Bella, whose arc of settling in mirrors the business finding its footing. The chapter ends on an ominous temporal marker — early 2020 — with the schedule full and no awareness of what is coming.
+
+**Beats:**
+1. Bella arrives traumatized in November and within months has claimed her corner with quiet authority, mirroring the business's own gradual stabilization.
+1. Andrea tracks the invisible, unrecorded knowledge — individual dog quirks, owner blind spots — establishing her as the operational heart of the enterprise.
+1. The Delgado family is converted from skeptical comparison-shoppers to loyal regulars through Andrea's direct honesty, demonstrating the business's differentiated value.
+1. Patricia Cho's mother dies; Jim and Andrea send flowers separately from the business and from themselves, marking a boundary crossed into genuine relationship.
+1. Patricia returns thinner and quieter, hands over Bella's leash, and her face does 'something that was not quite crying' — the business has become load-bearing in clients' emotional lives.
+1. The chapter closes with client count climbing, awards on the wall, and the date quietly revealed as early 2020.
+
+**Plants:**
+- The date 'early 2020' is foregrounded at the chapter's close, planting the imminent arrival of the COVID-19 pandemic and its likely devastation to an in-person, high-contact business.
+- The business has become emotionally load-bearing for clients like Patricia — a dependency that will become a vulnerability when operations are threatened.
+- Dottie is mentioned as someone Jim has been 'meaning to call,' planting an unresolved relationship thread.
+- The awards are placed where staff can see them but Andrea only mentions them when asked, planting a tension between institutional recognition and Andrea's values.
+
+**Harvests:**
+- The earlier establishment of Jim's instinctive, floor-level approach to frightened dogs pays off in Bella's arc — his method demonstrably works over time.
+- Andrea's role as the keeper of unwritten knowledge, seeded in earlier chapters, is confirmed and deepened here as the operational intelligence of the business.
+
+**Chapter question:** With the business full, trusted, and thriving in early 2020, what will the coming pandemic do to everything Jim and Andrea have built — and to the families and dogs who now depend on them?
+
+---
+
+### Ch 12: Chapter Twelve: March
+**1214 words** | **Location:** A Pup's Valley dog daycare facility and Andrea and Jim's home, with a brief drive-by of the empty building
+- **Characters:** Andrea, Jim, Gracie, Cassie, Mr. Okonkwo, Marcus Webb, Mrs. Delgado, Penny's owner, Biscuit, Captain, Rosie, Penny
+- **Try-fail cycle:** no-but
+- **Emotional arc:** From the numb momentum of keeping the schedule through an inevitable closure, to grief witnessed in an empty floor, to a quiet, determined refusal to surrender in the face of a merciless spreadsheet.
+
+**Summary:** As COVID-19 closures arrive in March, Andrea watches her dog daycare empty out over a final Friday as clients collect their dogs with gratitude and uncertainty. With revenue at zero and fixed costs mounting, Andrea and Jim face a brutal financial spreadsheet and begin planning to speak at an April 14th Town Council meeting. Despite the crisis, Andrea and Jim hold their resolve: they are not quitting.
+
+**Beats:**
+1. Andrea reads early pandemic headlines but keeps to the schedule; the first week feels almost normal with clients keeping appointments despite growing unease.
+1. The Governor's announcement triggers the closure; Andrea lives through the last day consciously, receiving thanks from long-term clients as the floor empties dog by dog.
+1. Penny, the last dog, leaves at 4:15 and Andrea locks the dark, empty building alone.
+1. Eleven days into zero revenue, Jim and Andrea spread the financial spreadsheet on the kitchen table and confront the 30-to-60-day survival window while waiting on SBA and EIDL applications.
+1. Andrea identifies the April 14th Town Council meeting as an action point, claims she will speak, and she and Jim recommit — 'We're not quitting' — before returning to the numbers.
+
+**Plants:**
+- The April 14th Town Council meeting is circled on the calendar as Andrea's next concrete action — a public advocacy attempt not yet attempted.
+- The SBA loan and EIDL applications are pending with unknown timelines, leaving financial rescue unresolved.
+- The two part-time staff members are mentioned as an unresolved problem Andrea defers to another night.
+- Andrea's instinct that she should be the one to speak publicly ('You're better at it') signals a coming moment of public testimony or leadership.
+
+**Harvests:**
+- Mrs. Delgado's mask in week one pays off as a quiet early signal of what is coming — the closure arrives as foreshadowed.
+- The recurring client relationships (Okonkwos/Biscuit, Marcus/Captain, Delgados/Rosie, Penny) built across prior chapters are harvested here as emotionally weighted goodbyes.
+- Penny's three-week arc of claiming the heating vent and deciding Andrea is a safe person pays off in the final dog-pickup scene as a small, complete story of trust.
+
+**Chapter question:** Can Andrea and Jim survive financially long enough to reach April 14th, and will speaking at the Town Council actually change anything?
+
+---
+
+### Ch 13: Chapter Thirteen: What the Shutdown Does
+**1130 words** | **Location:** Empty daycare building and Jim & Andrea's home kitchen
+- **Characters:** Jim, Andrea, Gracie, Cassie, Dottie
+- **Try-fail cycle:** no-but
+- **Emotional arc:** Jim moves from hollow grief in an empty building through anxious reckoning with hard numbers toward a fragile but grounded steadiness, held in place by partnership, community, and the physical presence of the dog.
+
+**Summary:** Jim visits the shuttered daycare and confronts the silence of a business without its purpose, then returns home to work through the financial projections with Andrea, mapping a narrow but real path forward. He calls Dottie for support, and she reinforces that survival comes down to not quitting, and that Andrea should speak at the April 14th Council meeting. The chapter ends with Jim and Andrea aligned on their plan, sitting with hard numbers and cautious resolve.
+
+**Beats:**
+1. Jim stands alone in the empty daycare, absorbing the silence and the weight of nineteen days of closure.
+1. Jim and Andrea review the financial spreadsheet together, identifying the BPOL tax as an immediate pressure point and acknowledging they have exhausted their list of available actions.
+1. Jim asks Andrea to speak at the April 14th Council meeting with specific numbers, and she agrees.
+1. Jim calls Dottie, who offers grounded encouragement — survival means not quitting — and independently confirms Andrea should speak at the fourteenth.
+1. Jim and Andrea walk through the projections honestly; they identify a narrow but real path, and the chapter closes on a moment of quiet domestic steadiness.
+
+**Plants:**
+- The April 14th Council meeting is established as a critical upcoming event where Andrea will speak with specific financial data.
+- Mayor David Leake is named as someone who can be given 'something to work with,' suggesting future interaction.
+- The BPOL tax extension (thirty days, unofficial) is flagged as a small but real variable that may matter later.
+- Jim's philosophical reflection on fairness and proportional effort versus the dogs' acceptance of outcomes hints at a coming reckoning with expectations.
+
+**Harvests:**
+- Dottie's role as a trusted community elder and sounding board, previously established, is paid off in her direct, unsentimental support.
+- The daycare's name origin ('the name on the sign that Andy had given them from the back seat of a car') references a prior planted detail about Andy naming the business.
+- Andrea's competence in financial and civic contexts, previously implied, is confirmed when Jim says she is 'better in that room' than he is.
+
+**Chapter question:** Will Andrea's testimony at the April 14th Council meeting be enough to shift the town's response and buy the daycare the time it needs to survive?
+
+---
+
+### Ch 14: Chapter Fourteen: The Town in the Pandemic
+**1728 words** | **Location:** Haymarket, Virginia — Washington Street, Fayette Street, the Town Council chambers, and the Payne family kitchen
+- **Characters:** Andrea Payne, Jim Payne, Gracie (the dog), Dottie Leonard, Mayor David Leake, Councilman Shannon
+- **Try-fail cycle:** no-but
+- **Emotional arc:** From the eerie, suspended calm of a town emptied mid-sentence, the chapter moves through civic impotence and quiet dread toward a fragile, determined stillness — the night before the thing that must be done.
+
+**Summary:** The COVID-19 pandemic has shuttered Haymarket's small businesses, including A Pup's Valley at 6680 Fayette Street, leaving Jim and Andrea Payne facing a financial crisis as the building costs continue with zero revenue. A Special Town Council meeting is scheduled for April 14, 2020, where Andrea plans to speak about their situation, while the Council prepares modest relief measures — a BPOL tax extension — that are real but insufficient. The chapter closes the night before the meeting, with Jim at the kitchen table and April 14 circled on the calendar.
+
+**Beats:**
+1. Haymarket's Washington Street goes silent under pandemic shutdown while Route 15 traffic continues, establishing the town's split economic reality.
+1. A Pup's Valley sits empty on Fayette Street — dogs safe at home, building costs running regardless — framing the central financial crisis.
+1. The April 14 Special Town Council meeting is introduced: the stimulus ordinance will fail, but a 30-day BPOL extension will pass as a limited but genuine gesture of community support.
+1. Dottie Leonard is revealed as an observer who knows the Paynes are in trouble and believes the business is 'built right,' positioning her as a witness and potential ally.
+1. The night before the meeting, Jim sits with the closed laptop and Gracie under the table while Andrea prepares to speak — the chapter ends on the threshold of the public reckoning.
+
+**Plants:**
+- Andrea's planned speech to the Town Council on April 14 — what she says and how it is received is unresolved.
+- The stimulus ordinance is noted as failing before the meeting occurs, suggesting the Council's tools will be inadequate to the scale of the problem.
+- Dottie Leonard's active watching and her belief that A Pup's Valley is 'built right' hints at a future role she may play in the business's survival.
+- Jim's spreadsheet showing a 'narrow path' that requires things to go 'reasonably well' plants the fragility of their survival scenario.
+- The border collie calendar with April 14 circled functions as a recurring symbolic object tying the business's identity to the coming crisis moment.
+
+**Harvests:**
+- The financial vulnerability of A Pup's Valley, previously established through the business-building narrative, is now concretely realized as an existential threat.
+- The town's historical resilience (referenced in earlier chapters) is invoked but explicitly complicated — past survival does not guarantee present survival.
+- Dottie Leonard's deep knowledge of the town and its people, established earlier, is confirmed as she accurately reads the Paynes' situation without being told.
+
+**Chapter question:** Will Andrea's testimony to the Town Council on April 14 make a difference, and will the narrow financial path Jim has calculated hold long enough for A Pup's Valley to survive?
+
+---
+
+### Ch 15: Chapter Fifteen
+**1320 words** | **Location:** Town Council chambers and the house on Fayette Street, small Virginia town
+- **Characters:** Andrea, Jim, Andy, Mayor Leake, Councilman Shannon, Cassie, Gracie
+- **Try-fail cycle:** no-but
+- **Emotional arc:** Andrea moves from controlled dread and public exposure through the specific grief of a partial loss, arriving at quiet, private resolve rather than relief or despair.
+
+**Summary:** Andrea addresses the Town Council during a COVID-era budget meeting, publicly declaring that her dog daycare business has had zero revenue since the shutdown and cannot sustain itself indefinitely. The Council votes against a stimulus ordinance but grants a 30-day BPOL tax deferral. Andrea and Jim return home to Andy and the dogs, absorbing the partial defeat and resolving to keep going.
+
+**Beats:**
+1. Andrea and Jim drive to the Council chambers; she has notes she doesn't need, signaling emotional preparation
+1. Andrea delivers a composed, honest public statement about zero revenue and existential business threat
+1. The Council votes against the stimulus ordinance; Andrea writes '30 days BPOL' in her notes and underlines it
+1. The drive home reframes the 30 days as a problem to solve rather than a defeat
+1. Andrea, Jim, and Andy reunite in the kitchen with the dogs; Andrea makes tea and silently reaffirms she has not quit
+
+**Plants:**
+- The unspoken cost of public vulnerability — Andrea acknowledges standing up in that room took something she cannot yet account for, suggesting future emotional reckoning
+- Andy's question 'Is thirty days enough?' is left unanswered, planting uncertainty about whether the deferral will matter
+- The circled April 14 on the calendar and the note that tomorrow is April 15 suggest a ticking deadline structure ahead
+
+**Harvests:**
+- Andrea's earlier preparation and relationship-building with the town pays off in Mayor Leake giving her the floor unprompted
+- The business's precarious post-opening financial state, established in prior chapters, is now publicly named and quantified as zero revenue
+
+**Chapter question:** Can thirty days of deferred taxes actually save the business, and what will the cost of Andrea's public vulnerability turn out to be?
+
+---
+
+### Ch 16: Chapter Sixteen: What Thirty Days Buys
+**1828 words** | **Location:** A Pup's Valley daycare facility and Jim and Andrea's home
+- **Characters:** Jim, Andrea, Cassie, Gracie, Mrs. Henderson, Mr. Patterson, Mr. and Mrs. Okafor, Mr. and Mrs. Garcia
+- **Try-fail cycle:** no-but
+- **Emotional arc:** From hollow, purposeless waiting in an empty facility, Jim and Andrea move through grief-adjacent documentation into quiet, determined agency, ending in cautious forward momentum.
+
+**Summary:** During the thirty-day closure extension, Jim systematically calls client families and documents how their dogs are behaviorally suffering from the loss of daycare structure and socialization. Andrea proposes free virtual consultations as a way to maintain relationships and help the dogs, which proves successful enough that by Day 30 the operation has expanded to cover most of their sixty families. The chapter ends with Jim beginning to plan for reopening.
+
+**Beats:**
+1. Jim works alone in the empty, scentless facility, building a documented picture of behavioral distress across twelve client dogs through welfare calls
+1. Jim and Andrea review the notes together at home and Andrea proposes free virtual consultations as a pivot to keep client relationships alive within legal constraints
+1. The consultation program grows organically over thirty days, with Andrea developing a full system and the dogs showing measurable improvement through owner-implemented routines
+1. On Day 30, Jim marks the milestone in his legal pad and begins a new list headed 'What comes next'
+1. Jim writes out concrete next steps — expanding check-ins to all sixty families, planning what reopening would look like — signaling a shift from survival mode to forward planning
+
+**Plants:**
+- Jim's detailed legal pad documentation of dog behavioral patterns and family relationships, framed as a potential asset for reopening
+- The 'What comes next' list and Jim's explicit note to 'think about what reopening looks like' and 'what the first week back would look like for the dogs'
+- Andrea's spreadsheet system covering all sixty families, establishing an organized client base ready to be mobilized
+- The note 'Dormant, not gone' as a characterization of the business's current state
+
+**Harvests:**
+- The thirty-day extension deadline, established earlier, arrives and is marked — the business has survived it
+- The dogs' social and behavioral dependency on the daycare structure, previously shown through their in-facility behavior, is now confirmed through owner reports of disruption at home
+- Andrea's competence and systems-thinking, established in earlier chapters, pays off as she builds the consultation program into a functioning operation
+
+**Chapter question:** Will the relationships and goodwill preserved through the consultation program be enough to sustain the business — and will reopening actually become possible?
+
+---
+
+### Ch 17: Chapter Seventeen
+**1808 words** | **Location:** A Pup's Valley daycare facility and the Payne family home, Haymarket
+- **Characters:** Andrea Payne, Gail Ferris, Dottie, Jim Payne, Andy Payne, Cassie, Gracie
+- **Try-fail cycle:** no-but
+- **Emotional arc:** Andrea moves from controlled grief over a single client loss, through the hollow discipline of maintaining an empty facility, to a quiet, unspoken resolve — not optimism, but refusal to let the dormant become the dead.
+
+**Summary:** Andrea receives a call from client Gail Ferris that her dog Biscuit will no longer be attending A Pup's Valley during the closure, prompting Andrea to walk the empty facility and call Dottie for emotional support. That evening, Andrea and Jim review the financial numbers together and acknowledge for the first time that the business might not survive, while Andrea privately holds onto the belief that their sixty client families are dormant rather than lost.
+
+**Beats:**
+1. Gail Ferris calls to say Biscuit is being watched by a neighbor, framing it as temporary but offering no guarantees; Andrea absorbs the loss with practiced composure.
+1. Andrea walks the empty, immaculately maintained facility and confronts the dissonance of doing the work when there is no one to do it for.
+1. Andrea calls Dottie, who draws a parallel to the uncertainty of the 1993-94 Disney fight and offers the only counsel available: keep going without knowing the outcome.
+1. At home, Andrea helps Andy with a fractions problem, a small act of normalcy that anchors her amid the crisis.
+1. Andrea and Jim review the financial numbers at night, Jim voices aloud that failure is possible, and Andrea writes in the margin 'sixty families. dormant, not gone,' refusing to surrender the client base mentally.
+
+**Plants:**
+- Jim's legal pad list includes 'List of families for check-ins — expand to all sixty' and 'First week back. What does it look like for the dogs,' planting a proactive client-retention strategy.
+- Andrea's marginal note 'sixty families. dormant, not gone' plants her internal reframe that will likely drive future outreach or reopening efforts.
+- Dottie's Disney fight parallel is elaborated with emotional weight, planting her as a figure whose past victories may become a more active resource or model.
+- Jim's explicit acknowledgment that failure is 'possible' plants the stakes for a potential crisis point later in the narrative.
+
+**Harvests:**
+- The ongoing financial precariousness of A Pup's Valley, previously established, is now given a concrete worst-case articulation: three months of closure could end the business.
+- Dottie's history as a local activist (the Disney fight, referenced in earlier chapters) is harvested here as direct emotional counsel, paying off her characterization as someone who has navigated sustained uncertainty.
+- Andy's habit of reading the emotional weather of a room, likely established earlier, is confirmed and named explicitly here.
+
+**Chapter question:** Will Andrea and Jim's deliberate, methodical approach to holding on — the check-in lists, the clean facility, the marginal notes — be enough to keep sixty families from becoming permanently lost?
 
 ---
 
 ### Ch 18: Dark Night of the Soul
+**1929 words** | **Location:** Haymarket, Virginia — the family home kitchen and surrounding streets
+- **Characters:** Jim, Andrea, Cassie, Gracie
+- **Try-fail cycle:** no-but
+- **Emotional arc:** The chapter moves from heavy, wordless grief and paralysis at the kitchen table through solitary reckoning to a quiet, hard-won mutual resolve — grief does not lift, but the couple finds a way to hold it together rather than apart.
 
-- **POV:** Close third on Jim and Andrea, alternating; quiet chapter
-- **Location:** The Paynes' home; a walk through Haymarket
-- **Save the Cat beat:** Dark Night of the Soul
-- **% mark:** 68–73%
-- **Emotional arc:** Exhaustion → the specific clarity that comes after the breaking point
-- **Try-fail cycle:** No-but (the situation has not improved; but something shifts internally — not a solution, but an orientation)
-- **Beats:**
-  1. A quiet morning. Jim and Andrea at the kitchen table. They are not going through numbers. They are just sitting. Cassie and Gracie are there. The narrator allows the scene to breathe — this is one of the novel's quiet chapters, character-focused, low-action, emotionally rich.
-  2. Jim takes a walk through Haymarket. Washington Street. The brick sidewalks. The lamp posts. He is not thinking strategically. He is just walking in the town he chose. He passes the Council chambers. He passes the building where Dottie has her office. He passes the intersection of Route 15 and Route 55 and thinks about what the town is and what it's trying to be.
-  3. Jim's internal reckoning: the lie he has been living — that outcomes are proportional to effort — is not quite true. He has always known this intellectually. He knows it in his body now. The pandemic is not a problem he can solve by doing the work correctly. It is a thing that happened to the world, and to him, and to the business he built in a town he loves.
-  4. What remains: the dogs will come back. The families will come back. The relationships are dormant, not dead. The building is still there. The name is still on the building. Andy named it. That has not changed.
-  5. Jim comes home. Andrea is there. They do not have a dramatic conversation. They have the conversation of two people who have been through something together and are still here. The narrator does not editorialize about this. It is complete as reported.
-- **Plants:**
-  - The dogs' return as the first sign of restoration — planted here, paid off in Ch 20
-  - The name on the building as something that has not changed and will not change
-- **Payoffs:**
-  - Jim's lie, confronted at the midpoint and exposed throughout Act II Part 2, is now internalized: he accepts that love and competence are not sufficient protection against the world, and that this is not a reason to stop loving or to stop being competent
-- **Character movement:** Jim's arc turns. He is not transformed — he is a flat arc character — but the world has tested his values and he has held. The test has cost him something. He knows what it cost.
-- **Thematic function:** The Dark Night of the Soul is not dramatic. It is quiet. The heroism is ordinary: sitting at the kitchen table, taking a walk, coming home.
-- **~Word count target:** 3,000
+**Summary:** Jim and Andrea spend a quiet, grief-heavy morning after a difficult night reviewing the business's financial papers, each processing the crisis in their own way — Jim by walking to the Route 15/55 intersection and reflecting on his choice to build here, Andrea by rereading her margin notes and calling her mother. They reconvene at the kitchen table and reach a fragile but genuine emotional turning point, shifting from paralysis to cautious forward resolve.
+
+**Beats:**
+1. Silent breakfast: Jim and Andrea eat without greeting each other, the financial papers from the night before untouched between them, establishing the weight of unspoken crisis.
+1. Jim's solitary walk to the intersection: He revisits the deliberate choice to build in Haymarket, passes Dottie's dark office, and draws quiet resolve from her example of persisting through the Disney fight without knowing the outcome.
+1. Jim recalls the origin of the name 'A Pup's Valley' from his son Andy, anchoring his identity and purpose in something unchanged.
+1. Andrea's reframe at the kitchen table: She has turned the numbers face-down and focused on her margin notes ('sixty families, dormant, not gone'), articulating a plan to be ready for the first customers to return.
+1. Emotional resolution: Andrea shifts from 'I know' to 'okay' — a word that signals genuine settling — and Jim takes Gracie for the long-promised walk, closing the chapter on a note of forward motion.
+
+**Plants:**
+- Andrea's margin note 'dormant, not gone' as a framing concept for the customer base and the business's future identity.
+- The specific families named as likely first returners (the Hendersons, the Nguyens/Biscuit's family), setting up future reunion scenes.
+- Jim's acknowledgment that reopening 'won't look the same' but 'will be the start of something' — plants tension about what the new normal will actually look like.
+- Andrea's phone call to her mother and the lie 'we're fine' — plants a thread about what Andrea is concealing from family and the emotional cost of that.
+
+**Harvests:**
+- The name 'A Pup's Valley' origin story (Andy's suggestion) is recalled and confirmed as still intact — pays off earlier establishment of the business name's significance.
+- Dottie's Disney fight, previously referenced as local history, is harvested here as a direct psychological model for Jim's perseverance.
+- The Route 15/55 intersection as a symbol of Jim's deliberate choice to build in Haymarket — pays off earlier descriptions of the town's character and Jim's investment in it.
+- Cassie sleeping on the bed (a recurring domestic detail) is harvested as a moment of levity that briefly breaks the emotional tension between Jim and Andrea.
+
+**Chapter question:** Can Jim and Andrea actually rebuild the business to something recognizable, and will the customers they are counting on — the Hendersons, Biscuit's family — truly come back when the doors reopen?
 
 ---
 
 ### Ch 19: The Dogs Come Back
+**2112 words** | **Location:** A Pup's Valley dog daycare, Gainesville/Prince William County, Virginia
+- **Characters:** Andrea, Jim, Mrs. Henderson, Biscuit, Mr. Garcia, Rue, Mrs. Hollander, Archie, Cooper
+- **Try-fail cycle:** yes-and
+- **Emotional arc:** From the held-breath solitude of an empty building reopening to the quiet, earned confidence of a business that survived and is now, measurably, beginning again.
 
-- **POV:** Close third on Andrea
-- **Location:** A Pup's Valley — the first days of reopening
-- **Save the Cat beat:** Break Into Three
-- **% mark:** 73–77%
-- **Emotional arc:** Cautious hope → the specific joy of a thing restored
-- **Try-fail cycle:** Yes-but (the dogs come back; the families come back; the business reopens; but it is not the same as before — some clients are gone, some relationships have to be rebuilt, the work starts over)
-- **Beats:**
-  1. The reopening. The Governor's order is modified. A Pup's Valley can open with restrictions. Andrea is at the door. She knows which families will come back first. She is right.
-  2. The first dogs back. The narrator names them — the specific dogs Jim has been thinking about during the shutdown, the ones whose absence was its own statement. They arrive. They remember the place. The shepherd mix runs to Jim.
-  3. Andrea giving tours again — new families, families who found A Pup's Valley during the shutdown through word of mouth, through the virtual check-ins, through the relationships Jim and Andrea maintained. The trust architecture was dormant, not dead.
-  4. The smell of the building: clean. It was always clean, even when it was empty. Andrea maintained it. The clients who come back notice. They don't say anything. They notice.
-  5. End of the first week back. Jim and Andrea at the kitchen table. The numbers are not what they were before March. They are better than they were in April. They are getting better.
-- **Plants:**
-  - The awards — Best of Prince William, Best of Virginia — as the eventual confirmation that the business is what it was supposed to be
-- **Payoffs:**
-  - The dogs' return, planted in Ch 18, pays off here
-  - The trust architecture, built in Ch 9 and threatened in Ch 17, is shown to be resilient
-  - The empty building, described in Ch 13 and Ch 17, is now full again
-- **Character movement:** Andrea's arc completes its turn: she has spoken the truth in public, survived the exposure, and rebuilt. She is not the same person she was in Ch 3 — she knows now that love made practical is not sufficient protection against the world, and she does it anyway.
-- **Thematic function:** Break Into Three. The new plan is not a plan — it is the same work, done again, with the knowledge of what it cost.
-- **~Word count target:** 3,400
+**Summary:** A Pup's Valley reopens after an eight-month pandemic shutdown, and Andrea and Jim watch their client base rebuild day by day as familiar dogs and families return. By the end of the second week they are at seventy-eight percent of pre-shutdown numbers, with even the uncertain Hollanders returning. Jim proposes submitting for Best of Prince William County, and Andrea writes it on her to-do list.
 
----
+**Beats:**
+1. Andrea unlocks the building alone at 6:45 AM on reopening day; the Hendersons and Biscuit are the first to arrive, ending the emptiness
+1. Jim witnesses Rue's return — the shepherd mix who had made dramatic progress before the shutdown remembers the place and presses against him, confirming the work was not lost
+1. End of week one: Andrea reviews numbers with Jim showing a trajectory from 28% to 61% of pre-shutdown volume, naming specific losses and gains with clear-eyed realism
+1. The Hollanders return in week two, confirming Jim's prediction; Mrs. Hollander admits she tried another facility but it 'wasn't this,' validating the business's distinct identity
+1. Jim proposes submitting for Best of Prince William; Andrea writes it on her to-do list and draws a checkbox, signaling a forward-looking ambition
 
-### Ch 20: What Excellence Looks Like
+**Plants:**
+- Best of Prince William County award submission introduced as a near-future goal with a checkbox drawn but not yet ticked
+- Staffing conversation explicitly deferred ('not tonight'), signaling a coming operational challenge as volume grows
+- Capacity restrictions noted as a ceiling that will prevent full recovery even if all clients return — structural constraint still unresolved
+- The margin column of clients who checked in during shutdown without asking about reopening flagged as meaningful data Andrea is tracking separately
 
-- **POV:** Close third on Jim
-- **Location:** A Pup's Valley — a full operating day, post-pandemic
-- **Save the Cat beat:** Finale — Gather the Team / Execute the Plan
-- **% mark:** 77–82%
-- **Emotional arc:** Restored competence → the specific satisfaction of having built what you said you would build
-- **Try-fail cycle:** Yes-and (the business is working; the dogs are there; the families are there; the work is good; this is the rare yes-and of the finale)
-- **Beats:**
-  1. A full operating day at A Pup's Valley, 2021. The narrator catalogs the dogs — more of them now, new ones alongside the returning regulars. Jim knows every name. The shepherd mix is a regular. She runs to him when she arrives.
-  2. Jim with a new dog — anxious, first day. The same approach: get low, wait, let the dog decide. The same result. The narrator does not editorialize. It means what it means.
-  3. Andrea giving a tour to a new family. She explains cage-free. She asks about the dog's history. She texts a photo at the end of the day. The family responds with relief and gratitude. This is the work.
-  4. The awards: Best of Prince William. Best of Virginia. The narrator describes these not as chest-thumping but as confirmation — the external validation of what Jim and Andrea already knew. They built what they said they would build.
-  5. Jim at the end of the day, doing the unglamorous work. The building smells clean. The dogs are gone for the night. The work will start again tomorrow.
-- **Plants:**
-  - The awards as confirmation, not destination — the story is not over when the awards come
-- **Payoffs:**
-  - The promise made in Ch 3 — that Jim and Andrea would build the finest dog daycare in the mid-Atlantic — is confirmed here
-  - Jim's competence, established in Ch 8, is shown to have survived the pandemic intact
-- **Character movement:** Jim's arc completes: he has held his values through the test. The business is what he said it would be. The awards are real. The dogs know it before the awards do.
-- **Thematic function:** The promise of the premise, delivered. Not triumphantly — specifically.
-- **~Word count target:** 3,200
+**Harvests:**
+- Andrea's decision to keep the building clean through the entire shutdown — questioned by Jim in March — pays off as returning clients unconsciously register and relax at the smell of a well-maintained space
+- The virtual check-ins and social media posts maintained during closure directly convert to new tour bookings and returning clients, validating the strategy
+- Rue's pre-shutdown behavioral progress (from wall-pressing to perimeter-running) is confirmed intact on her return, paying off Jim's months of concern for her
+- Jim's confident prediction that the Hollanders would return is fulfilled exactly in week two
 
----
-
-### Ch 21: The Call
-
-- **POV:** Close third on Jim
-- **Location:** Jim's phone; the hospital (imagined); Haymarket
-- **Save the Cat beat:** Finale — High Tower Surprise / Dig Deep Down
-- **% mark:** 82–87%
-- **Emotional arc:** Ordinary day → the specific weight of a call that matters
-- **Try-fail cycle:** No-but (Jim calls Dottie in the hospital; she thinks he might be calling about a listing; he says no, he just called to talk; the conversation is brief and complete; but it carries the weight of everything that is ending)
-- **Beats:**
-  1. Jim calls Dottie in the hospital. The narrator describes the moment before the call: Jim knows she is ill. He is not calling for advice or information. He is calling because she matters to him.
-  2. Dottie picks up on the second ring. Her voice is the same. She thinks he might be calling about a listing. She is ready to work it. Jim says no, Dottie, I just called to talk. There is a pause. She laughs. They talk.
-  3. The conversation: the narrator does not transcribe it fully. It is described in summary, the way you describe the most important conversations — by their quality rather than their content. They talk about Haymarket. About the business. About what she saw in Jim and Andrea when she decided to get behind them.
-  4. After the call, Jim sits with it. He thinks about what Dottie's fifty years of work amounted to: she made Haymarket worth coming to. He thinks about the name on the building. He thinks about Andy in the back seat.
-  5. The CHARACTER thread closes here: Andrea's arc completed in Ch 19; Jim's arc completes in this chapter. He understands, fully and in his body, what the novel has been arguing: the best things are built by families, named by children, and given to communities that were waiting for them without knowing it. Dottie made the community. The Paynes built the thing. Andy named it.
-- **Plants:**
-  - Dottie's death — not stated, but felt in the quality of the call
-- **Payoffs:**
-  - Dottie's habit of picking up the phone ready to work, planted in Ch 7, pays off here in full
-  - The hospital call, referenced in the seed material, is dramatized
-  - Jim's relationship with Dottie, built across the novel, reaches its emotional peak
-- **Character movement:** Jim understands what he has built and what it cost and what it means. He does not say this. He sits with it.
-- **Thematic function:** The chain of care. Dottie spent fifty years making Haymarket worth coming to. Jim called her to say thank you, in the way that people say thank you when they don't say it directly.
-- **~Word count target:** 3,400
-
----
-
-### Ch 22: March 20, 2024
-
-- **POV:** Close third on Jim and Andrea, alternating
-- **Location:** Haymarket; the funeral home; the service
-- **Save the Cat beat:** Finale — Execute the New Plan
-- **% mark:** 87–92%
-- **Emotional arc:** Grief → the specific gratitude that lives alongside grief
-- **Try-fail cycle:** No-but (Dottie is gone; the loss is real and irreversible; but Jim and Andrea stand up at the funeral and speak for her, and in doing so, they complete the chain of care)
-- **Beats:**
-  1. March 20, 2024. Dottie Watts Leonard dies. She is 75. The narrator does not editorialize. The fact is sufficient.
-  2. Jim and Andrea at the funeral. The room. The people. The narrator describes who is there — the town Dottie spent fifty years building, gathered to acknowledge that she is gone.
-  3. The moment when people are invited to speak. Jim and Andrea are among the few who stand up. The narrator does not transcribe their words fully — it describes the quality of what they say: specific, honest, without performance. They tell the room who Dottie was. Not what she meant to them — who she was. The Disney fight. The brick sidewalks. The phone call in the hospital where she thought he might be a buyer.
-  4. After the service. Jim and Andrea outside. The March air. The Blue Ridge on the western horizon. They do not say much.
-  5. The EVENT thread closes: Dottie's death is the final disruption the novel has been building toward. The new equilibrium is not the same as the old one. She is gone. The town is still there. The business is still there. The name is still on the building.
-- **Plants:**
-  - None — this is a payoff chapter
-- **Payoffs:**
-  - Dottie's entire arc, built across the novel, closes here
-  - Jim and Andrea at the funeral, standing up to speak, pays off the relationship built across twenty-one chapters
-  - The EVENT thread (disruption → new equilibrium) closes: the equilibrium is not the same as before, but it is real
-- **Character movement:** Jim and Andrea have completed the chain of care. They were helped by someone who spent her life making Haymarket worth building in. They built something worthy of it. They stood up at her funeral and said so.
-- **Thematic function:** Grief and gratitude. The loss is real. So is what she left.
-- **~Word count target:** 3,600
-
----
-
-### Ch 23: What the Dogs Know
-
-- **POV:** Close third on Andrea; quiet chapter
-- **Location:** A Pup's Valley — a morning, shortly after Dottie's funeral
-- **Save the Cat beat:** Finale — resolution
-- **% mark:** 92–96%
-- **Emotional arc:** Grief still present → the specific comfort of the work
-- **Try-fail cycle:** Yes-and (the dogs are there; the work is good; the grief is real and the work is real and they are not in conflict)
-- **Beats:**
-  1. Andrea at A Pup's Valley, a morning in late March 2024. The dogs arrive. She knows their names. She knows their families. The work is the same as it has always been.
-  2. Jim on the floor with a dog — a new one, first day, anxious. The same approach. The same result. The narrator does not editorialize.
-  3. Andrea thinks about Dottie. Not in a formal, elegiac way — the way you think about someone who is gone when you are doing the work they helped you start. She thinks about what Dottie said: you keep going, that's all there is.
-  4. The INQUIRY thread closes: the question the novel has been asking — what does it mean to build something worthy of a community? — is answered here, not in words but in the specific, unglamorous work of a morning at A Pup's Valley. This is what it means. You show up. You learn the names. You scrub the floors. You keep going.
-  5. Andrea texts a photo to a client. The client responds with relief and gratitude. This is the work. It has always been the work.
-- **Plants:**
-  - None — this is a payoff chapter
-- **Payoffs:**
-  - The INQUIRY thread closes: the question is answered
-  - Dottie's phrase ("you keep going, that's all there is"), planted in Ch 17, pays off here
-  - The trust architecture, built in Ch 9, threatened in Ch 17, restored in Ch 19, is shown to be permanent
-- **Character movement:** Andrea is complete. She has built what she said she would build. She is doing the work. The grief is real. The work is real. Both are true.
-- **Thematic function:** Dogs as mirrors. They respond to what is actually in the room. What is in the room is: the work, the love, the people who showed up. The dogs know this before anyone says it.
-- **~Word count target:** 3,000
-
----
-
-### Ch 24: A Pup's Valley
-
-- **POV:** Narrator-wide; the novel's final voice
-- **Location:** 6680 Fayette Street; Haymarket; the Blue Ridge on the horizon
-- **Save the Cat beat:** Final Image
-- **% mark:** 96–100%
-- **Emotional arc:** Quiet satisfaction → the specific peace of having built something real in a real place
-- **Try-fail cycle:** Yes-and (the final image earns the rarest outcome)
-- **Beats:**
-  1. The narrator describes A Pup's Valley as it is now: open, operating, exactly what Jim and Andrea said it would be. The sign is on the building. The name is Andy's. The awards are real.
-  2. The narrator describes Haymarket as it is now: still there, still arguing about the things small towns argue about, still the place Dottie spent fifty years making worth coming to. The brick sidewalks. The lamp posts. The intersection of Route 15 and Route 55.
-  3. The MILIEU thread closes: Haymarket is not a backdrop. It is a participant. It was here before the Paynes arrived and it will be here after. They built something worthy of it. That is the story.
-  4. The final image mirrors the opening image: not Jim at the Council microphone, but the building at 6680 Fayette Street, seen from the street. The sign is up. The name is on it. Inside, the dogs are there.
-  5. The narrator's final lines: specific, clean, without editorial. The best things are built by families, named by children, and given to communities that were waiting for them without knowing it. The name is on the building. The dogs are inside. The work continues.
-- **Plants:**
-  - None — this is pure payoff
-- **Payoffs:**
-  - The MILIEU thread closes: Haymarket as a place worth building in
-  - The opening image (the building seen from outside, no sign) mirrors the final image (the building seen from outside, sign up, dogs inside)
-  - Andy's name, given in Ch 5, is on the building in the final image
-  - Dottie's legacy — the town she made — is visible in the brick sidewalks, the lamp posts, the place itself
-- **Character movement:** No single character moves here. The novel's argument is complete. The community is the character. The community is changed.
-- **Thematic function:** The chain of care is complete. Dottie made the town. The Paynes built the thing. Andy named it. The dogs are inside.
-- **~Word count target:** 3,000
+**Chapter question:** Will A Pup's Valley fully recover its pre-shutdown client base, navigate the staffing and capacity constraints ahead, and successfully pursue the Best of Prince William recognition?
 
 ---
 
 ## FORESHADOWING LEDGER
 
-| # | Thread | Planted (Ch) | Reinforced (Ch) | Payoff (Ch) | Type |
-|---|---|---|---|---|---|
-| 1 | The building at 6680 Fayette Street, seen from outside with no sign | Ch 1 | Ch 4 | Ch 24 | Object / Structural |
-| 2 | The name problem — A Dog's Day Out is fine but wrong | Ch 3 | Ch 4 | Ch 5 | Dialogue / Action |
-| 3 | Andy's existence and his habit of listening from the back seat | Ch 3 | — | Ch 5 | Character |
-| 4 | The Disney fight — introduced but not detailed | Ch 2 | Ch 4 | Ch 7 | Structural / Historical |
-| 5 | Dottie's habit of picking up the phone ready to work | Ch 7 | Ch 10 | Ch 21 | Action / Dialogue |
-| 6 | The year: 2019, with the narrator's quiet awareness of what comes next | Ch 4 | Ch 11 | Ch 12 | Structural |
-| 7 | Jim's lie: outcomes are proportional to effort | Ch 4 | Ch 8, Ch 11 | Ch 13, Ch 18 | Character |
-| 8 | Andrea's lie: love made practical is sufficient protection | Ch 9 | Ch 11 | Ch 17 | Character |
-| 9 | The cage-free philosophy as a statement about what the business believes | Ch 4 | Ch 6 | Ch 17 (the empty facility still maintained) | Symbolic |
-| 10 | The specific dogs on the floor — named, characterized | Ch 8 | Ch 11 | Ch 19 (they come back) | Object / Character |
-| 11 | The BPOL tax as a specific, real financial pressure | Ch 13 | Ch 15 | Ch 16 | Object / Structural |
-| 12 | The stimulus ordinance — set up as a possible rescue | Ch 14 | Ch 15 | Ch 15 (it doesn't pass — anti-payoff) | Structural |
-| 13 | Dottie's phrase: "you keep going, that's all there is" | Ch 17 | Ch 21 | Ch 23 | Dialogue |
-| 14 | The shepherd mix who pressed against the wall on her first day | Ch 6 | Ch 8 | Ch 19 (she runs to Jim) | Character / Action |
-| 15 | Councilman Shannon's phrase — "thank you for caring
+| Thread | Planted | Harvested |
+|--------|---------|-----------|
+| Andrea's competence and systems-thinking, established in ear |  | Ch 16 |
+| Andrea's competence in financial and civic contexts, previou |  | Ch 13 |
+| Andrea's connection with the traffic-question woman who shar | Ch 4 |  |
+| Andrea's decision to keep the building clean through the ent |  | Ch 19 |
+| Andrea's detailed mental rehearsal of client tours hints at  | Ch 3 |  |
+| Andrea's directness, referenced in passing in earlier contex |  | Ch 9 |
+| Andrea's earlier preparation and relationship-building with  |  | Ch 15 |
+| Andrea's expression of 'knowing something she wasn't going t | Ch 1 |  |
+| Andrea's instinct that she should be the one to speak public | Ch 12 |  |
+| Andrea's kitchen observation that Jim would 'know more about |  | Ch 4 |
+| Andrea's legal pad of notes and her months-long customer con | Ch 5 |  |
+| Andrea's margin note 'dormant, not gone' as a framing concep | Ch 18 |  |
+| Andrea's marginal note 'sixty families. dormant, not gone' p | Ch 17 |  |
+| Andrea's pattern of texting photos — previously implied as p |  | Ch 9 |
+| Andrea's phone call to her mother and the lie 'we're fine' — | Ch 18 |  |
+| Andrea's physical exhaustion (back complaint deferred to the | Ch 6 |  |
+| Andrea's planned speech to the Town Council on April 14 — wh | Ch 14 |  |
+| Andrea's promise-making to every family is named as a weight | Ch 6 |  |
+| Andrea's role as the keeper of unwritten knowledge, seeded i |  | Ch 11 |
+| Andrea's spreadsheet system covering all sixty families, est | Ch 16 |  |
+| Andy is mentioned as someone who will want to see the busine | Ch 3 |  |
+| Andy's casual, matter-of-fact register (established earlier  |  | Ch 5 |
+| Andy's habit of reading the emotional weather of a room, lik |  | Ch 17 |
+| Andy's question 'Is thirty days enough?' is left unanswered, | Ch 15 |  |
+| Best of Prince William County award submission introduced as | Ch 19 |  |
+| Capacity restrictions noted as a ceiling that will prevent f | Ch 19 |  |
+| Cassie sleeping on the bed (a recurring domestic detail) is  |  | Ch 18 |
+| Cassie sleeping with her head on Jim's foot and Gracie's pre | Ch 5 |  |
+| Cassie's aging hip and her history of being present through  | Ch 3 |  |
+| Dottie Leonard helped them through the approval process 'not | Ch 1 |  |
+| Dottie Leonard's active watching and her belief that A Pup's | Ch 14 |  |
+| Dottie Leonard's advice to attend the September hotel vote,  | Ch 4 |  |
+| Dottie Leonard's deep knowledge of the town and its people,  |  | Ch 14 |
+| Dottie Leonard, presumably introduced or referenced earlier, |  | Ch 2 |
+| Dottie is mentioned as someone Jim has been 'meaning to call | Ch 11 |  |
+| Dottie's Disney fight parallel is elaborated with emotional  | Ch 17 |  |
+| Dottie's Disney fight, previously referenced as local histor |  | Ch 18 |
+| Dottie's Thursday visit to inspect the floor is scheduled, c | Ch 7 |  |
+| Dottie's ability to identify at first meeting which families | Ch 2 |  |
+| Dottie's history as a local activist (the Disney fight, refe |  | Ch 17 |
+| Dottie's principle that first-time daycare families are clie | Ch 7 |  |
+| Dottie's prior appearance as a listing agent on Fayette Stre |  | Ch 4 |
+| Dottie's role as a trusted community elder and sounding boar |  | Ch 13 |
+| Dottie's support for the business, previously established as |  | Ch 7 |
+| Jim is established as a trusted staff member capable of hand | Ch 9 |  |
+| Jim's ability to distinguish dog vocalizations by type (terr | Ch 4 |  |
+| Jim's acknowledgment that reopening 'won't look the same' bu | Ch 18 |  |
+| Jim's competence with anxious dogs, previously implied, is d |  | Ch 8 |
+| Jim's confident prediction that the Hollanders would return  |  | Ch 19 |
+| Jim's detailed legal pad documentation of dog behavioral pat | Ch 16 |  |
+| Jim's explicit acknowledgment that failure is 'possible' pla | Ch 17 |  |
+| Jim's instinct to stay still and let difficult dogs arrange  | Ch 3 |  |
+| Jim's internal philosophy — 'you could not rush it, you coul | Ch 8 |  |
+| Jim's legal pad list includes 'List of families for check-in | Ch 17 |  |
+| Jim's parallel experience of 'permits, zoning hearings, mont | Ch 2 |  |
+| Jim's philosophical reflection on fairness and proportional  | Ch 13 |  |
+| Jim's skill with anxious dogs — previously established as pa |  | Ch 6 |
+| Jim's slow-intake protocol for anxious dogs, established ear |  | Ch 10 |
+| Jim's spreadsheet showing a 'narrow path' that requires thin | Ch 14 |  |
+| Karen asks Jim to tell her before Rosie's decline becomes ir | Ch 8 |  |
+| Mark Donahue introduced as a key gatekeeper whose personal i | Ch 4 |  |
+| Mark Donahue is introduced as a contractor/advisor handling  | Ch 5 |  |
+| Mayor David Leake is named as someone who can be given 'some | Ch 13 |  |
+| Mrs. Delgado's mask in week one pays off as a quiet early si |  | Ch 12 |
+| Nell's second-day arrival is explicitly anticipated — Jim wo | Ch 8 |  |
+| Obie's crate-anxiety diagnosis and the two-week follow-up wi | Ch 9 |  |
+| Penny's three-week arc of claiming the heating vent and deci |  | Ch 12 |
+| Pepper's nighttime pacing since her family's August move to  | Ch 10 |  |
+| Pepper's slow-introduction protocol and the note 'Jim for in | Ch 9 |  |
+| Rosie's aging and slowing down is introduced as an ongoing,  | Ch 8 |  |
+| Rue's pre-shutdown behavioral progress (from wall-pressing t |  | Ch 19 |
+| Shannon's ritual sincerity — Jim has been 'sitting with it f | Ch 1 |  |
+| Staffing conversation explicitly deferred ('not tonight'), s | Ch 19 |  |
+| The 'What comes next' list and Jim's explicit note to 'think | Ch 16 |  |
+| The April 14th Council meeting is established as a critical  | Ch 13 |  |
+| The April 14th Town Council meeting is circled on the calend | Ch 12 |  |
+| The BPOL tax extension (thirty days, unofficial) is flagged  | Ch 13 |  |
+| The Disney's America historical backstory, implied by Dottie |  | Ch 7 |
+| The Disney's America historical episode, likely alluded to i |  | Ch 2 |
+| The Fayette Street location and Washington Street address ar | Ch 5 |  |
+| The Gainesville shepherd mix's progress is noted as 'three w | Ch 10 |  |
+| The Hartmann and Okafor families, introduced as clients, are |  | Ch 10 |
+| The Kowalski family and the Gainesville couple with the shep | Ch 7 |  |
+| The Kowalski father's question — 'Are you going to be here i | Ch 6 |  |
+| The Okafor dog's first-day behavior (pressed against the wal |  | Ch 10 |
+| The Route 15/55 intersection as a symbol of Jim's deliberate |  | Ch 18 |
+| The SBA loan and EIDL applications are pending with unknown  | Ch 12 |  |
+| The awards are placed where staff can see them but Andrea on | Ch 11 |  |
+| The book's central business (the dog daycare on Fayette Stre |  | Ch 2 |
+| The border collie calendar with April 14 circled functions a | Ch 14 |  |
+| The building on Fayette Street is referenced as the physical | Ch 3 |  |
+| The business has become emotionally load-bearing for clients | Ch 11 |  |
+| The business name 'A Pup's Valley' was given by Andy from th | Ch 1 |  |
+| The business's precarious post-opening financial state, esta |  | Ch 15 |
+| The cage-free, presence-based philosophy articulated in earl |  | Ch 6 |
+| The child naming the business from the back seat of a car is | Ch 2 |  |
+| The circled April 14 on the calendar and the note that tomor | Ch 15 |  |
+| The couple's prior experience running a similar facility (re |  | Ch 3 |
+| The date 'early 2020' is foregrounded at the chapter's close | Ch 11 |  |
+| The daycare's established social order (Biscuit's confidence |  | Ch 8 |
+| The daycare's name origin ('the name on the sign that Andy h |  | Ch 13 |
+| The detail that owners 'always make it to the parking lot' i |  | Ch 8 |
+| The dogs' social and behavioral dependency on the daycare st |  | Ch 16 |
+| The earlier establishment of Jim's instinctive, floor-level  |  | Ch 11 |
+| The financial vulnerability of A Pup's Valley, previously es |  | Ch 14 |
+| The framing of the Paynes as 'worthy' of Haymarket sets up t | Ch 2 |  |
+| The image of 'the specific sound a room full of dogs makes w | Ch 7 |  |
+| The long-running naming problem — implied to have been unres |  | Ch 5 |
+| The margin column of clients who checked in during shutdown  | Ch 19 |  |
+| The market rationale — dual-income households, long commutes |  | Ch 3 |
+| The math didn't know about pandemics — explicit foreshadowin | Ch 1 |  |
+| The months of preparation and the smell of the building Andr |  | Ch 6 |
+| The name 'A Pup's Valley' origin story (Andy's suggestion) i |  | Ch 18 |
+| The narrator's explicit statement that 'a year from now, the | Ch 4 |  |
+| The note 'Dormant, not gone' as a characterization of the bu | Ch 16 |  |
+| The notebook system versus checkbox forms is established as  | Ch 6 |  |
+| The ongoing financial precariousness of A Pup's Valley, prev |  | Ch 17 |
+| The origin of the business name 'A Pup's Valley' is paid off |  | Ch 7 |
+| The recurring client relationships (Okonkwos/Biscuit, Marcus |  | Ch 12 |
+| The sign fabricator's six-week timeline and the January inst | Ch 5 |  |
+| The specific families named as likely first returners (the H | Ch 18 |  |
+| The stimulus ordinance is noted as failing before the meetin | Ch 14 |  |
+| The thirty-day extension deadline, established earlier, arri |  | Ch 16 |
+| The three-week filing deadline and six-week council meeting  | Ch 4 |  |
+| The town's historical resilience (referenced in earlier chap |  | Ch 14 |
+| The two part-time staff members are mentioned as an unresolv | Ch 12 |  |
+| The unnamed ten-year-old who coined 'A Pup's Valley' from th | Ch 7 |  |
+| The unnamed thing Jim has been carrying since August, now sp | Ch 10 |  |
+| The unspoken cost of public vulnerability — Andrea acknowled | Ch 15 |  |
+| The virtual check-ins and social media posts maintained duri |  | Ch 19 |
+| Wellington the corgi has a December boarding stay six weeks  | Ch 9 |  |
+| Wellington's first full overnight boarding stay in December  | Ch 10 |  |
+
+---
+
+*Outline rebuilt from actual chapters, Cycle 5.*
