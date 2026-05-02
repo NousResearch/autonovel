@@ -102,3 +102,4 @@ b548e4e	rev-ch11	8.0	1573	keep	Cycle 1: momentum_loss improved 7.2->8.0
 55f248c	rev-ch08	7.61	1437	keep	Cycle 1: cut_candidate improved 6.7->7.61
 ba30d27	rev-ch12	7.7	1540	keep	Cycle 1: momentum_loss improved 6.4->7.7
 1bfe9ca	revision-cycle-1	9.0	55629	cycle	Cycle 1: novel_score 0.0->9.0
+479e95a	rev-ch11	8.0	995	keep	Cycle 2: momentum_loss improved 8.0->8.0
