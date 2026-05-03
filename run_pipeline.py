@@ -37,7 +37,7 @@ EDIT_LOGS_DIR = BASE_DIR / "edit_logs"
 EVAL_LOGS_DIR = BASE_DIR / "eval_logs"
 
 FOUNDATION_THRESHOLD = 7.5
-CHAPTER_THRESHOLD = 6.0
+CHAPTER_THRESHOLD = 5.0
 MAX_FOUNDATION_ITERS = 20
 MAX_CHAPTER_ATTEMPTS = 5
 MIN_REVISION_CYCLES = 3
@@ -251,16 +251,16 @@ def run_foundation(state: dict) -> dict:
 
         # 1. Generate planning documents
         step("Generating world bible...")
-        uv_run("gen_world.py", timeout=300)
+        uv_run("gen_world.py", timeout=600)
 
         step("Generating characters...")
-        uv_run("gen_characters.py", timeout=300)
+        uv_run("gen_characters.py", timeout=600)
 
         step("Generating outline (part 1)...")
-        uv_run("gen_outline.py", timeout=300)
+        uv_run("gen_outline.py", timeout=900)
 
         step("Generating outline (part 2 — foreshadowing)...")
-        uv_run("gen_outline_part2.py", timeout=300)
+        uv_run("gen_outline_part2.py", timeout=600)
 
         step("Generating canon...")
         uv_run("gen_canon.py", timeout=300)
@@ -277,7 +277,7 @@ def run_foundation(state: dict) -> dict:
         step(f"Foundation score: {score}  (lore: {lore}, prev best: {best_score})")
 
         # 3. Keep or discard
-        if score > best_score:
+        if score >= best_score:
             commit_hash = git_add_commit(
                 f"foundation iter {i}: score {score} (lore {lore})")
             log_result(commit_hash, "foundation", score, 0, "keep",

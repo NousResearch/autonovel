@@ -149,6 +149,9 @@ def main():
     
     # Compute novel-wide averages
     all_vals = list(results.values())
+    if not all_vals:
+        print("No chapters found, skipping fingerprint.", file=sys.stderr)
+        raise SystemExit(0)
     avg = {}
     for key in all_vals[0]:
         vals = [r[key] for r in all_vals]

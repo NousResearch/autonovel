@@ -1,1 +1,113 @@
 timestamp	phase	score	words	keep_discard	description
+discarded	foundation	0.0	0	discard	Iteration 1: no improvement (0.0 <= 0.0)
+3f62817	foundation	0.0	0	keep	Iteration 1: score improved 0.0 -> 0.0
+af2d76b	foundation	0.0	0	keep	Iteration 1: score improved 0.0 -> 0.0
+0314c38	foundation	0.0	0	keep	Iteration 1: score improved 0.0 -> 0.0
+2ec6c78	foundation	0.0	0	keep	Iteration 2: score improved 0.0 -> 0.0
+54640a0	foundation	0.0	0	keep	Iteration 3: score improved 0.0 -> 0.0
+5a68eb0	foundation	0.0	0	keep	Iteration 4: score improved 0.0 -> 0.0
+142f722	foundation	0.0	0	keep	Iteration 5: score improved 0.0 -> 0.0
+0cff404	foundation	0.0	0	keep	Iteration 6: score improved 0.0 -> 0.0
+0d753ec	foundation	0.0	0	keep	Iteration 7: score improved 0.0 -> 0.0
+32e4f09	foundation	0.0	0	keep	Iteration 8: score improved 0.0 -> 0.0
+6a7e349	foundation	0.0	0	keep	Iteration 9: score improved 0.0 -> 0.0
+37ac5e5	foundation	0.0	0	keep	Iteration 10: score improved 0.0 -> 0.0
+7cab306	foundation	0.0	0	keep	Iteration 11: score improved 0.0 -> 0.0
+a624f90	foundation	0.0	0	keep	Iteration 12: score improved 0.0 -> 0.0
+7d96ca0	foundation	0.0	0	keep	Iteration 13: score improved 0.0 -> 0.0
+5b8e64c	foundation	6.0	0	keep	Iteration 1: score improved 0.0 -> 6.0
+788f03b	foundation	6.0	0	keep	Iteration 2: score improved 6.0 -> 6.0
+discarded	foundation	-1.0	0	discard	Iteration 20: no improvement (-1.0 <= 6.0)
+fe30477	revision-cycle-1	0.0	0	cycle	Cycle 1: novel_score 0.0->0.0
+4faee42	revision-cycle-2	0.0	0	cycle	Cycle 2: novel_score 0.0->0.0
+1b4f4a2	revision-cycle-3	0.0	0	cycle	Cycle 3: novel_score 0.0->0.0
+da1e81f	export	0.0	0	export	Final export
+discarded	ch01	5.5	3196	discard	Chapter 1 attempt 1
+discarded	ch01	2.7	3216	discard	Chapter 1 attempt 2
+discarded	ch01	5.8	2944	discard	Chapter 1 attempt 3
+discarded	ch01	5.0	2635	discard	Chapter 1 attempt 4
+3d6993e	ch01	6.5	2920	keep	Chapter 1 (attempt 5)
+46bd48c	ch02	8.0	3413	keep	Chapter 2 (attempt 1)
+7b51180	ch03	7.0	2719	keep	Chapter 3 (attempt 1)
+discarded	ch04	5.2	3346	discard	Chapter 4 attempt 1
+2ba590f	ch04	7.2	3723	keep	Chapter 4 (attempt 2)
+e7cf583	ch05	7.0	3314	keep	Chapter 5 (attempt 1)
+623ca11	ch06	8.0	3002	keep	Chapter 6 (attempt 1)
+discarded	ch07	4.5	3506	discard	Chapter 7 attempt 1
+f7bf413	ch07	6.5	3651	keep	Chapter 7 (attempt 2)
+discarded	ch08	4.7	3266	discard	Chapter 8 attempt 1
+discarded	ch08	5.4	3511	discard	Chapter 8 attempt 2
+9232fd2	ch08	6.7	3164	keep	Chapter 8 (attempt 3)
+8841c28	ch09	8.0	3098	keep	Chapter 9 (attempt 1)
+b8da0f2	ch10	6.0	3716	keep	Chapter 10 (attempt 1)
+d02f2d8	ch11	7.0	2462	keep	Chapter 11 (attempt 1)
+discarded	ch12	4.4	3885	discard	Chapter 12 attempt 1
+0e6d1b3	ch12	6.8	3823	keep	Chapter 12 (attempt 2)
+3a65897	ch13	7.0	2888	keep	Chapter 13 (attempt 1)
+ba60bf5	ch14	6.7	2810	keep	Chapter 14 (attempt 1)
+547dacf	ch15	6.0	3372	keep	Chapter 15 (attempt 1)
+07371b9	ch16	7.8	3318	keep	Chapter 16 (attempt 1)
+79eed3a	ch17	7.0	3023	keep	Chapter 17 (attempt 1)
+dcdded1	ch18	7.0	2804	keep	Chapter 18 (attempt 1)
+discarded	ch19	5.27	3151	discard	Chapter 19 attempt 1
+3646100	ch19	7.0	2917	keep	Chapter 19 (attempt 2)
+discarded	ch20	5.7	3021	discard	Chapter 20 attempt 1
+discarded	ch20	4.8	3012	discard	Chapter 20 attempt 2
+b2a22ee	ch20	6.0	3149	keep	Chapter 20 (attempt 3)
+8155d28	ch21	7.0	3029	keep	Chapter 21 (attempt 1)
+748357c	ch22	7.7	2598	keep	Chapter 22 (attempt 1)
+discarded	ch23	5.0	3808	discard	Chapter 23 attempt 1
+73bc2a6	ch23	8.0	3311	keep	Chapter 23 (attempt 2)
+b8b0cf8	ch24	7.0	2682	keep	Chapter 24 (attempt 1)
+0ed9441	revision-cycle-1	6.0	72028	cycle	Cycle 1: novel_score 0.0->6.0
+3050421	revision-cycle-2	6.0	69359	cycle	Cycle 2: novel_score 6.0->6.0
+f83449a	revision-cycle-3	5.0	67863	cycle	Cycle 3: novel_score 6.0->5.0
+0087f21	revision-cycle-4	6.0	66604	cycle	Cycle 4: novel_score 5.0->6.0
+50f707d	revision-cycle-5	6.0	65983	cycle	Cycle 5: novel_score 6.0->6.0
+ec4f427	export	6.0	65926	export	Final export
+182224a	foundation	5.0	0	keep	Iteration 1: score improved 0.0 -> 5.0
+discarded	foundation	4.0	0	discard	Iteration 4: no improvement (4.0 <= 5.0)
+discarded	foundation	5.0	0	discard	Iteration 2: no improvement (5.0 <= 6.0)
+e630558	foundation	6.0	0	keep	Iteration 3: score improved 6.0 -> 6.0
+55d7815	foundation	6.0	0	keep	Iteration 4: score improved 6.0 -> 6.0
+61526e3	foundation	6.0	0	keep	Iteration 5: score improved 6.0 -> 6.0
+cc379a0	foundation	6.0	0	keep	Iteration 6: score improved 6.0 -> 6.0
+137489e	foundation	8.0	0	keep	Iteration 7: score improved 6.0 -> 8.0
+9530989	ch01	8.0	2304	keep	Chapter 1 (attempt 1)
+cc9e425	ch02	8.0	2218	keep	Chapter 2 (attempt 1)
+0faf127	ch03	6.7	2684	keep	Chapter 3 (attempt 1)
+0173a73	ch04	7.0	3048	keep	Chapter 4 (attempt 1)
+9493d6b	ch05	8.0	2349	keep	Chapter 5 (attempt 1)
+1305db0	ch06	8.0	2676	keep	Chapter 6 (attempt 1)
+ceabbaf	ch07	8.0	2323	keep	Chapter 7 (attempt 1)
+17a10ae	ch08	7.7	3055	keep	Chapter 8 (attempt 1)
+b39452c	ch09	7.0	2975	keep	Chapter 9 (attempt 1)
+482e793	ch10	6.3	3465	keep	Chapter 10 (attempt 1)
+afce7a4	ch11	6.2	2875	keep	Chapter 11 (attempt 1)
+e7d7cce	ch12	7.4	2869	keep	Chapter 12 (attempt 1)
+57b1523	ch13	7.0	2861	keep	Chapter 13 (attempt 1)
+68b6dd5	ch14	7.0	2521	keep	Chapter 14 (attempt 1)
+dd5ac88	ch15	8.0	2340	keep	Chapter 15 (attempt 1)
+64ae1a3	ch16	7.0	2498	keep	Chapter 16 (attempt 1)
+9bb92bc	ch17	8.0	2814	keep	Chapter 17 (attempt 1)
+8d73917	ch18	8.0	2792	keep	Chapter 18 (attempt 1)
+549dc35	ch19	8.0	2822	keep	Chapter 19 (attempt 1)
+2da65cc	ch20	7.5	3335	keep	Chapter 20 (attempt 1)
+7fd6742	ch21	7.7	3077	keep	Chapter 21 (attempt 1)
+09dcc23	ch22	7.8	2563	keep	Chapter 22 (attempt 1)
+e637ecf	ch23	7.8	3205	keep	Chapter 23 (attempt 1)
+e4fe8a8	ch24	8.0	3205	keep	Chapter 24 (attempt 1)
+reverted	rev-ch10	6.0	1268	discard	Cycle 1: momentum_loss regressed 6.3->6.0
+b548e4e	rev-ch11	8.0	1573	keep	Cycle 1: momentum_loss improved 7.2->8.0
+55f248c	rev-ch08	7.61	1437	keep	Cycle 1: cut_candidate improved 6.7->7.61
+ba30d27	rev-ch12	7.7	1540	keep	Cycle 1: momentum_loss improved 6.4->7.7
+1bfe9ca	revision-cycle-1	9.0	55629	cycle	Cycle 1: novel_score 0.0->9.0
+479e95a	rev-ch11	8.0	995	keep	Cycle 2: momentum_loss improved 8.0->8.0
+81a1715	rev-ch09	7.0	1242	keep	Cycle 2: cut_candidate improved 6.72->7.0
+reverted	rev-ch03	6.2	2204	discard	Cycle 2: thinnest_character regressed 6.7->6.2
+de030a1	rev-ch13	7.0	1261	keep	Cycle 2: momentum_loss improved 7.0->7.0
+reverted	rev-ch08	7.48	717	discard	Cycle 3: cut_candidate regressed 8.0->7.48
+9d5ebc1	rev-ch02	7.8	1639	keep	Cycle 3: thinnest_character improved 7.0->7.8
+bc81e03	rev-ch11	8.0	730	keep	Cycle 3: momentum_loss improved 7.0->8.0
+0d6e38b	rev-ch10	6.3	1852	keep	Cycle 3: momentum_loss improved 6.3->6.3
+9ec1f42	revision-cycle-3	9.0	46324	cycle	Cycle 3: novel_score 9.0->9.0
