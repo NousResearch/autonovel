@@ -80,6 +80,10 @@ READERS = {
 
 def get_novel_stats(state_path=None):
     """Get novel stats from state.json or environment, with fallbacks."""
+    import logging
+    logger = logging.getLogger(__name__)
+    logger.setLevel(logging.WARNING)
+    
     if state_path is None:
         state_path = BASE_DIR / "state.json"
     else:
@@ -93,8 +97,8 @@ def get_novel_stats(state_path=None):
             chapter_count = state.get("chapters_total", 0)
             if word_count and chapter_count:
                 return word_count, chapter_count
-        except (json.JSONDecodeError, IOError):
-            pass
+        except (json.JSONDecodeError, IOError) as e:
+            logger.warning(f"Failed to load stats from {state_path}: {e}")
     
     word_count = int(os.environ.get("AUTONOVEL_TOTAL_WORDS", "0"))
     chapter_count = int(os.environ.get("AUTONOVEL_TOTAL_CHAPTERS", "0"))

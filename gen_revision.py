@@ -21,6 +21,10 @@ API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
 
 def get_novel_title(state_path=None):
     """Get novel title from state.json or environment, with fallback."""
+    import logging
+    logger = logging.getLogger(__name__)
+    logger.setLevel(logging.WARNING)
+    
     if state_path is None:
         state_path = BASE_DIR / "state.json"
     else:
@@ -33,8 +37,8 @@ def get_novel_title(state_path=None):
             title = state.get("novel_title", "").strip()
             if title:
                 return title
-        except (json.JSONDecodeError, IOError):
-            pass
+        except (json.JSONDecodeError, IOError) as e:
+            logger.warning(f"Failed to load title from {state_path}: {e}")
     
     title = os.environ.get("AUTONOVEL_NOVEL_TITLE", "").strip()
     if title:

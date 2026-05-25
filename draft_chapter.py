@@ -78,11 +78,29 @@ def call_writer(prompt, max_tokens=16000):
     return resp.json()["content"][0]["text"]
 
 
+"""
+Generic Formula: SECURE_EXCEPTION_HANDLING
+Expression: λ(exception, fallback, message) → (log_warning(message), return fallback)
+
+Parameters:
+    - exception: The caught exception object
+    - fallback: Value to return on error
+    - message: Human-readable warning message for logging
+    
+Security: Always log before returning fallback to avoid silent failures.
+"""
+import logging
+logger = logging.getLogger(__name__)
+
 def load_file(path):
-    """Load a file, returning empty string if not found."""
+    """Load a file, returning empty string if not found. Logs warning on error."""
     try:
         return Path(path).read_text()
     except FileNotFoundError:
+        logger.warning(f"File not found: {path}, returning empty string")
+        return ""
+    except IOError as e:
+        logger.warning(f"IO error reading {path}: {e}, returning empty string")
         return ""
 
 
