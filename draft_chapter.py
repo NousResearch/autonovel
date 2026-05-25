@@ -2,10 +2,14 @@
 """
 Draft a single chapter using the writer model.
 Usage: python draft_chapter.py 1
+       python draft_chapter.py 1 --title "My Novel"
+       python draft_chapter.py 1 --state /path/to/state.json
 """
 import os
 import re
 import sys
+import json
+import argparse
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -17,7 +21,33 @@ API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
 CHAPTERS_DIR = BASE_DIR / "chapters"
 
+
+def get_novel_title(state_path=None):
+    """Get novel title from state.json or environment, with fallback."""
+    if state_path is None:
+        state_path = BASE_DIR / "state.json"
+    else:
+        state_path = Path(state_path)
+    
+    if state_path.exists():
+        try:
+            with open(state_path) as f:
+                state = json.load(f)
+            title = state.get("novel_title", "").strip()
+            if title:
+                return title
+        except (json.JSONDecodeError, IOError):
+            pass
+    
+    title = os.environ.get("AUTONOVEL_NOVEL_TITLE", "").strip()
+    if title:
+        return title
+    
+    return "Untitled Novel"
+
+
 def call_writer(prompt, max_tokens=16000):
+    """Draft a single chapter of the novel."""
     import httpx
     headers = {
         "x-api-key": API_KEY,
@@ -40,21 +70,28 @@ def call_writer(prompt, max_tokens=16000):
         ),
         "messages": [{"role": "user", "content": prompt}],
     }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=600)
+    if API_BASE:
+        resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=600)
+    else:
+        resp = httpx.post("https://api.anthropic.com/v1/messages", headers=headers, json=payload, timeout=600)
     resp.raise_for_status()
     return resp.json()["content"][0]["text"]
 
+
 def load_file(path):
+    """Load a file, returning empty string if not found."""
     try:
         return Path(path).read_text()
     except FileNotFoundError:
         return ""
+
 
 def extract_chapter_outline(outline_text, chapter_num):
     """Extract a specific chapter's outline entry."""
     pattern = rf'### Ch {chapter_num}:.*?(?=### Ch {chapter_num + 1}:|## Foreshadowing|$)'
     match = re.search(pattern, outline_text, re.DOTALL)
     return match.group(0).strip() if match else "(not found)"
+
 
 def extract_next_chapter_outline(outline_text, chapter_num):
     """Extract the next chapter's outline (just first few lines for continuity)."""
@@ -64,9 +101,9 @@ def extract_next_chapter_outline(outline_text, chapter_num):
     lines = next_entry.split('\n')[:10]
     return '\n'.join(lines)
 
-def main():
-    chapter_num = int(sys.argv[1])
-    
+
+def draft_chapter(chapter_num, novel_title):
+    """Draft a single chapter with the given chapter number and novel title."""
     # Load all context
     voice = load_file(BASE_DIR / "voice.md")
     world = load_file(BASE_DIR / "world.md")
@@ -86,7 +123,7 @@ def main():
     else:
         prev_tail = "(first chapter -- no previous)"
     
-    prompt = f"""Write Chapter {chapter_num} of "The Second Son of the House of Bells."
+    prompt = f"""Write Chapter {chapter_num} of "{novel_title}"
 
 VOICE DEFINITION (follow this exactly):
 {voice}
@@ -154,7 +191,7 @@ PATTERNS TO AVOID (these have been flagged in previous chapters):
 Write the chapter now. Full text, beginning to end.
 """
 
-    print(f"Drafting Chapter {chapter_num}...", file=sys.stderr)
+    print(f"Drafting Chapter {chapter_num} of \"{novel_title}\"...", file=sys.stderr)
     result = call_writer(prompt)
     
     # Save
@@ -163,6 +200,20 @@ Write the chapter now. Full text, beginning to end.
     print(f"Saved to {out_path}", file=sys.stderr)
     print(f"Word count: {len(result.split())}", file=sys.stderr)
     print(result)
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Draft a chapter")
+    parser.add_argument("chapter", type=int, help="Chapter number")
+    parser.add_argument("--title", type=str, default=None, help="Override novel title")
+    parser.add_argument("--state", type=str, default=None, help="Path to state.json")
+    args = parser.parse_args()
+    
+    chapter_num = args.chapter
+    novel_title = args.title if args.title else get_novel_title(args.state)
+    
+    draft_chapter(chapter_num, novel_title)
+
 
 if __name__ == "__main__":
     main()
