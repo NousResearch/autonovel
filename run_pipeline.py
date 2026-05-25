@@ -116,13 +116,25 @@ def step(text: str):
 def run_tool(cmd: str, timeout: int = 600, check: bool = False) -> subprocess.CompletedProcess:
     """
     Run a tool as a subprocess, capturing output.
-    Uses shell=True so callers can pass full command strings.
-    Returns CompletedProcess; never raises unless check=True.
+    
+    Security: Uses list-based subprocess.run() instead of shell=True
+    to prevent command injection attacks.
+    
+    Supports both simple commands (str) and list-based commands.
+    For string commands, automatically splits using shell-like parsing.
     """
+    import shlex
     step(f"RUN: {cmd}")
     try:
+        # Convert string to list if needed for shell safety
+        if isinstance(cmd, str):
+            # Use shlex.split to safely parse the command
+            cmd_list = shlex.split(cmd)
+        else:
+            cmd_list = cmd
+        
         result = subprocess.run(
-            cmd, shell=True, capture_output=True, text=True,
+            cmd_list, shell=False, capture_output=True, text=True,
             timeout=timeout, cwd=str(BASE_DIR),
         )
         if result.returncode != 0:
