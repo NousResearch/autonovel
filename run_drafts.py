@@ -6,7 +6,12 @@ import re
 import json
 
 def run(cmd, timeout=600):
-    r = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=timeout)
+    import shlex
+    if isinstance(cmd, str):
+        cmd_list = shlex.split(cmd)
+    else:
+        cmd_list = cmd
+    r = subprocess.run(cmd_list, shell=False, capture_output=True, text=True, timeout=timeout)
     return r.stdout + r.stderr, r.returncode
 
 def slop_check(ch):

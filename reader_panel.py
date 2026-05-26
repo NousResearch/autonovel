@@ -5,6 +5,7 @@ Each reader has a distinct persona and evaluates the NOVEL, not chapters.
 The disagreements between readers are where editorial decisions live.
 
 Usage: python reader_panel.py
+       python reader_panel.py --state /path/to/state.json
 """
 import os
 import sys
@@ -76,10 +77,43 @@ READERS = {
     },
 }
 
-READER_PROMPT = """You have just read a complete fantasy novel in summary form.
+
+def get_novel_stats(state_path=None):
+    """Get novel stats from state.json or environment, with fallbacks."""
+    import logging
+    logger = logging.getLogger(__name__)
+    logger.setLevel(logging.WARNING)
+    
+    if state_path is None:
+        state_path = BASE_DIR / "state.json"
+    else:
+        state_path = Path(state_path)
+    
+    if state_path.exists():
+        try:
+            with open(state_path) as f:
+                state = json.load(f)
+            word_count = state.get("total_words", 0)
+            chapter_count = state.get("chapters_total", 0)
+            if word_count and chapter_count:
+                return word_count, chapter_count
+        except (json.JSONDecodeError, IOError) as e:
+            logger.warning(f"Failed to load stats from {state_path}: {e}")
+    
+    word_count = int(os.environ.get("AUTONOVEL_TOTAL_WORDS", "0"))
+    chapter_count = int(os.environ.get("AUTONOVEL_TOTAL_CHAPTERS", "0"))
+    if word_count and chapter_count:
+        return word_count, chapter_count
+    
+    return 72000, 24  # Sensible defaults
+
+
+def build_reader_prompt(arc_summary, word_count, chapter_count):
+    """Build the reader prompt with dynamic stats."""
+    return f"""You have just read a complete fantasy novel in summary form.
 The summaries include chapter-by-chapter events, opening and closing passages
-from each chapter, and key dialogue. The full novel is 72,422 words across
-24 chapters.
+from each chapter, and key dialogue. The full novel is {word_count:,} words across
+{chapter_count} chapters.
 
 {arc_summary}
 
@@ -107,10 +141,11 @@ Respond with JSON:
   "haunts_you": "Is there a line or moment that stays with you after reading? Quote it.",
   
   "next_book": "Would you read the author's next book? Why or why not?"
-}}
-"""
+}}"""
 
-def call_reader(reader_key, arc_summary):
+
+def call_reader(reader_key, arc_summary, word_count, chapter_count):
+    """Call a reader to evaluate the novel."""
     import httpx
     reader = READERS[reader_key]
     headers = {
@@ -121,15 +156,15 @@ def call_reader(reader_key, arc_summary):
     payload = {
         "model": JUDGE_MODEL,
         "max_tokens": 4000,
-        "temperature": 0.7,  # Higher temp for personality
+        "temperature": 0.7,
         "system": reader["system"],
-        "messages": [{"role": "user", "content": READER_PROMPT.format(arc_summary=arc_summary)}],
+        "messages": [{"role": "user", "content": build_reader_prompt(arc_summary, word_count, chapter_count)}],
     }
     resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
     resp.raise_for_status()
     raw = resp.json()["content"][0]["text"]
     
-    # Parse JSON
+    # Parse JSON - robust parser
     raw = raw.strip()
     if raw.startswith("```"):
         raw = re.sub(r'^```\w*\n?', '', raw)
@@ -151,6 +186,7 @@ def call_reader(reader_key, arc_summary):
                 if depth == 0:
                     return json.loads(raw[start:i+1], strict=False)
     return json.loads(raw, strict=False)
+
 
 def find_disagreements(results):
     """Find where readers disagree -- that's where the editorial decisions live."""
@@ -183,8 +219,15 @@ def find_disagreements(results):
     
     return disagreements
 
+
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="Run 4-reader panel evaluation")
+    parser.add_argument("--state", type=str, default=None, help="Path to state.json")
+    args = parser.parse_args()
+    
     arc_summary = (BASE_DIR / "arc_summary.md").read_text()
+    word_count, chapter_count = get_novel_stats(args.state)
     
     results = {}
     for reader_key, reader_info in READERS.items():
@@ -193,7 +236,7 @@ def main():
         print(f"{'='*50}")
         
         try:
-            result = call_reader(reader_key, arc_summary)
+            result = call_reader(reader_key, arc_summary, word_count, chapter_count)
             results[reader_key] = result
             
             # Print highlights
@@ -233,12 +276,14 @@ def main():
     output = {
         "readers": results,
         "disagreements": disagreements,
-        "timestamp": datetime.now().isoformat()
+        "timestamp": datetime.now().isoformat(),
+        "novel_stats": {"word_count": word_count, "chapter_count": chapter_count},
     }
     out_path = BASE_DIR / "edit_logs" / "reader_panel.json"
     with open(out_path, "w") as f:
         json.dump(output, f, indent=2)
     print(f"\nSaved to {out_path}")
+
 
 if __name__ == "__main__":
     main()
