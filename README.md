@@ -13,6 +13,14 @@ See the `autonovel/bells` branch.
 
 ---
 
+## For Existing Books
+
+Already have a manuscript? See:
+- [EXISTING_BOOKS.md](EXISTING_BOOKS.md) — how to run evaluation and revision on written books
+- [PRE_PUBLICATION_CHECKLIST.md](PRE_PUBLICATION_CHECKLIST.md) — manual quality checks based on the pipeline's craft frameworks
+
+---
+
 ## Quick Start
 
 ```bash
