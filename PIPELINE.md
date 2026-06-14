@@ -109,7 +109,13 @@ INPUT:  seed.txt (user-provided or generated via seed.py)
 OUTPUT: branch created, .env configured
 
 1. git checkout -b autonovel/<tag>
-2. Verify .env has ANTHROPIC_API_KEY
+2. Verify .env points at the local 9router endpoint:
+   AUTONOVEL_API_BASE_URL=http://localhost:20128/v1
+   AUTONOVEL_API_PROVIDER=openai
+   AUTONOVEL_API_KEY=local
+   AUTONOVEL_WRITER_MODEL=openrouter/nex-agi/nex-n2-pro:free
+   AUTONOVEL_JUDGE_MODEL=openrouter/nex-agi/nex-n2-pro:free
+   AUTONOVEL_REVIEW_MODEL=openrouter/nex-agi/nex-n2-pro:free
 3. Verify seed.txt exists and is specific enough
    (world-differentiator, central tension, cost/constraint, sensory hook)
 ```

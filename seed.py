@@ -14,105 +14,32 @@ import os
 import sys
 from pathlib import Path
 from dotenv import load_dotenv
+from llm_client import call_llm
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env")
 
-WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "claude-sonnet-4-6-20250217")
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE_URL = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
+WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "openrouter/nex-agi/nex-n2-pro:free")
+API_KEY = os.environ.get("AUTONOVEL_API_KEY", os.environ.get("ANTHROPIC_API_KEY", "local"))
+API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "http://localhost:20128/v1")
 ANTHROPIC_BETA = "context-1m-2025-08-07"
 
 
-def call_writer(prompt, max_tokens=4000):
-    import httpx
-    headers = {
-        "x-api-key": ANTHROPIC_API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": ANTHROPIC_BETA,
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 1.0,  # high temp for creative diversity
-        "system": (
-            "You are a fantasy novelist with deep knowledge of the genre's "
+def call_writer(prompt, max_tokens=16000):
+    return call_llm(
+        system=("You are a fantasy novelist with deep knowledge of the genre's "
             "best works -- Tolkien, Le Guin, Rothfuss, Wolfe, Jemisin, Peake, "
             "Susanna Clarke, Andrew Peterson, Sofia Samatar. You generate "
             "novel concepts that are SPECIFIC, SURPRISING, and STRUCTURALLY "
             "SOUND. You never propose generic medieval Europe + elves. Each "
-            "concept should make a reader think 'I've never seen THAT before.'"
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(
-        f"{API_BASE_URL}/v1/messages",
-        headers=headers,
-        json=payload,
-        timeout=120,
+            "concept should make a reader think 'I've never seen THAT before.'"),
+        prompt=prompt,
+        model=WRITER_MODEL,
+        max_tokens=max_tokens,
+        temperature=1.0,
+        api_base=API_BASE,
+        api_key=API_KEY,
     )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
-
-
-GENERATE_PROMPT = """Generate {count} fantasy novel seed concepts. Each should be
-a complete premise you could build a novel from.
-
-For EACH concept, provide:
-
-NUMBER. TITLE (a working title, evocative, not generic)
-HOOK: One sentence that would make someone pick up the book. Specific
-  and surprising, not "In a world where..."
-WORLD: What makes this world different? Not just "there's magic" but
-  what specific, unusual thing defines this place? Be concrete --
-  salt flats, inverted towers, cities that migrate, a sea that
-  remembers, whatever. Make it SENSORY.
-MAGIC/COST: What is the core speculative element and what does it
-  COST? Per Sanderson's Second Law, limitations > powers. The cost
-  should create interesting dilemmas.
-TENSION: What's the central conflict? It must be both PERSONAL (one
-  character's specific problem) and COSMIC (affects the world).
-  These two must be in tension with each other.
-THEME: What question does this story explore? Not a message -- a
-  genuine question with no easy answer.
-WHY IT'S NOT GENERIC: One sentence on what makes this different from
-  standard fantasy fare.
-
-Aim for DIVERSITY across the {count} concepts:
-  - At least one with a non-human-centric world
-  - At least one that's more literary/quiet than epic
-  - At least one with an unusual narrative structure idea
-  - At least one set outside the typical European-inspired setting
-  - Mix of tones: dark, warm, weird, melancholy, whimsical
-
-DO NOT generate:
-  - Chosen one prophecies (unless subverted in an interesting way)
-  - Dark lord / ultimate evil as the main antagonist
-  - Medieval Europe + elves/dwarves/orcs
-  - "Academy" or "school for magic" settings
-  - Love triangles as the central plot
-"""
-
-RIFF_PROMPT = """I have a seed idea for a fantasy novel:
-
-"{idea}"
-
-Generate 5 variations on this concept. Keep what's interesting about
-the core idea but push it in different directions. For each variation:
-
-NUMBER. TITLE
-HOOK: One sentence.
-HOW IT DIFFERS: What did you change from the original seed and why?
-WORLD: Concrete, sensory world details.
-MAGIC/COST: The speculative element and its cost.
-TENSION: Personal + cosmic conflict.
-THEME: The question it explores.
-
-Make the variations genuinely different from each other -- don't just
-tweak surface details. Change the protagonist, the setting, the tone,
-the structure, the thematic focus.
-"""
 
 
 def main():
@@ -123,8 +50,8 @@ def main():
                         help="Riff on an existing idea")
     args = parser.parse_args()
 
-    if not ANTHROPIC_API_KEY:
-        print("ERROR: Set ANTHROPIC_API_KEY in .env first")
+    if not API_KEY:
+        print("ERROR: Set API_KEY in .env first")
         sys.exit(1)
 
     if args.riff:

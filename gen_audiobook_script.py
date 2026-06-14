@@ -18,13 +18,14 @@ import json
 import re
 from pathlib import Path
 from dotenv import load_dotenv
+from llm_client import call_llm
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env", override=True)
 
-WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "claude-sonnet-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
+WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "openrouter/nex-agi/nex-n2-pro:free")
+API_KEY = os.environ.get("AUTONOVEL_API_KEY", os.environ.get("ANTHROPIC_API_KEY", "local"))
+API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "http://localhost:20128/v1")
 
 CHAPTERS_DIR = BASE_DIR / "chapters"
 AUDIO_DIR = BASE_DIR / "audiobook"
@@ -66,27 +67,15 @@ Rules:
 
 
 def call_claude(prompt, max_tokens=8000):
-    import httpx
-    resp = httpx.post(
-        f"{API_BASE}/v1/messages",
-        headers={
-            "x-api-key": API_KEY,
-            "anthropic-version": "2023-06-01",
-            "anthropic-beta": "context-1m-2025-08-07",
-            "content-type": "application/json",
-        },
-        json={
-            "model": WRITER_MODEL,
-            "max_tokens": max_tokens,
-            "temperature": 0.1,
-            "messages": [{"role": "user", "content": prompt}],
-        },
-        timeout=300,
+    return call_llm(
+        system='You are parsing a novel chapter into an audiobook script. Break text into speaker-attributed segments and optional audio tags.',
+        prompt=prompt,
+        model=WRITER_MODEL,
+        max_tokens=max_tokens,
+        temperature=0.1,
+        api_base=API_BASE,
+        api_key=API_KEY,
     )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
-
-
 def parse_chapter(ch_num):
     """Parse a chapter into speaker-attributed segments."""
     ch_path = CHAPTERS_DIR / f"ch_{ch_num:02d}.md"

@@ -13,13 +13,14 @@ import re
 from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
+from llm_client import call_llm
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env")
 
-JUDGE_MODEL = os.environ.get("AUTONOVEL_JUDGE_MODEL", "claude-opus-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
+JUDGE_MODEL = os.environ.get("AUTONOVEL_JUDGE_MODEL", "openrouter/nex-agi/nex-n2-pro:free")
+API_KEY = os.environ.get("AUTONOVEL_API_KEY", os.environ.get("ANTHROPIC_API_KEY", "local"))
+API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "http://localhost:20128/v1")
 
 READERS = {
     "editor": {
@@ -111,47 +112,16 @@ Respond with JSON:
 """
 
 def call_reader(reader_key, arc_summary):
-    import httpx
     reader = READERS[reader_key]
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": JUDGE_MODEL,
-        "max_tokens": 4000,
-        "temperature": 0.7,  # Higher temp for personality
-        "system": reader["system"],
-        "messages": [{"role": "user", "content": READER_PROMPT.format(arc_summary=arc_summary)}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
-    resp.raise_for_status()
-    raw = resp.json()["content"][0]["text"]
-    
-    # Parse JSON
-    raw = raw.strip()
-    if raw.startswith("```"):
-        raw = re.sub(r'^```\w*\n?', '', raw)
-        raw = re.sub(r'\n?```$', '', raw)
-    start = raw.find('{')
-    if start >= 0:
-        depth = 0
-        in_string = False
-        escape = False
-        for i in range(start, len(raw)):
-            c = raw[i]
-            if escape: escape = False; continue
-            if c == '\\' and in_string: escape = True; continue
-            if c == '"' and not escape: in_string = not in_string; continue
-            if in_string: continue
-            if c == '{': depth += 1
-            elif c == '}':
-                depth -= 1
-                if depth == 0:
-                    return json.loads(raw[start:i+1], strict=False)
-    return json.loads(raw, strict=False)
-
+    return call_llm(
+        system=reader["system"],
+        prompt=READER_PROMPT.format(arc_summary=arc_summary),
+        model=JUDGE_MODEL,
+        max_tokens=4000,
+        temperature=0.3,
+        api_base=API_BASE,
+        api_key=API_KEY,
+    )
 def find_disagreements(results):
     """Find where readers disagree -- that's where the editorial decisions live."""
     disagreements = []

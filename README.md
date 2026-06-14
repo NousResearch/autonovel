@@ -203,16 +203,27 @@ loop continues until the reviewer's items are mostly qualified hedges rather tha
 
 ## API Keys
 
-The pipeline uses three external services:
+The pipeline can use either Anthropic or any OpenAI-compatible local endpoint.
 
 | Service | Key | Used for |
 |---------|-----|----------|
-| Anthropic | `ANTHROPIC_API_KEY` | Writing, evaluation, review (Sonnet + Opus) |
+| Local 9router / OpenAI-compatible | `AUTONOVEL_API_KEY` optional, usually `local` | Writing, evaluation, review via `AUTONOVEL_API_BASE_URL` |
+| Anthropic | `ANTHROPIC_API_KEY` | Optional fallback when `AUTONOVEL_API_PROVIDER=anthropic` |
 | fal.ai | `FAL_KEY` | Cover art and ornament generation (Nano Banana 2) |
 | ElevenLabs | `ELEVENLABS_API_KEY` | Multi-voice audiobook generation |
 
-Copy `.env.example` to `.env` and fill in your keys. Only the Anthropic
-key is required for the core pipeline. Art and audiobook are optional.
+Default local 9router settings in `.env.example`:
+
+```text
+AUTONOVEL_API_BASE_URL=http://localhost:20128/v1
+AUTONOVEL_API_PROVIDER=openai
+AUTONOVEL_API_KEY=local
+AUTONOVEL_WRITER_MODEL=openrouter/nex-agi/nex-n2-pro:free
+AUTONOVEL_JUDGE_MODEL=openrouter/nex-agi/nex-n2-pro:free
+AUTONOVEL_REVIEW_MODEL=openrouter/nex-agi/nex-n2-pro:free
+```
+
+Copy `.env.example` to `.env` and fill in your keys. Only the LLM endpoint is required for the core pipeline. Art and audiobook are optional.
 
 ---
 

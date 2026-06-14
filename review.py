@@ -19,14 +19,15 @@ import argparse
 from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
+from llm_client import call_llm
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env", override=True)
 
 # Use Opus for reviews — it's the best at literary analysis
-REVIEW_MODEL = os.environ.get("AUTONOVEL_REVIEW_MODEL", "claude-opus-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
+REVIEW_MODEL = os.environ.get("AUTONOVEL_REVIEW_MODEL", "openrouter/nex-agi/nex-n2-pro:free")
+API_KEY = os.environ.get("AUTONOVEL_API_KEY", os.environ.get("ANTHROPIC_API_KEY", "local"))
+API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "http://localhost:20128/v1")
 
 CHAPTERS_DIR = BASE_DIR / "chapters"
 LOGS_DIR = BASE_DIR / "edit_logs"
@@ -37,29 +38,15 @@ REVIEW_PROMPT = """Read the below novel, "{title}". Review it first as a literar
 
 
 def call_opus(prompt, max_tokens=8000):
-    """Call Opus with the full manuscript."""
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": "context-1m-2025-08-07",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": REVIEW_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.3,
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    print(f"Sending to {REVIEW_MODEL} ({len(prompt):,} chars)...", file=sys.stderr)
-    resp = httpx.post(
-        f"{API_BASE}/v1/messages",
-        headers=headers, json=payload, timeout=600,
+    return call_llm(
+        system='You are a literary critic and professor of fiction reviewing a novel. Be fair, specific, and actionable.',
+        prompt=prompt,
+        model=REVIEW_MODEL,
+        max_tokens=max_tokens,
+        temperature=0.3,
+        api_base=API_BASE,
+        api_key=API_KEY,
     )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
-
-
 def get_title():
     """Extract novel title from first chapter or outline."""
     outline = BASE_DIR / "outline.md"
