@@ -2160,57 +2160,39 @@ Still nothing.
 
 Barnaby smiled. "Technical difficulties. The enemy of every villain."
 
-Simba's ears flattened. "The signal is delayed."
+Simba's ears flattened. "Do not mistake malfunction for mercy."
 
-Maya's scrambler buzzed inside the box. The red light flickered blue, then green, then blue again.
+He slapped the box with both paws. The transmitter gave a tiny buzz, like a bee trapped in a biscuit tin.
 
-Below us, Riverstone blinked in pieces. Phone torches. Fairground bulbs. The police car lights winding through Daddy's cone spiral.
+Maya's scrambler blinked inside the side panel. The red light flickered blue, then green, then blue again.
 
-Then the transmitter crackled.
+"She's interfering," I said.
 
-Simba's voice burst across the ridge.
+Barnaby's tail thumped. "Splendidly."
 
-"Animals of Riverstone! Move now!"
+Below us, Riverstone blinked in pieces. Phone torches. Fairground bulbs. Police lights winding through Daddy's cone spiral. The festival band had stopped playing, which meant even the humans knew something had gone wrong.
 
-The cats around us surged forward.
+A voice crackled from the transmitter.
 
-Some ran downhill. Some ran sideways. One ran in a circle and bumped into another cat.
+"...animals... of... Riverstone..."
 
-Maya's jammer was working.
+Simba leapt onto the box. "Finally."
 
-Sort of.
+The signal broke apart.
 
-The signal came through broken and strange.
+"...move... now... left... no, right... biscuits... liberation... sausage..."
 
-"...food... freedom... biscuits... left... no, right... liberation... sausage..."
+A group of cats at the bottom stopped raiding the burger van. Another group started following a pigeon. Three cats argued with a hedgehog that had no idea it was part of a revolution.
 
 Barnaby tilted his head. "Did he just command them toward sausage?"
 
-I peered over the edge.
+I peered over the edge. "Maya's jammer is working."
 
-A group of cats had stopped beside a burger van. Another group was following a pigeon. Three cats were arguing with a hedgehog that had no idea what was happening.
+"How much time?"
 
-"It's garbled," I said.
+Maya's voice crackled through the tiny communicator clipped to Barnaby's collar. "Signal is down to thirty percent. Also, police are entering the festival."
 
-Simba shrieked. "Obey me!"
-
-The transmitter crackled again.
-
-"...obey... meow... left shoe... no, the bakery..."
-
-Henry the Horse snorted. "That cat has confused the hedgehog."
-
-Feathered Frank circled overhead. "The message is nonsense! Nonsense! Also the left shoe is innocent!"
-
-Barnaby looked at me. "Maya has bought us time."
-
-"How much?"
-
-He listened.
-
-"Not enough."
-
-Simba leapt onto the box and clawed at the side panel. "I will fix it myself."
+Simba's fur puffed out. "I will fix it myself."
 
 I moved to block him.
 
@@ -2248,11 +2230,7 @@ Feathered Frank flew above them, shouting, "Simba is a fraud! Simba is a fraud! 
 
 The cats at the bottom stopped.
 
-Some lowered their heads.
-
-Some looked embarrassed.
-
-One cat dropped a sack of cheese triangles.
+Some lowered their heads. Some looked embarrassed. One cat dropped a sack of cheese triangles.
 
 Barnaby watched from the transmitter platform. "The pigeons are effective."
 
@@ -2278,7 +2256,7 @@ Barnaby's ears pricked. "Oh, this is excellent."
 
 Duke looked up at Simba. "I'm muscle, not a fanatic."
 
-Simba's fur puffed out. "You swore loyalty."
+Simba's claws clicked against the transmitter box. "You swore loyalty."
 
 "I swore I would guard the ridge. I am guarding it from you."
 
@@ -2288,15 +2266,11 @@ Feathered Frank swooped lower. "Duke has defected! Duke has defected! Everyone a
 
 The Canine Resistance barked. Henry stamped. The cats scattered.
 
-Barnaby turned to me. "The loyalists."
-
-I looked at the animals climbing the ridge: dogs, pigeons, one horse, and a five-year-old who had somehow acquired a traffic cone.
-
-Lulu waved it above her head.
+Lulu appeared behind the dogs, waving a traffic cone above her head.
 
 "Mummy said I must stay on the path!" she shouted. "So I am on a path!"
 
-"That is not the same path," I called.
+"That is not the same path!" I called.
 
 "It is a path!"
 
@@ -2304,17 +2278,15 @@ Barnaby sighed. "The small human has a point."
 
 Simba backed toward the transmitter. "You think this changes anything? I still control the signal."
 
-Maya's voice crackled through Barnaby's collar speaker. We had clipped her tiny communicator to him before the climb.
+Maya's voice crackled again. "Signal is down to fifteen percent. Also, someone is stealing jam doughnuts from the festival stall."
 
-"Negative," Maya said. "Signal is down to thirty percent. Also, police are entering the festival."
+"That is probably Lulu," I said.
 
-Barnaby looked at me.
+"No," Lulu shouted. "That is probably justice!"
 
-I looked at Simba.
+For one second, even Simba looked confused.
 
-Simba looked at the transmitter.
-
-For the first time, he looked worried.
+Then he ran.
 
 **[Doodle: A wave of animals climbing Sentinel Ridge: Henry leading, dogs behind, Frank overhead. Caption: "THE LOYALISTS"]**
 
@@ -2322,9 +2294,7 @@ For the first time, he looked worried.
 
 Simba's elite guard surrounded the platform.
 
-There were six of them.
-
-Three were large. Two were fast. One wore a tiny black mask, which felt unnecessary.
+There were six of them. Three were large. Two were fast. One wore a tiny black mask, which felt unnecessary.
 
 Duke stepped onto the platform behind us.
 
@@ -2342,7 +2312,7 @@ Duke's jaw tightened. "I had to be sure."
 
 Barnaby snorted. "Romantic."
 
-Duke almost smiled. "Practical."
+"Practical."
 
 The masked cat sprang.
 
@@ -2356,11 +2326,7 @@ The cat stopped, confused.
 
 Barnaby barked. Duke stepped between us.
 
-Together, they moved.
-
-Not like friends. Not exactly.
-
-Like two people who had argued for years and suddenly discovered they agreed on the important bit.
+Together, they moved. Not like friends. Not exactly. Like two people who had argued for years and suddenly discovered they agreed on the important bit.
 
 Barnaby blocked left. Duke blocked right. A spaniel named Pip bit a tail, then apologised to it. Henry sneezed again, which cleared half the platform.
 
@@ -2422,9 +2388,7 @@ The salami Barnaby had once described as "the only cured meat with a future".
 
 Simba dragged it into the open with both paws.
 
-Barnaby stopped dead.
-
-"No," he whispered.
+Barnaby stopped dead. "No."
 
 Simba grinned. "You fight with clues. I fight with meat."
 
@@ -2446,9 +2410,7 @@ Barnaby stared after it. "That is a waste of excellent pork."
 
 "I am focusing on the tragedy."
 
-Simba used the distraction to leap toward the road.
-
-Police lights flashed below. Mummy's voice cut through the trees.
+Simba used the distraction to leap toward the road. Police lights flashed below. Mummy's voice cut through the trees.
 
 "Beatrice Chen! Stay exactly where you are!"
 

@@ -53,7 +53,8 @@
 8. ✅ Mystery progression — clues advance from accusation to human collaborators to transmitter sabotage.
 
 ### Remaining Work
-- Run full Autonovel evaluation when API access is available.
-- Expand shorter Act 3 chapters if desired during revision.
+- Full LLM-based Autonovel evaluation is still pending until API access is available.
+- Mechanical Autonovel slop evaluation has been run successfully with 0 penalty.
+- Act 3 chapters 20-25 have been expanded during revision.
 - Generate SVG doodles later; image tasks remain parked for now.
 - Add D2D ISBN only after publication assignment.
